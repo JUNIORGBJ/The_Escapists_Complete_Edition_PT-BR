@@ -1,0 +1,3569 @@
+Text ID	English
+Text.Inmates.Showers1	Eu gostaria de ser seu amigo...
+Text.Inmates.Showers2	Poderiamos ser amigos...
+Text.Inmates.Showers3	Passa o sabonete
+Text.Inmates.Showers4	Tá olhando o tigrão aqui?
+Text.Inmates.Showers5	Tá olhando o que?
+Text.Inmates.Showers6	Que merda de água fria!
+Text.Inmates.Showers7	Tu tá invadindo meu espaço...
+Text.Inmates.Showers8	Sabia que seus interesses iam além de olhar
+Text.Inmates.Showers9	Olha pra frente, tapado.
+Text.Inmates.Showers10	Xiu...
+Text.Inmates.Showers11	Manda o sabonete
+Text.Inmates.Showers12	Quem tá com o sabonete?
+Text.Inmates.Showers13	Onde que tá o sabonete?
+Text.Inmates.Showers14	Estou ensaboando
+Text.Inmates.Showers15	Mexa seu rabo daí
+Text.Inmates.Showers16	Não se envergonhe
+Text.Inmates.Showers17	Sinta-se livre
+Text.Inmates.Showers18	Tá muito quente
+Text.Inmates.Showers19	Meus olhos!
+Text.Inmates.Showers20	Tira o cú da frente
+Text.Inmates.Showers21	Tu tá com frio ou o que?
+Text.Inmates.Showers22	Me chama depois...
+Text.Inmates.Showers23	Tem condicionador aqui?
+Text.Inmates.Showers24	Ei guardas, apreciando a vista?
+Text.Inmates.Showers25	Foi aqui que espanquei alguns otários
+Text.Inmates.Showers26	Eu fiz MUITOS amigos aqui
+Text.Inmates.Showers27	Isso é bem romântico
+Text.Inmates.Showers28	Tem algo no ar
+Text.Inmates.Showers29	Cala boca...
+Text.Inmates.Showers30	Tá com algum problema?
+Text.Inmates.Showers31	Sério... 
+Text.Inmates.Showers32	O ralo tá entupido
+Text.Inmates.Showers33	Ah, meu lugar favorito
+Text.Inmates.Showers34	Você se acha homem?
+Text.Inmates.Showers35	Que bosta!
+Text.Inmates.Showers36	É, vou ter muitos pesadelos hoje
+Text.Inmates.Showers37	Onde que eu desvejo isso? unseen
+Text.Inmates.Showers38	Sua esposa se contentava com isso?
+Text.Inmates.Showers39	E esse machucado ae?
+Text.Inmates.Showers40	Espera
+Text.Inmates.Showers41	Comparado à você, sou um ator porno bem sucedido
+Text.Inmates.Showers42	Eu podia ficar aqui pra sempre...
+Text.Inmates.Showers43	Eu ficaria feliz se pudesse ficar em seus braços mesmo que por só um minuto 
+Text.Inmates.Showers44	Achei que Echo fosse a marca da bateria
+Text.Inmates.Showers45	E se ficarmos *loucos*.? 
+Text.Inmates.Showers46	Está chovendo homens, aleluia, está chovendo homens.
+Text.Inmates.Showers47	Eu poderia dirigir por esta estrada minha vida inteira. 
+Text.Inmates.Showers48	Estou satisfeito em passar um minuto em seus braços!
+Text.Inmates.Showers49	Só de olhar para mim já salva o meu dia.
+Text.Inmates.Showers50	Você está preocupado por não passarmos tempo suficiente juntos?
+	
+Text.Guards.Shakedown1	Quem terá a cela revistada é... 
+Text.Guards.Shakedown2	Os nomes citados a seguir terão suas celas revistadas... 
+Text.Guards.Shakedown3	Os lixos que serão citados agora, terão suas celas revistadas...
+Text.Guards.Shakedown4	Os seguintes infelizes terão suas celas revistadas... 
+Text.Guards.Shakedown5	Revistaremos as celas dos seguintes imbecis...
+	
+Text.Guards.RollCallStart1	Em fila, seus bostas!
+Text.Guards.RollCallStart2	Calem-se!
+Text.Guards.RollCallStart3	Olhem para frente, cambada!
+Text.Guards.RollCallStart4	Em fila seus otários!
+Text.Guards.RollCallStart5	Calem e olhem para mim!
+Text.Guards.RollCallStart6	Atenção!
+Text.Guards.RollCallStart7	Olhem para frente!
+Text.Guards.RollCallStart8	Fechem essas bocas imundas!
+Text.Guards.RollCallStart9	Xiu!
+Text.Guards.RollCallStart10	Vâmo começar
+Text.Guards.RollCallStart11	Calem a merda da boca!
+Text.Guards.RollCallStart12	Olhem-se no espelho..
+Text.Guards.RollCallStart13	Sejam rápidos, RÁPIDO.
+Text.Guards.RollCallStart14	Mostrem respeito...
+Text.Guards.RollCallStart15	Silencio, senhoritas...
+Text.Guards.RollCallStart16	Ei!
+Text.Guards.RollCallStart17	Fechem suas bocas
+Text.Guards.RollCallStart18	Quietos!
+Text.Guards.RollCallStart19	Seu rei chegou!
+	
+Text.Guards.RollCallMain1	Lembrem-se de quem é que manda aqui
+Text.Guards.RollCallMain2	Quem manda aqui são os guardas, não vocês.
+Text.Guards.RollCallMain3	Não damos a mínima em dar uma surra em cada um de vocês.
+Text.Guards.RollCallMain4	Qualquer um que sair da linha será punido severamente.
+Text.Guards.RollCallMain5	Cuidado com que fazem, certo?
+Text.Guards.RollCallMain6	Cause problemas, e irá ir para a enfermaria o mais rápido possível
+Text.Guards.RollCallMain7	Não ousem a olhar para gente, a não ser que mandemos.
+Text.Guards.RollCallMain8	Quando eu disser 'pulem', vocês respondem 'o quão alto?'
+Text.Guards.RollCallMain9	Aqui as coisas funcionam assim, acostumem-se.
+Text.Guards.RollCallMain10	Francamente, estamos cansados de vocês.
+Text.Guards.RollCallMain11	Vocês comem quando EU mandar comerem
+Text.Guards.RollCallMain12	Você dormem quando EU mandar dormirem
+Text.Guards.RollCallMain13	Acham que são espertinhos, não é?
+Text.Guards.RollCallMain14	Iremos esmagar vocês como insetos, que é o que são.
+Text.Guards.RollCallMain15	Fique longe de encrencas
+Text.Guards.RollCallMain16	Seja lá quem foi que detonou a cozinha, será detonado.
+Text.Guards.RollCallMain17	Não sei quem acabou com a academia, mas será destruído.
+Text.Guards.RollCallMain18	O ator que destruiu o galpão, também será destruído.
+Text.Guards.RollCallMain19	Essas botas foram feitas para chutar prisioneiros
+Text.Guards.RollCallMain20	Não toleramos vocês.
+Text.Guards.RollCallMain21	Acha que a prisão é só uma brincadeira?
+Text.Guards.RollCallMain22	Vou acabar com esse seu olhar
+Text.Guards.RollCallMain23	É só eu estalar os dedos, e tu já era
+Text.Guards.RollCallMain24	Vou tirar esse sorriso do seu rosto
+Text.Guards.RollCallMain25	Eu sou o juiz e o executor aqui
+Text.Guards.RollCallMain26	Minha palavra é o que vale por aqui
+Text.Guards.RollCallMain27	Ouvimos rumores de uma fuga
+Text.Guards.RollCallMain28	A única coisa que vai fugir daqui, serão os seus cadáveres
+Text.Guards.RollCallMain29	Somos muito bem pagos para mantes vocês na linha
+Text.Guards.RollCallMain30	Algum idiota andou rondando por ai na hora de dormir
+Text.Guards.RollCallMain31	Um de vocês andou roubando ferramentas
+Text.Guards.RollCallMain32	Seja lá quem anda enviando ameaças ao diretor, está ferrado
+Text.Guards.RollCallMain33	Cause problemas, e te dou passe VIP pra enfermaria
+Text.Guards.RollCallMain34	Nem pense em olhar pra mim
+Text.Guards.RollCallMain35	A última pessoa que passou dos limites está numa cova.
+Text.Guards.RollCallMain36	Deixe me explicar como as coisas funcionam
+Text.Guards.RollCallMain37	Pareço idiota?
+Text.Guards.RollCallMain38	Levanta a mão se achar que eu pareço um idiota.
+Text.Guards.RollCallMain39	Lembra de quando você era importante? Nem eu.
+Text.Guards.RollCallMain40	Alguém tá pegando colheres da nossa cantina
+Text.Guards.RollCallMain41	Alguém está colocando coisas na cadeira do diretor
+Text.Guards.RollCallMain42	Alguém tá sabotando o sombreiro do diretor
+Text.Guards.RollCallMain43	Quem aqui discorda das regras e não vai cumpri-las?
+Text.Guards.RollCallMain44	Tu acha que tem direito a alguma cois?
+Text.Guards.RollCallMain45	Vocês são imundos
+Text.Guards.RollCallMain46	Deveríamos acabar com você de uma vez
+Text.Guards.RollCallMain47	Quantas vezes terei que repetir?
+Text.Guards.RollCallMain48	As regras existem para serem seguidas
+Text.Guards.RollCallMain49	Alguém anda cortando a cerca
+Text.Guards.RollCallMain50	Hoje, alguém irá levar uma surra daquelas
+Text.Guards.RollCallMain51	Alguém anda pregando peças com a peruca do diretor
+Text.Guards.RollCallMain52	Como minha mãe dizia...
+Text.Guards.RollCallMain53	Aproveitando o assunto...
+Text.Guards.RollCallMain54	Quando estiver falando contigo, OLHE PRA MIM!
+Text.Guards.RollCallMain55	Ouvi um incidente relacionado à nudismo...
+Text.Guards.RollCallMain56	Isso me lembra...
+Text.Guards.RollCallMain57	Quem ai vai limpar o meu sapato?
+Text.Guards.RollCallMain58	Alguém roubou a roupa íntima do diretor
+Text.Guards.RollCallMain59	Como eu dizia pra minha ex-esposa traidora...
+Text.Guards.RollCallMain60	Eu avisarei quando tiverem permissão pra abrirem o bico
+Text.Guards.RollCallMain61	Como meu velho dizia...
+Text.Guards.RollCallMain62	Prestem atenção
+Text.Guards.RollCallMain63	A comida na cantina será racionada
+Text.Guards.RollCallMain64	Você lavou a parte de trás da sua orelha?
+Text.Guards.RollCallMain65	Cometa algum erro, e seu almoço será barro.
+Text.Guards.RollCallMain66	Nunca se esqueçam, vocês são o lixo da sociedade.
+Text.Guards.RollCallMain67	Ninguém é amigo de vocês
+Text.Guards.RollCallMain68	A sua família, já te abandonou
+Text.Guards.RollCallMain69	Por acaso, eu deixei você respirar?!
+Text.Guards.RollCallMain70	Me chamem de rei.
+	
+Text.Inmates.Gym1	Trabalhando e exercitando
+Text.Inmates.Gym2	*huh*
+Text.Inmates.Gym3	Preciso de uma bebida
+Text.Inmates.Gym4	Dá uma olhada nesse tanquinho
+Text.Inmates.Gym5	Observe como eu malho
+Text.Inmates.Gym6	Trabalho abdominal é pra poucos
+Text.Inmates.Gym7	Vâmo lá
+Text.Inmates.Gym8	Quanto tu consegue levantar?
+Text.Inmates.Gym9	Pode aumentar a pressão
+Text.Inmates.Gym10	Estou indo no meu próprio ritmo
+Text.Inmates.Gym11	O negócio é conseguir ficar em pé depois
+Text.Inmates.Gym12	Mais, mais!
+Text.Inmates.Gym13	Vâmo acelera aí cara
+Text.Inmates.Gym14	Terminou?
+Text.Inmates.Gym15	Olha meus quadrícipes
+Text.Inmates.Gym16	Isso não é nada
+Text.Inmates.Gym17	Chama isso de musculação
+Text.Inmates.Gym18	Fácil
+Text.Inmates.Gym19	Saquei
+Text.Inmates.Gym20	Pega leve
+Text.Inmates.Gym21	O ínicio sempre é mais complicado
+Text.Inmates.Gym22	Tem que dar duro nisso
+Text.Inmates.Gym23	Isso daqui é tudo músculo
+Text.Inmates.Gym24	Musculoso e bonitão, esse sou eu.
+Text.Inmates.Gym25	Nenhum photoshop consegue fazer isso
+Text.Inmates.Gym26	Tá de olho nos meus músculos, né? Realmente, são esplendidos...
+Text.Inmates.Gym27	Depois que eu treinar bastante, vou dar umas lições à uns guardas...
+Text.Inmates.Gym28	Isso nem cansa
+Text.Inmates.Gym29	Só vou parar quando meus músculos estiverem no máximo!
+Text.Inmates.Gym30	*roar*
+	
+Text.Inmates.FoodHall1	Tu chama isso de comida?
+Text.Inmates.FoodHall2	Tem cabelo na minha sopa
+Text.Inmates.FoodHall3	Quem tacou isso?
+Text.Inmates.FoodHall4	Isso me dá nojo
+Text.Inmates.FoodHall5	Melhor tomar conta do meu pudim
+Text.Inmates.FoodHall6	Cara, tô cheio
+Text.Inmates.FoodHall7	Cozinheiro!
+Text.Inmates.FoodHall8	Se eu comer isso, posso morrer.
+Text.Inmates.FoodHall9	Tem alguma sobremesa?
+Text.Inmates.FoodHall10	Isso tem gosto de barro
+Text.Inmates.FoodHall11	Vai comer isso?
+Text.Inmates.FoodHall12	Se importa se eu comer isso pra você?
+Text.Inmates.FoodHall13	Tô passando mal
+Text.Inmates.FoodHall14	Isso daqui tem um cheiro diferente
+Text.Inmates.FoodHall15	Isso daqui é velho
+Text.Inmates.FoodHall16	Tem um mosquito no meu mingau
+Text.Inmates.FoodHall17	Aqui não tem nenhum fogão não?
+Text.Inmates.FoodHall18	Já experimentou isso?
+Text.Inmates.FoodHall19	Experimente isso
+Text.Inmates.FoodHall20	Eugh
+Text.Inmates.FoodHall21	Não consigo comer isso
+Text.Inmates.FoodHall22	Bom, preciso de energia
+Text.Inmates.FoodHall23	GUARDAS! Alguém pegou meu pudim!
+Text.Inmates.FoodHall24	Cadê meu pudim?
+Text.Inmates.FoodHall25	Ainda tô com fome
+Text.Inmates.FoodHall26	Mastigue mais rápido
+Text.Inmates.FoodHall27	Isso é algum tipo novo de comida exótica?
+Text.Inmates.FoodHall28	Vou precisar de balas de menta depois de comer isso
+Text.Inmates.FoodHall29	Imagina, se isso fosse comida de verdade
+Text.Inmates.FoodHall30	Não é tão ruim
+Text.Inmates.FoodHall31	O gosto não é tão ruim assim...
+Text.Inmates.FoodHall32	Tá um pouco queimado
+Text.Inmates.FoodHall33	Já comi coisas melhores
+Text.Inmates.FoodHall34	Passa o sal
+Text.Inmates.FoodHall35	Bem que podiam usar algum tempero né?...
+Text.Inmates.FoodHall36	Tá faltando algo...
+Text.Inmates.FoodHall37	Tô quase vomitando...
+Text.Inmates.FoodHall38	Quem que cuida da cozinha aqui?
+Text.Inmates.FoodHall39	O chefe tá precisando de umas férias
+Text.Inmates.FoodHall40	Palmas para o chefe
+Text.Inmates.FoodHall41	Calma ai
+Text.Inmates.FoodHall42	Não fale de boca cheia
+Text.Inmates.FoodHall43	Solte o bolo
+Text.Inmates.FoodHall44	Passa esse pudim aé
+Text.Inmates.FoodHall45	Chama isso de comida?
+Text.Inmates.FoodHall46	Tu tá pensando em comer isso tudo?
+Text.Inmates.FoodHall47	Cala a boca
+Text.Inmates.FoodHall48	Se importa?
+Text.Inmates.FoodHall49	Ia ser bom se não quisessem te matar com a comida
+Text.Inmates.FoodHall50	Tá uma delicia isso daqui
+Text.Inmates.FoodHall51	Tá um pouco passado
+Text.Inmates.FoodHall52	Isso me lembra da vez que comi comida de cachorro
+Text.Inmates.FoodHall53	Isso deve ser resto de comida da primeira guerra mundial
+Text.Inmates.FoodHall54	Sério mesmo, cheira isso
+Text.Inmates.FoodHall55	Isso não é cabelo de gente...   
+Text.Inmates.FoodHall56	Quem preparou essa comida, merecia ser enterrado vivo!
+Text.Inmates.FoodHall57	Minha nota pra está comida? 10! ...valendo 100
+Text.Inmates.FoodHall58	Não tô legal...
+Text.Inmates.FoodHall59	Passa o pudim ou pego tua alma. E o número da sua esposa.
+Text.Inmates.FoodHall60	Eu queria ter a receita disso
+Text.Inmates.FoodHall61	Chefe!
+Text.Inmates.FoodHall62	Tem uma comida nesse meu mosquito!
+Text.Inmates.FoodHall63	Isso é comida?
+Text.Inmates.FoodHall64	CÓDIGO VERMELHO!
+Text.Inmates.FoodHall65	O refeitório tá cheio
+Text.Inmates.FoodHall66	Vou comer só três pudins... sabe como é, dieta.
+	
+Text.Inmates.Banter1	Esse lugar é um lixo
+Text.Inmates.Banter2	Que bosta de lugar
+Text.Inmates.Banter3	Aqui, todo mundo é inocente
+Text.Inmates.Banter4	Você é inocente? Eu também!
+Text.Inmates.Banter5	Todos nós somos inocentes.
+Text.Inmates.Banter6	Os guardas são os piores daqui!
+Text.Inmates.Banter7	Não confie em ninguém
+Text.Inmates.Banter8	Ninguém é confiável
+Text.Inmates.Banter9	Alguém deixou uma surpresinha no meu vaso 
+Text.Inmates.Banter10	Alguém cagou na minha cama, que bosta. Literalmente.
+Text.Inmates.Banter11	Logo eu vou pra condicional, melhor dar um jeito de largas as drogas
+Text.Inmates.Banter12	Negaram meu pedido de ir pra condicional
+Text.Inmates.Banter13	Tenho que socar alguém
+Text.Inmates.Banter14	Vou procurar alguém mais fraco e dar uma surra
+Text.Inmates.Banter15	Não olhe agora, mas acho que os parafusos estão nos vigiando para alguém...
+Text.Inmates.Banter16	Acho que estou sendo vigiado
+Text.Inmates.Banter17	É só eu ou tá quente aqui?
+Text.Inmates.Banter18	Tá bem frio, não acha?
+Text.Inmates.Banter19	Tá frio demais aqui, concorda?
+Text.Inmates.Banter20	Esse lugar é congelante
+Text.Inmates.Banter21	Tá fervendo aqui!
+Text.Inmates.Banter22	A porcaria do ar condicionado parou de novo?
+Text.Inmates.Banter23	Aqui não tem nada que preste
+Text.Inmates.Banter24	Os parafusos são malignos e estão planejando algo...
+Text.Inmates.Banter25	Estou com vários problemas
+Text.Inmates.Banter26	Algo grande está por vir
+Text.Inmates.Banter27	Tem algo no ar...
+Text.Inmates.Banter28	Algo vai acontecer, e será grande...
+Text.Inmates.Banter29	Eu era um açougueiro
+Text.Inmates.Banter30	Eu era um barbeiro
+Text.Inmates.Banter31	Eu era um taxista
+Text.Inmates.Banter32	Eu era CEO de uma grande empresa...
+Text.Inmates.Banter33	Eu era um pedreiro...
+Text.Inmates.Banter34	Eu tinha minha própria companhia
+Text.Inmates.Banter35	Eu tinha uma loja, só minha...
+Text.Inmates.Banter36	Eu desenvolvia jogos...
+Text.Inmates.Banter37	Eu era um mendigo...
+Text.Inmates.Banter38	Eu era um assassino de aluguel
+Text.Inmates.Banter39	Eu costumava ser um vigarista sabe
+Text.Inmates.Banter40	Agora eu mudei. Bom pra mim!
+Text.Inmates.Banter41	Agora eu mudei. Que maravilha!
+Text.Inmates.Banter42	Agora eu mudei. O que você achou?
+Text.Inmates.Banter43	Agora eu mudei. Simples assim?
+Text.Inmates.Banter44	Agora eu mudei. O que você achou?
+Text.Inmates.Banter45	Me tornei algo totalmente diferente!
+Text.Inmates.Banter46	Você viu muito ultimamente?
+Text.Inmates.Banter47	Agora, eu veria qualquer filme.
+Text.Inmates.Banter48	Que tipo de filme você gosta?
+Text.Inmates.Banter49	Você deve estar brincando comigo.
+Text.Inmates.Banter50	Havia apenas oito, então carreguei todos eles
+Text.Inmates.Banter51	Quem ele pensa que é, hein?
+Text.Inmates.Banter52	Com quem ele pensa que está falando
+Text.Inmates.Banter53	Deve ser difícil ser vesgo
+Text.Inmates.Banter54	Bocejo
+Text.Inmates.Banter55	Que sono...
+Text.Inmates.Banter56	Isso deixa minha bunda grande?
+Text.Inmates.Banter57	Você tem um cheiro bom
+Text.Inmates.Banter58	Que cheiro é esse?
+Text.Inmates.Banter59	Tu tá fedendo mano
+Text.Inmates.Banter60	Parece que alguém morreu...
+Text.Inmates.Banter61	Tô passando mal...
+Text.Inmates.Banter62	EU sou a vítima.
+Text.Inmates.Banter63	Eu sou uma vítima da sociedade.
+Text.Inmates.Banter64	Eu sou uma vít...não, melhor parar.
+Text.Inmates.Banter65	Olha como eu sou forte.
+Text.Inmates.Banter66	Eu ando malhando, sabe com'é que é né?
+Text.Inmates.Banter67	Tô tomando umas vitaminas com muitas proteínas
+Text.Inmates.Banter68	Tô levando musculação à sério.
+Text.Inmates.Banter69	Você precisa ter bíceps como estes
+Text.Inmates.Banter70	Mais tarde vou dar uma lições à umas pessoas
+Text.Inmates.Banter71	Hoje alguém vai ser espancado...
+Text.Inmates.Banter72	A enfermaria vai lotar hoje
+Text.Inmates.Banter73	Tenho que mostrar quem é que manda pra alguém
+Text.Inmates.Banter74	Vou caçar um imbecil hoje
+Text.Inmates.Banter75	Hoje, alguém será punido.
+Text.Inmates.Banter76	É melhor ele nem pensar nisso
+Text.Inmates.Banter77	Coitado...
+Text.Inmates.Banter78	É melhor ele ficar atento
+Text.Inmates.Banter79	Ele tá em sérios problemas
+Text.Inmates.Banter80	Alguém vai voar hoje
+Text.Inmates.Banter81	Ele vai ver o Bruce Lee 2015 em pessoa hoje
+Text.Inmates.Banter82	Ele tá testando minha paciência
+Text.Inmates.Banter83	Eu deixei uma boa marca naquele cara
+Text.Inmates.Banter84	Ele ficou pegando os dentes dele no chão depois
+Text.Inmates.Banter85	Depois, ele ficou se lamentando no chão
+Text.Inmates.Banter86	Tenha cuidado
+Text.Inmates.Banter87	Não estou em perigo, EU sou o perigo
+Text.Inmates.Banter88	' Say my name '
+Text.Inmates.Banter89	Naquele dia, ele ficou igual galinha atrás dos dentes dele
+Text.Inmates.Banter90	Aquele dia que choveu, sabe...
+Text.Inmates.Banter91	É melhor chamar o Saul!
+Text.Inmates.Banter92	Aquele filho da mãe se virou contra mim
+Text.Inmates.Banter93	Aquele imbecil me traiu
+Text.Inmates.Banter94	Aquele infeliz me delatou
+Text.Inmates.Banter95	Ouviu isso?
+Text.Inmates.Banter96	Eu andei treinando algumas técnicas que aprendi com o Bruce Lee
+Text.Inmates.Banter97	Ela disse que eu era o pai!
+Text.Inmates.Banter98	Só pode ser brincadeira...
+Text.Inmates.Banter99	Eram só oito deles, então acabei com todos
+Text.Inmates.Banter100	Ouvi dizer que a esposa do $guard andou traindo ele
+Text.Inmates.Banter101	Ouvi dizer que a esposa $guard abandonou ele
+Text.Inmates.Banter102	Pelo visto, a esposa do $guard pediu divorcio
+Text.Inmates.Banter103	Pelo jeito, a esposa do  $guard desistiu dele
+Text.Inmates.Banter104	Me contaram que a esposa do $guard abriu um processo contra ele
+Text.Inmates.Banter105	Ouvi que a esposa do $guard abriu um processo judicial contra ele
+Text.Inmates.Banter106	Acredita que a esposa do $guard tá saindo com outra mulher?
+Text.Inmates.Banter107	O cão do $guard morreu
+Text.Inmates.Banter108	Pelo visto, o cachorro do $guard se foi. 
+Text.Inmates.Banter109	Soube que o gato do $guard morreu.
+Text.Inmates.Banter110	O $guard perdeu seu gatinho.
+Text.Inmates.Banter111	Ouvi falarem que o gato do $guard atacou ele
+Text.Inmates.Banter112	Soube que o $guard é viciado em bebidas
+Text.Inmates.Banter113	O $guard quebrou um dos meus dentes!
+Text.Inmates.Banter114	O $guard me deu uma bela duma surra!
+Text.Inmates.Banter115	O $guard sujou meu cabelo com um tijolo!
+Text.Inmates.Banter116	Me disseram que o $guard está passando por tratamento terapêutico
+Text.Inmates.Banter117	Ouvi dizer que o $guard está tendo problemas no paraíso.
+Text.Inmates.Banter118	O $guard anda traindo sua esposa
+Text.Inmates.Banter119	Me falaram que o $guard separou da sua esposa
+Text.Inmates.Banter120	Ouvi falar que o $guard mudou de opção, se é que me entende.
+Text.Inmates.Banter121	Tomará que o $guard seja demitido
+Text.Inmates.Banter122	Pelo visto o $guard está se preparando para aposentar-se
+Text.Inmates.Banter123	Me disseram que o nome do $guard está na lista de alguns assassinos
+Text.Inmates.Banter124	Disseram que o $guard vai sumir do mapa
+Text.Inmates.Banter125	Falaram que o $guard será espancado amanhã
+Text.Inmates.Banter126	Disseram que alguém vai cortar as asinhas do $guard
+Text.Inmates.Banter127	Pelo visto, o $guard ficou acabado
+Text.Inmates.Banter128	Disseram que o $guard foi roubado 
+Text.Inmates.Banter129	Infelizmente, o $inmate irá ser solto em breve
+Text.Inmates.Banter130	Pelo visto, o $inmate está planejando fugir daqui
+Text.Inmates.Banter131	A esposa do $inmate já encontrou alguém pra substitui-lo
+Text.Inmates.Banter132	Me contaram que a esposa do $inmate largou ele
+Text.Inmates.Banter133	Disseram que a esposa do $inmate cansou dele
+Text.Inmates.Banter134	A esposa do $inmate sumiu
+Text.Inmates.Banter135	Me falaram que a esposa do $inmate morreu
+Text.Inmates.Banter136	Ouvi falarem que a esposa do $inmate foi presa
+Text.Inmates.Banter137	Falaram que o $inmate vai levar uma boa surra
+Text.Inmates.Banter138	Pelo visto, o $inmate vai fazer algumas visitinhas
+Text.Inmates.Banter139	Ouvi dizerem que o $inmate cometeu um crime grande
+Text.Inmates.Banter140	Soube que o $inmate tá aqui por assalto armado
+Text.Inmates.Banter141	Disseram que o $inmate tá aqui por desrespeito as autoridades
+Text.Inmates.Banter142	Me contaram que o $inmate tá aqui porque ele roubou a própria mãe
+Text.Inmates.Banter143	Falaram que o $inmate é um policia disfarçado
+Text.Inmates.Banter144	Disseram que o $inmate é um informante do FBI
+Text.Inmates.Banter145	Falaram que o $inmate é um ladrão
+Text.Inmates.Banter146	Disseram que o $inmate é só um rato
+Text.Inmates.Banter147	Soube que o $inmate tem algum problema comigo...
+Text.Inmates.Banter148	Descobri que o $inmate tá atrás de tu
+Text.Inmates.Banter149	Ouvi dizer que o $inmate tá contrabandeando
+Text.Inmates.Banter150	As vezes, eu fico rindo até dormir
+Text.Inmates.Banter151	Como uma espingarda seria útil
+Text.Inmates.Banter152	No final, acabei tendo que comer minhas calças
+Text.Inmates.Banter153	E então meu irmão virou minha irmã
+Text.Inmates.Banter154	Não tenho nada à declarar, fora minha inocência
+Text.Inmates.Banter155	Eles acabaram com a minha cela
+Text.Inmates.Banter156	Eles reviraram minha cela
+Text.Inmates.Banter157	Meu vaso entupiu de novo
+Text.Inmates.Banter158	Cara, meu vaso tá entupido de novo
+Text.Inmates.Banter159	Ai depois de ouvir isso, minha esposa parou de me visitar
+Text.Inmates.Banter160	Minha esposa sumiu depois de ouvir isso
+Text.Inmates.Banter161	A primeira regra do clube da luta: você não fala sobre o clube da luta
+Text.Inmates.Banter162	Todo mundo daqui é doido
+Text.Inmates.Banter163	Os guardas daqui são uma piada
+Text.Inmates.Banter164	O pessoal daqui é tão estupido...
+Text.Inmates.Banter165	Os guardas dessa prisão são uns bosta
+Text.Inmates.Banter166	Tá pensando em fugir?
+Text.Inmates.Banter167	Ouvi dizer que tem um pessoal planejando escapar
+Text.Inmates.Banter168	Se realmente existir um plano de fuga, eu gostaria de participar
+Text.Inmates.Banter169	Já pensou em sair daqui?
+Text.Inmates.Banter170	Prevejo uma guerra
+Text.Inmates.Banter171	Tô entendiado, vâmo faze uma guerrinha?
+Text.Inmates.Banter172	Nós deveríamos ir detonar a academia
+Text.Inmates.Banter173	Que tal uma guerra de comida na cantina?
+Text.Inmates.Banter174	Livros são chatos, exceto quando usados pra machucar.
+Text.Inmates.Banter175	Deveríamos ir atacar o refeitório
+Text.Inmates.Banter176	Vâmo zoar pela academia
+Text.Inmates.Banter177	Que tal irmos acabar com a biblioteca?
+Text.Inmates.Banter178	...isso me fez começar a pensar
+Text.Inmates.Banter179	...foi assim que me tornei uma pessoa religiosa
+Text.Inmates.Banter180	...então eu entrei no mundo do crime
+Text.Inmates.Banter181	...e é por isso que eu vim parar aqui
+Text.Inmates.Banter182	Tenho minhas duvidas...
+Text.Inmates.Banter183	Sempre disse isso
+Text.Inmates.Banter184	Concordo
+Text.Inmates.Banter185	Acabei de sair da solitária
+Text.Inmates.Banter186	A solitária é um inferno
+Text.Inmates.Banter187	A solitária te deixa louco cara
+Text.Inmates.Banter188	Tu zerou o Spud Quest?
+Text.Inmates.Banter189	Como tava dizendo...
+Text.Inmates.Banter190	Tô falando merda?
+Text.Inmates.Banter191	Eu gaguejei?
+Text.Inmates.Banter192	Tô te chateando?
+Text.Inmates.Banter193	Eles queriam me matar
+Text.Inmates.Banter194	Achei cabelo na minha comida
+Text.Inmates.Banter195	As refeições daqui parecem vomito em pratos
+Text.Inmates.Banter196	Percebi que o negócio ia ficar feio, então dei o fora
+Text.Inmates.Banter197	*soluço*
+Text.Inmates.Banter198	Tô sabendo de uns rumores...
+Text.Inmates.Banter199	*hic*
+Text.Inmates.Banter200	O que ele disse?
+Text.Inmates.Banter201	Ele tá cavando sua própria cova
+Text.Inmates.Banter202	E então?
+Text.Inmates.Banter203	Ele sabe quem eu sou?
+Text.Inmates.Banter204	Estou meditando
+Text.Inmates.Banter205	Tomará que esteja divertindo-se
+Text.Inmates.Banter206	Não é tão ruim
+Text.Inmates.Banter207	Adriaaaan!
+Text.Inmates.Banter208	Tenho uma reunião em 10 minutos...
+Text.Inmates.Banter209	As vezes acho que me divirto muito aqui
+Text.Inmates.Banter210	Eu dei uma reputação ruim pra essa prisão na internet
+Text.Inmates.Banter211	Você não pode se divertir aqui
+Text.Inmates.Banter212	Estou me divertindo muito
+Text.Inmates.Banter213	Alguém deu um gemido?
+Text.Inmates.Banter214	Hipsters..
+Text.Inmates.Banter215	Eu dito as regras por aqui
+Text.Inmates.Banter216	Eu domino esse lugar 
+Text.Inmates.Banter217	Me sacrifico pelo pessoal
+Text.Inmates.Banter218	Só brigo com os mais fracos
+Text.Inmates.Banter219	Tá afim de saber como consegui essas feridas?
+Text.Inmates.Banter220	Me bateram com uma colher de pau
+Text.Inmates.Banter221	Então, ele veio até mim com uma colher
+Text.Inmates.Banter222	Eu lutei com 10 caras com uma colher de pau!
+Text.Inmates.Banter223	Acha que sou seu bobo da corte?
+Text.Inmates.Banter224	Como assim?
+Text.Inmates.Banter225	Acho que ele catou a carteira dele!
+Text.Inmates.Banter226	Alguém tá me trollando...
+Text.Inmates.Banter227	Dude's got bad intentions.
+Text.Inmates.Banter228	Estamos tendo problemas de comunicação
+Text.Inmates.Banter229	Tudo bem, mas eu prefiro hard house, cara!
+	
+Text.Inmates.PlayerRep1.1	Suma daqui
+Text.Inmates.PlayerRep1.2	Vai brincar em outro lugar
+Text.Inmates.PlayerRep1.3	Vá atrapalhar outro
+Text.Inmates.PlayerRep1.4	Tá com algum problema?
+Text.Inmates.PlayerRep1.5	Você é um merda
+Text.Inmates.PlayerRep1.6	Que tu quer?
+Text.Inmates.PlayerRep1.7	Desapareça
+Text.Inmates.PlayerRep1.8	Vê se não enche
+Text.Inmates.PlayerRep1.9	Use os olhos quando anda.
+Text.Inmates.PlayerRep1.10	Tá querendo levar uma surra?
+Text.Inmates.PlayerRep1.11	Continua enchendo o saco, e eu te arrebento
+Text.Inmates.PlayerRep1.12	Vou acabar com tu
+Text.Inmates.PlayerRep1.13	Passa rápido otário
+Text.Inmates.PlayerRep1.14	Tá olhando o que?
+Text.Inmates.PlayerRep1.15	Tá querendo ir pra enfermaria?
+Text.Inmates.PlayerRep1.16	Não entendeu o que eu disse?
+Text.Inmates.PlayerRep1.17	Nem pense em abrir a boca pra falar comigo
+Text.Inmates.PlayerRep1.18	Você só pode falar quando EU mandar.
+Text.Inmates.PlayerRep1.19	Vaza daqui
+Text.Inmates.PlayerRep1.20	Dá o fora
+Text.Inmates.PlayerRep1.21	Suma, seu cretino
+Text.Inmates.PlayerRep1.22	Tô achando que vou te espancar agora mesmo
+Text.Inmates.PlayerRep1.23	Suma daqui
+Text.Inmates.PlayerRep1.24	Seu bosta
+Text.Inmates.PlayerRep1.25	Nem abra a boca pra falar comigo
+Text.Inmates.PlayerRep1.26	Quem tu acha que é?
+Text.Inmates.PlayerRep1.27	Será que vou ter que fechar sua boca?
+Text.Inmates.PlayerRep1.28	Volta pro buraco de onde veio
+Text.Inmates.PlayerRep1.29	Tchau
+Text.Inmates.PlayerRep1.30	Idiota
+Text.Inmates.PlayerRep1.31	Você é só um zé ruela fraco
+Text.Inmates.PlayerRep1.32	Você é um inseto
+Text.Inmates.PlayerRep1.33	Você não passa de um doente
+Text.Inmates.PlayerRep1.34	Vai perturbar outro
+Text.Inmates.PlayerRep1.35	Enfia essa tua cara num buraco
+Text.Inmates.PlayerRep1.36	Não ouse a abrir a boca pra falar comigo
+Text.Inmates.PlayerRep1.37	A última coisa que verá será a tampa do seu caixão
+Text.Inmates.PlayerRep1.38	Melhor parar de me encarar
+	
+Text.Inmates.PlayerRep2.1	Precisa de alguma coisa?
+Text.Inmates.PlayerRep2.2	Que?
+Text.Inmates.PlayerRep2.3	Sim?
+Text.Inmates.PlayerRep2.4	Estou um pouco ocupado
+Text.Inmates.PlayerRep2.5	Desculpa cara, mas agora não é uma boa hora
+Text.Inmates.PlayerRep2.6	Estou sem tempo
+Text.Inmates.PlayerRep2.7	Depois conversamos.
+Text.Inmates.PlayerRep2.8	Conversaremos depois, certo?
+Text.Inmates.PlayerRep2.9	Fala
+Text.Inmates.PlayerRep2.10	E ae
+Text.Inmates.PlayerRep2.11	Não dá pra falar agora
+Text.Inmates.PlayerRep2.12	Não posso te ajudar
+Text.Inmates.PlayerRep2.13	Oi
+Text.Inmates.PlayerRep2.14	Olha, hoje foi um dia difícil, deixa pra depois, beleza?
+Text.Inmates.PlayerRep2.15	Não tô afim de conversar
+Text.Inmates.PlayerRep2.16	Me deixe em paz
+Text.Inmates.PlayerRep2.17	Desculpa mano, mas não tô afim de te adicionar no facebook
+Text.Inmates.PlayerRep2.18	Não preciso de amigos.
+Text.Inmates.PlayerRep2.19	Estou refletindo agora...
+Text.Inmates.PlayerRep2.20	Bacana cara...
+	
+Text.Inmates.PlayerRep3.1	Fala ae irmão
+Text.Inmates.PlayerRep3.2	Tudo de boa?
+Text.Inmates.PlayerRep3.3	Como tu tá mano?
+Text.Inmates.PlayerRep3.4	Fala bro.
+Text.Inmates.PlayerRep3.5	Tranquilo?
+Text.Inmates.PlayerRep3.6	É isso ai mano
+Text.Inmates.PlayerRep3.7	Conta comigo pra qualquer coisa mano
+Text.Inmates.PlayerRep3.8	Fala aé
+Text.Inmates.PlayerRep3.9	Qualquer coisa, pode chamar
+Text.Inmates.PlayerRep3.10	É nóis mano
+Text.Inmates.PlayerRep3.11	Fala aé mano
+Text.Inmates.PlayerRep3.12	Tamo junto mano.
+Text.Inmates.PlayerRep3.13	Respeito, respeito.
+Text.Inmates.PlayerRep3.14	Tu é o cara
+Text.Inmates.PlayerRep3.15	Paz irmão
+Text.Inmates.PlayerRep3.16	É isso aé
+	
+Text.Inmates.Gift.Rank0.1	Tá né.
+Text.Inmates.Gift.Rank0.2	Eh?
+Text.Inmates.Gift.Rank0.3	Tá bom
+Text.Inmates.Gift.Rank0.4	LOL
+Text.Inmates.Gift.Rank0.5	Um, valeu?
+	
+Text.Inmates.Gift.Rank1.1	Valeu!
+Text.Inmates.Gift.Rank1.2	Obrigado!
+Text.Inmates.Gift.Rank1.3	Legal
+Text.Inmates.Gift.Rank1.4	De boa
+	
+Text.Inmates.Gift.Rank2.1	Uau, valeu!
+Text.Inmates.Gift.Rank2.2	Caramba!
+Text.Inmates.Gift.Rank2.3	Sério? Obrigado!
+Text.Inmates.Gift.Rank2.4	Incrível!
+Text.Inmates.Gift.Rank2.5	Valeu mesmo!
+	
+Text.Inmates.Gift.Rank3.1	Isso é sério??? Valeu!
+Text.Inmates.Gift.Rank3.2	Uau, muito obrigado!
+Text.Inmates.Gift.Rank3.3	Isso é incrível!!!
+Text.Inmates.Gift.Rank3.4	Valeu mesmo cara!
+Text.Inmates.Gift.Rank3.5	Meu Deus cara, isso é incrível!
+	
+Text.Lockdown.1	Quanto tempo isso vai demorar?
+Text.Lockdown.2	Alguém fugiu?
+Text.Lockdown.3	Acho que alguém fugiu!
+Text.Lockdown.4	Que coisa...
+Text.Lockdown.5	De novo não!
+Text.Lockdown.6	O que foi dessa vez?
+Text.Lockdown.7	Quem é o responsável por isso?
+Text.Lockdown.8	Vamos logo!
+Text.Lockdown.9	Exijo minha ligação
+Text.Lockdown.10	Aposto que alguém fugiu de novo
+Text.Lockdown.11	Porque NÓS somos punidos?
+Text.Lockdown.12	Isso me dá raiva!
+Text.Lockdown.13	Que bosta!
+Text.Lockdown.14	Estamos perdendo tempo aqui!
+Text.Lockdown.15	Que sono...
+Text.Lockdown.16	Tomará que isso não demore
+Text.Lockdown.17	Isso é muito chato...
+Text.Lockdown.18	Tenho mais o que fazer!
+Text.Lockdown.19	Os guardas precisam aprender a contar
+Text.Lockdown.20	Os prisioneiros de hoje, são os guardas de amanhã!
+Text.Lockdown.21	Ele já deve ter sumido do mapa!
+Text.Lockdown.22	Alguém tá brincando de esconde esconde?
+Text.Lockdown.23	Anda logo com isso
+Text.Lockdown.24	Eu tenho uma manicure pra ir!
+Text.Lockdown.25	Estou entediado, vamos embora.
+Text.Lockdown.26	Tenho coisas pra fazer, lugares para ir, pessoas para espancar...
+Text.Lockdown.27	EU TENHO MEUS DIREITOS!
+Text.Lockdown.28	Ah, pará né!
+Text.Lockdown.29	Liberdadeeeeeeee!
+Text.Lockdown.30	Que é o fugitivo dessa vez?
+	
+Text.Inmates.Report.1	Ei guardas, venham aqui!
+Text.Inmates.Report.2	Guardas!
+Text.Inmates.Report.3	GUARDAAAS!
+Text.Inmates.Report.4	ALGUÉM TÁ TENTANDO FUGIR!
+Text.Inmates.Report.5	Guardas, CÓDIGO VERMELHO!
+Text.Inmates.Report.6	Alguém chame os guardas!
+	
+Text.Inmates.Ignore.1	Isso não é da minha conta
+Text.Inmates.Ignore.2	Arg, meus olhos não vêem nada.
+Text.Inmates.Ignore.3	Fugindo?
+Text.Inmates.Ignore.4	Tá fugindo? Vá com Deus.
+Text.Inmates.Ignore.5	Boa sorte.
+Text.Inmates.Ignore.6	Boa sorte lá fora.
+Text.Inmates.Ignore.7	Sei de nada não tio
+Text.Inmates.Ignore.8	Tchau
+Text.Inmates.Ignore.9	Manda um abraço pra liberdade por mim
+Text.Inmates.Ignore.10	Safado...
+Text.Inmates.Ignore.11	Fugindo? Incrível
+Text.Inmates.Ignore.12	Fugindo? Opa, me espera aí
+Text.Inmates.Ignore.13	Tenha mais sorte do que eu.
+Text.Inmates.Ignore.14	Isso não é meio insano não?
+Text.Inmates.Ignore.15	Tô cego, vi nada.
+Text.Inmates.Ignore.16	Fugir é a meta de um prisioneiro
+Text.Inmates.Ignore.17	Me leva também
+Text.Inmates.Ignore.18	Não me esqueça
+Text.Inmates.Ignore.19	Uol...
+Text.Inmates.Ignore.20	O que? Tudo ficou escuro...
+Text.Inmates.Ignore.21	Não vou falar nada, relaxa
+Text.Inmates.Ignore.22	Aproveite a liberdade
+Text.Inmates.Ignore.23	Mande um abraço pra minha família
+Text.Inmates.Ignore.24	Lembre-se de mim quando sair
+Text.Inmates.Ignore.25	Divertindo-se?
+	
+Text.Inmates.Attacked.1	Socorro!
+Text.Inmates.Attacked.2	Quê?!
+Text.Inmates.Attacked.3	Que bosta!
+Text.Inmates.Attacked.4	Vá se ferrar!
+Text.Inmates.Attacked.5	Caralho!
+Text.Inmates.Attacked.6	Para com isso!
+Text.Inmates.Attacked.7	NÃO!
+Text.Inmates.Attacked.8	Ué!
+Text.Inmates.Attacked.9	eleza então...
+Text.Inmates.Attacked.10	Acha que pode comigo?
+Text.Inmates.Attacked.11	Vâmo começa então!
+Text.Inmates.Attacked.12	Prepare-se!
+Text.Inmates.Attacked.13	Pra que isso?
+Text.Inmates.Attacked.14	Que tu quer comigo?
+Text.Inmates.Attacked.15	Doente
+Text.Inmates.Attacked.16	Hora da porrada
+Text.Inmates.Attacked.17	Você já era
+Text.Inmates.Attacked.18	Tu vai vira poera
+Text.Inmates.Attacked.19	Vô acaba contigo
+Text.Inmates.Attacked.20	Tenha bons sonhos
+Text.Inmates.Attacked.21	Seu miserável...
+Text.Inmates.Attacked.22	Tá certo, vâmo começar isso
+Text.Inmates.Attacked.23	Mas que porra...
+Text.Inmates.Attacked.24	Tá de zoera?
+Text.Inmates.Attacked.25	Imbecil
+Text.Inmates.Attacked.26	Tá querendo uma cirurgia no rosto, né?
+Text.Inmates.Attacked.27	ENTÃO É ASSIM?
+Text.Inmates.Attacked.28	Acertou o cara errado...
+Text.Inmates.Attacked.29	Vâmo começa isso!
+Text.Inmates.Attacked.30	Faz tempo que não tenho uma briga boa
+Text.Inmates.Attacked.31	Boom!
+Text.Inmates.Attacked.32	Lá vou eu
+Text.Inmates.Attacked.33	Tu já era!
+Text.Inmates.Attacked.34	O que isso significa?
+Text.Inmates.Attacked.35	Tu vai aprender que sou muito mais forte
+Text.Inmates.Attacked.36	Que feio!
+Text.Inmates.Attacked.37	VAI SE FERRA!
+Text.Inmates.Attacked.38	Uau
+Text.Inmates.Attacked.39	Calma aé
+Text.Inmates.Attacked.40	Seu...
+Text.Inmates.Attacked.41	BOSH!
+Text.Inmates.Attacked.42	Ou!
+Text.Inmates.Attacked.43	Vamos acabar com isso
+Text.Inmates.Attacked.44	Ouch
+Text.Inmates.Attacked.45	Pra que isso cara?
+Text.Inmates.Attacked.46	Explique-se.
+Text.Inmates.Attacked.47	Ouça
+Text.Inmates.Attacked.48	Estão me batendo!
+Text.Inmates.Attacked.49	Preciso de reforços!
+Text.Inmates.Attacked.50	Chama a policia! Não...
+Text.Inmates.Attacked.51	Alguém liga pro 191!
+Text.Inmates.Attacked.52	Preciso de ajuda!
+Text.Inmates.Attacked.53	Ajuda!
+	
+Text.Guards.Shakedown.1	Quem terá a cela revistada é...
+Text.Guards.Shakedown.2	Os nomes citados a seguir terão suas celas revistadas...
+Text.Guards.Shakedown.3	Os lixos que serão citados agora, terão suas celas revistadas...
+Text.Guards.Shakedown.4	Os seguintes infelizes terão suas celas revistadas..
+Text.Guards.Shakedown.5	Revistaremos as celas dos seguintes imbecis...
+	
+Text.Guards.ShakedownNames	$name e $inmate!
+	
+Text.Inmate.Steal.1	StealChar@Inmate@Esse rato de merda, $inmate, roubou um(a) $item meu! Eu quero de volta, AGORA!
+Text.Inmate.Steal.2	StealChar@Inmate@Um passarinho me disse que viu $inmate com um item meu que sumiu, um(a) $item. Se importa de pegá-lo?
+Text.Inmate.Steal.3	StealChar@Inmate@De algum jeito, $inmate usou as patas de merda dele pra roubar um item meu, um(a) $item! Eu preciso pegar ele novamente!
+Text.Inmate.Steal.4	StealChar@Inmate@$inmate pegou um(a) $item meu! Poderia pegá-lo para mim?
+Text.Inmate.Steal.5	StealChar@Guard@$guard pegou um(a) $item meu. Eu ficaria realmente agradecido se pega-se ele de volta.
+Text.Inmate.Steal.6	StealChar@Guard@$guard invadiu minha cela e pegou um(a) $item. Poderia pegá-lo de volta?
+Text.Inmate.Steal.7	StealChar@Guard@Outro dia, um(a) $item meu sumiu, hoje ouvi falar que o $guard pegou ele. Poderia pegá-lo para mim?
+Text.Inmate.Steal.8	StealChar@Guard@$guard roubou meu/minha $item mais cedo. Eu quero ele de volta!
+Text.Inmate.Steal.9	StealChar@Inmate@Meu item da sorte, um(a) $item foi parar na mão do $inmate. Pegue ele de volta pra mim, e ficarei agradecido.
+Text.Inmate.Steal.10	StealChar@Inmate@Pelo visto, as demonstrações de amizade de $inmate era só um disfarce pra aquele porco colocar as mãos no meu $item. Se importa de pegá-lo para mim?
+Text.Inmate.Steal.11	StealChar@Inmate@Paguei uma grana preta pro $inmate por um $item e ele não entregou. Pegue-o pra mim, e irei lhe recompensar.
+Text.Inmate.Steal.12	StealChar@Inmate@$inmate e seus amiguinhos pegaram meu/minha $item. Pegue ele de volta pra mim e receberá algo de volta.
+Text.Inmate.Steal.13	StealChar@Inmate@Meu $item desapareceu e suspeito que $inmate é o culpado. Eu queria tê-lo de volta.
+Text.Inmate.Steal.14	StealChar@Guard@Eu entreguei ao $guard um(a) $item, esperando que ele me desse alguma ajuda. Ele falhou com isso, e agora quero o item de volta.
+Text.Inmate.Steal.15	StealChar@Inmate@$inmate roubou meu/minha $item! Pega ele de volta, e te garanto algo, mano. 
+	
+Text.ChatToGuard.1	Não entendo como algumas pessoas odeiam a liberdade
+Text.ChatToGuard.2	O que?
+Text.ChatToGuard.3	Estou ocupado; aproveitando minha liberdade
+Text.ChatToGuard.4	Se estiver sem nada pra fazer, visite a solitária
+Text.ChatToGuard.5	Conheço um lugar pra você
+Text.ChatToGuard.6	Não questione minha autoridade
+Text.ChatToGuard.7	Eu sou a lei
+Text.ChatToGuard.8	Tenho mais o que fazer
+Text.ChatToGuard.9	Ocupado...
+Text.ChatToGuard.10	Não me perturbe
+Text.ChatToGuard.11	Continue andando amigo
+Text.ChatToGuard.12	Você está me incomodando
+Text.ChatToGuard.13	Tu tá me enchendo o saco
+Text.ChatToGuard.14	Não converso com estranhos
+Text.ChatToGuard.15	Tome cuidado!
+Text.ChatToGuard.16	Sua voz me irrita
+Text.ChatToGuard.17	Não quero saber
+Text.ChatToGuard.18	E por acaso eu quero saber?
+Text.ChatToGuard.19	Não encha
+Text.ChatToGuard.20	Limpe esse lugar
+Text.ChatToGuard.21	Limpe os calçados
+Text.ChatToGuard.22	Vá estudar moleque
+Text.ChatToGuard.23	Vê se penteá esse cabelo
+Text.ChatToGuard.24	Tá querendo marcar um encontro comigo?
+Text.ChatToGuard.25	Limpe o corredor 4
+Text.ChatToGuard.26	Xiu
+Text.ChatToGuard.27	Tá querendo me chatear?
+Text.ChatToGuard.28	Preciso de um aumento...
+Text.ChatToGuard.29	O dia do pagamento tá chegando...
+Text.ChatToGuard.30	Tenho que bater em alguém
+Text.ChatToGuard.31	Estou ocupado.
+Text.ChatToGuard.32	De quem é esse chiado?
+Text.ChatToGuard.33	Tá querendo o que?
+Text.ChatToGuard.34	Muito interessante, mas guarde pra você
+Text.ChatToGuard.35	Quero que faça 20 flexões
+Text.ChatToGuard.36	Que tal preparar um sanduíche pra mim?
+Text.ChatToGuard.37	Vá colocar a água para ferver
+Text.ChatToGuard.38	De quem é esse chiado?
+Text.ChatToGuard.39	Duas colheres de açúcar no meu...
+Text.ChatToGuard.40	Me traga um lanche
+Text.ChatToGuard.41	Você abre sua boca quando eu mandar
+Text.ChatToGuard.42	Por acaso eu deixei tu abrir a boca?
+Text.ChatToGuard.43	Dá próxima ver que abrir a boca, vai ganhar um belo dum tapa.
+Text.ChatToGuard.44	Seria uma honra acabar contigo
+Text.ChatToGuard.45	Fim da linha pra tu
+Text.ChatToGuard.46	Quer conversar? Converse com meus punhos.
+Text.ChatToGuard.47	Vou deixar meus punhos conhecerem tua boca
+Text.ChatToGuard.48	Continue andando
+Text.ChatToGuard.49	Quem sabe um dia eu não arrume um emprego de verdade...
+Text.ChatToGuard.50	Que foi?
+Text.ChatToGuard.51	Poupe-me.
+Text.ChatToGuard.52	Sai de perto
+Text.ChatToGuard.53	Some do meu caminho
+Text.ChatToGuard.54	Você não tem nenhum direito
+Text.ChatToGuard.55	Você é bem chatinho, hein?
+Text.ChatToGuard.56	Você é um tédio
+Text.ChatToGuard.57	Sério, vai tomar um banho
+Text.ChatToGuard.58	Seu bafo fede cara
+Text.ChatToGuard.59	Tá afim de colecionar urubu?
+Text.ChatToGuard.60	Eu só espanquei nove pessoas hoje
+Text.ChatToGuard.61	Já que sei que sou um gato
+Text.ChatToGuard.62	Já pensou quantos furos essa arma pode fazer em você?
+Text.ChatToGuard.63	Vá arrumar algo pra fazer
+Text.ChatToGuard.64	Mostre respeito garoto
+Text.ChatToGuard.65	Curve-se
+Text.ChatToGuard.66	Me trate como um rei
+Text.ChatToGuard.67	Pode me chamar de Rei
+Text.ChatToGuard.68	Você pode me chamar de Senhor Rei
+Text.ChatToGuard.69	Me adore
+Text.ChatToGuard.70	Acho que ninguém sentiria falta de você...
+Text.ChatToGuard.71	Andei falando com sua esposa
+Text.ChatToGuard.72	Sua esposa mandou um abraço
+Text.ChatToGuard.73	Vou levar sua esposa pra jantar
+Text.ChatToGuard.74	A comida da sua esposa é ótima.
+Text.ChatToGuard.75	Sua esposa me contou tudo sobre você.
+Text.ChatToGuard.76	Onde é que quer parar?
+Text.ChatToGuard.77	Não vou com tua cara
+Text.ChatToGuard.78	Eu vou te ferrar
+Text.ChatToGuard.79	Vou acabar com essa sua racinha
+Text.ChatToGuard.80	Acha que vai resolver tudo isso em que se meteu?
+	
+Text.Inmate.BeatUp.1	Beat@Inmate@Esse bosta do $inmate está me desrespeitando. Acabe com ele e lhe recompensarei!
+Text.Inmate.BeatUp.2	Beat@Inmate@$inmate está me fazendo passar vergonha com meu grupo usando alguns truques sujos. Ele merece uma surra, dê o que ele merece
+Text.Inmate.BeatUp.3	Beat@Inmate@Aquele tal de $inmate voltou a ser um ladrãozinho, dessa vez na prisão. Dê uma boa surra nele e irei lhe pagar.
+Text.Inmate.BeatUp.4	Beat@Inmate@Preciso que o $inmate desapareça. Eu faria isso sozinho, mas os guardas estão de olho em mim. Que tal me dar uma mãozinha?
+Text.Inmate.BeatUp.5	Beat@Inmate@Você não é amigo do $inmate, certo? Todo mundo quer que ele apanhe bastante.
+Text.Inmate.BeatUp.6	Beat@Inmate@O infeliz do $inmate venceu uma briga sozinho. Que tal você ir tirar aquele sorriso de bosta dele?
+Text.Inmate.BeatUp.7	Beat@Inmate@$inmate anda me dedurando para os guardas. Talvez uma lição com os punhos faça ele calar. Poderia fazer isso pra mim?
+Text.Inmate.BeatUp.8	Beat@Inmate@Parece que o $inmate anda falando merda de mim novamente. Arrebente ele, e farei com que seja recompensado.
+Text.Inmate.BeatUp.9	Beat@Inmate@$inmate está planejando alguma coisa- posso sentir isso. Dê uma lição nele e mostre quem é que manda.
+Text.Inmate.BeatUp.10	Beat@Guard@$guard acha que tem acesso VIP a minha cela. Tenha uma conversinha de socos e chutes com ele e irei lhe pagar.
+Text.Inmate.BeatUp.11	Beat@Guard@$guard me levou em uma emboscada outro dia, e levei uma bela duma surra. Eu adoraria retribuir o favor a ele, poderia fazer isto pra mim?
+Text.Inmate.BeatUp.12	Beat@Guard@O guarda $guard está tentando pegar meus lucros novamente! Da última vez, uma surra resolveu, talvez outra resolva novamente. Gostaria de fazer isto pra mim?
+Text.Inmate.BeatUp.13	Beat@Inmate@Suspeito que o motivo dos guardas ficarem me vigiando, é o lixo do $inmate. Acabe com a raça dele pra mim, e irá ser recompensado.
+Text.Inmate.BeatUp.14	Beat@Inmate@$inmate está ferrando com a minha família. Preciso que ele seja esfolado. Poderia resolver isto para mim?
+Text.Inmate.BeatUp.15	Beat@Inmate@O imbecil do $inmate impediu que eu muda-se de cela de algum jeito muito bem planejado. Ensine a ele que isso não se faz para mim.
+Text.Inmate.BeatUp.16	Beat@Inmate@Não sei quem começou esses rumores sobre mim, mas $inmate poderia servir de exemplo, do que acontece com quem se mexe comigo. Aceita?
+Text.Inmate.BeatUp.17	Beat@Inmate@$inmate abriu a boca e contou todas minhas sujeiras pros cana. Isso deve ser recompensado com uma boa surra.
+Text.Inmate.BeatUp.18	Beat@Inmate@$inmate parece que está me espionando para alguém. Faça com que o rosto dele encontre seus punhos e tenham uma relação bem selvagem.
+Text.Inmate.BeatUp.19	Beat@Inmate@A curiosidade do $inmate colocou ele na minha lista dos que mais precisam de uma surra. Quer uma graninha?
+Text.Inmate.BeatUp.20	Beat@Guard@Negaram minha condicional graças ao $guard. Quero que ele suma do mapa.
+Text.Inmate.BeatUp.21	Beat@Guard@$guard falhou ao honrar nosso trato de 'finja que não viu'. Se importaria de dar uma lição á ele?
+Text.Inmate.BeatUp.22	Beat@Guard@Claramente, o $guard está em cima de mim. Faça com que a cara dele se espalhe no chão.
+Text.Inmate.BeatUp.23	Beat@Guard@Aquele bosta do $guard é pior que os malucos presos aqui. É necessário que ele perda alguns dentes.
+	
+Text.Inmate.FavourGive.1	Give@Preciso de um $item, poderia encontrar um pra mim?
+Text.Inmate.FavourGive.2	Give@Estou a procura de um $item, que tal encontrar um pra mim?
+Text.Inmate.FavourGive.3	Give@Encontre um $item pra mim e farei com que tenha valido a pena.
+	
+Text.Favour.Distract.1	Distract@Estou planejando dar uma boa lição á alguém durante a(o) próxima(o) $routine. Chame a atenção dos guardas enquanto faço isso
+Text.Favour.Distract.2	Distract@Na(o) próxima(o) $routine, distraia os guardas para mim- vou causar uma boa confusão nas celas!
+Text.Favour.Distract.3	Distract@Chame a atenção dos guardas na(o) próxima(o) $routine pra mim, tenho algumas dividas pendentes!
+Text.Favour.Distract.4	Distract@Finalmente encontrei quem anda me espionando! Distraia os guardas na(o) próxima(o) $routine para que eu lhe dê uma bela recompensa.
+Text.Favour.Distract.5	Distract@Preciso resolver assuntos pendentes na(o) próxima(o) $routine! Se você puder atrair os guardas, eu ficaria muito grato em lhe dar uma recompensa... 
+Text.Favour.Distract.6	Distract@Andei observando um ladrão de merda a dias, e finalmente descobri a rotina dele. Distraia os guardas na(o) próxima(o) $routine para que eu lhe ensine como se comportar.
+Text.Favour.Distract.7	Distract@Se puder atrair os guardas na(o) próxima(o) $routine, poderei fazer justiça com esse belo martelo!
+	
+Text.Favour.Fetch1	Fetch@None@I think I'm being watched- it's too dangerous for me to grab my $item. Mind fetching it for me?
+	
+Text.Favour.PlantDesk1	PlantDesk@Inmate@Ouvi dizer que os guardas planejam revistar a cela de $inmate. Você pode colocar meu $item em sua mesa?
+Text.Favour.PlantDesk2	PlantDesk@Inmate@Um passarinho me disse que eles vão revistar a cela de $inmate. Certifique-se de que eles encontrem meu $item em sua mesa?
+	
+Text.UI.Quest.Payout	\nRecompensa: 
+Text.UI.Quest.BeatUp	$giver quer que você atinja $subject.
+	
+	
+Text.UI.Quest.Distraction	Causa um ruccus em $routine.
+Text.UI.Quest.Offer.BeatUp1	$giver: Por fofoca $subject, está no topo da minha lista de surras. Você quer ganhar algum dinheiro?
+	
+Text.UI.Quest.Offer.Distraction1	Na(o) próxima(o) $routine, distraia os guardas para mim- vou causar uma boa confusão nas celas!
+	
+Text.Guard.Heat.1	A diversão acabou, $name!
+Text.Guard.Heat.2	A hora do recreio acabadou, $name!
+Text.Guard.Heat.3	Vou acabar com você, $name!
+Text.Guard.Heat.4	Venha aqui, $name!
+Text.Guard.Heat.5	Fim de jogo, $name!
+Text.Guard.Heat.6	Ei, $name!
+Text.Guard.Heat.7	$name! Pare!
+Text.Guard.Heat.8	Calma ai, $name!
+Text.Guard.Heat.9	Chegou sua hora $name!
+Text.Guard.Heat.10	Sinta nossa fúria, $name!
+Text.Guard.Heat.11	Peguem ele!
+Text.Guard.Heat.12	Ele está aqui!
+Text.Guard.Heat.13	Parem ele!
+Text.Guard.Heat.14	Acabem com ele!
+Text.Guard.Heat.15	Liguem os tazers!
+Text.Guard.Heat.16	Acabem com ele!
+Text.Guard.Heat.17	A casa caiu, peguem ele!
+Text.Guard.Heat.18	Todo mundo! Atrás dele!
+Text.Guard.Heat.19	Vamos pega-lo!
+Text.Guard.Heat.20	É ele!
+	
+Text.Guard.Chat.1	Mova-se, $name
+Text.Guard.Chat.2	Saí da frente $name
+Text.Guard.Chat.3	Com licença, $name
+Text.Guard.Chat.4	Suma daqui, $name
+Text.Guard.Chat.5	Pelo amor, $name, sai da frente
+Text.Guard.Chat.6	Depressa $name
+Text.Guard.Chat.7	Vamos $name
+Text.Guard.Chat.8	Rápido $name
+Text.Guard.Chat.9	Anda $name
+Text.Guard.Chat.10	Saí do caminho $name
+Text.Guard.Chat.11	Xô, xô $name!
+	
+Text.Guard.Work.1	Vá trabalhar, $name!
+Text.Guard.Work.2	Você devia estar no trabalho $name!
+Text.Guard.Work.3	$name, vai trabalhar!
+Text.Guard.Work.4	Tu tem trabalho á fazer $name!
+Text.Guard.Work.5	Vai trabalhar $name, seu vagabundo!
+Text.Guard.Work.6	Ei $name! Vá pro trabalho! Agora!
+Text.Guard.Work.7	Vá trabalhar $name!
+Text.Guard.Work.8	Vá trabalhar $name, antes que te reporte!
+	
+Text.Guard.Naked.1	Vá se vestir, $name!
+Text.Guard.Naked.2	$name, ninguém quer ver isso!
+Text.Guard.Naked.3	$name, vista-se!
+Text.Guard.Naked.4	$name, ninguém quer ver tu pelado!
+Text.Guard.Naked.5	$name! Arrume alguma roupa!
+Text.Guard.Naked.6	$name, não tem vergonha?
+Text.Guard.Naked.7	Parece bom, $name
+	
+Text.Guard.Cell.1	$name! Saía dessa cela!
+Text.Guard.Cell.2	Saia dessa cela, $name!
+Text.Guard.Cell.3	Vaza daí $name!
+Text.Guard.Cell.4	Dá o fora dessa cela $name!
+Text.Guard.Cell.5	Essa não é sua cela $name!
+Text.Guard.Cell.6	Você não devia estar ai $name!
+Text.Guard.Cell.7	Mova-se $name!
+	
+Text.GuardAlert.Fighting.1	Pare com isso $name!
+Text.GuardAlert.Fighting.2	Ei! $name!
+Text.GuardAlert.Fighting.3	$name! Desista!
+	
+Text.Player.ActionInmate.1	Mas que porra foi essa!?
+Text.Player.ActionInmate.2	Cuidado com o que tu faz
+Text.Player.ActionInmate.3	Que isso otário?
+Text.Player.ActionInmate.4	Levante-se
+Text.Player.ActionInmate.5	Calma ae
+Text.Player.ActionInmate.6	Mexa-se
+Text.Player.ActionInmate.7	Quem você acha que é
+Text.Player.ActionInmate.8	Tá afim de levar uma surra?
+Text.Player.ActionInmate.9	Ah, hoje tu vai apanhar
+Text.Player.ActionInmate.10	Se cuida otário
+	
+Text.Player.Follow.1	Vamos
+Text.Player.Follow.2	Me siga
+Text.Player.Follow.3	Venha
+Text.Player.Follow.4	Me siga
+Text.Player.Follow.5	Por aqui
+Text.Player.Follow.6	Tem um minuto?
+Text.Player.Follow.7	Vâmo
+Text.Player.Follow.8	Por aqui
+	
+Text.Player.Dismiss.1	Isso é tudo
+Text.Player.Dismiss.2	Ficamos por aqui
+Text.Player.Dismiss.3	Valeu
+Text.Player.Dismiss.4	Descansar!
+Text.Player.Dismiss.5	Obrigado.
+Text.Player.Dismiss.6	Bom trabalho
+Text.Player.Dismiss.7	Cuide-se
+Text.Player.Dismiss.8	Até
+	
+Text.Player.Follow.Attack.1	Peguem ele!
+Text.Player.Follow.Attack.2	Acabem com ele!
+Text.Player.Follow.Attack.3	Atrás dele!
+Text.Player.Follow.Attack.4	Detonem ele!
+Text.Player.Follow.Attack.5	Tá na hora dele apanhar!
+Text.Player.Follow.Attack.6	Cacem ele!
+Text.Player.Follow.Attack.7	Destruam ele!
+Text.Player.Follow.Attack.8	Vâmo atrás dele!
+Text.Player.Follow.Attack.9	Quebrem ele!
+Text.Player.Follow.Attack.10	Derrubem ele
+Text.Player.Follow.Attack.11	Vâmo levar ele pra enfermaria!
+Text.Player.Follow.Attack.12	ATACAR!
+Text.Player.Follow.Attack.13	Vâmo fazer um estrago nele
+Text.Player.Follow.Attack.14	Esfregue o chão com a cara dele
+Text.Player.Follow.Attack.15	Cubram ele de porrada!
+Text.Player.Follow.Attack.16	Pegue aquele cara!
+Text.Player.Follow.Attack.17	Matem ele!
+Text.Player.Follow.Attack.18	Esmaguem ele!
+Text.Player.Follow.Attack.19	Vâmo brincar de pega-mata
+Text.Player.Follow.Attack.20	Acabem com aquele ali.
+Text.Player.Follow.Attack.21	Pare de olhar para mim. É isso - bata nele!
+	
+Text.Inmates.PlayerRep0.1	What you looking at boy?
+Text.Inmates.PlayerRep0.2	Don't you be eyeballin' me
+Text.Inmates.PlayerRep0.3	You got a problem?
+Text.Inmates.PlayerRep0.4	You got my money yet?
+Text.Inmates.PlayerRep0.5	Watch your back
+Text.Inmates.PlayerRep0.6	Yeah ya' better keep walkin'
+Text.Inmates.PlayerRep0.7	Keep walking!
+Text.Inmates.PlayerRep0.8	What you been sayin' about me?
+Text.Inmates.PlayerRep0.9	Talking behind my back eh?
+Text.Inmates.PlayerRep0.10	Snitching on me eh?
+Text.Inmates.PlayerRep0.11	I told you before about
+Text.Inmates.PlayerRep0.12	Don't remember saying you could walk past me
+Text.Inmates.PlayerRep0.13	Keep outta my face
+Text.Inmates.PlayerRep0.14	Keep out my way
+Text.Inmates.PlayerRep0.15	You owe me boy, don't forget it
+Text.Inmates.PlayerRep0.16	I'll drop you right here!
+Text.Inmates.PlayerRep0.17	Ain't nobody else here so you must be talkin' to me
+Text.Inmates.PlayerRep0.18	Did someone squeak?
+Text.Inmates.PlayerRep0.19	Cool it, little man
+Text.Inmates.PlayerRep0.20	Get outta my face!
+Text.Inmates.PlayerRep0.21	You jus' keep talkin'
+Text.Inmates.PlayerRep0.22	You gonna bark all day little doggie?
+Text.Inmates.PlayerRep0.23	I told you before what would happen
+Text.Inmates.PlayerRep0.24	Sick of telling you this!
+Text.Inmates.PlayerRep0.25	Don't you look at me in that tone!
+	
+Text.Visitor.Greet1	Você nunca adivinharia..
+Text.Visitor.Greet2	Adivinha...
+Text.Visitor.Greet3	Tenho notícias...
+Text.Visitor.Greet4	Tudo bem?
+Text.Visitor.Greet5	Como tu tá?
+Text.Visitor.Greet6	Tudo legal?
+Text.Visitor.Greet7	De boa?
+Text.Visitor.Greet8	É você?
+Text.Visitor.Greet9	Estou atrasado, desculpe-me
+Text.Visitor.Greet10	Bom te ver
+Text.Visitor.Greet11	Tu parece cansado
+Text.Visitor.Greet12	Trouxe notícias
+Text.Visitor.Greet13	Tenho algo pra te contar
+Text.Visitor.Greet14	Já ouviu as boas?
+Text.Visitor.Greet15	Já leu o jornal de hoje?
+Text.Visitor.Greet16	Já se acostumou?
+Text.Visitor.Greet17	Tá tudo certo?
+Text.Visitor.Greet18	Você não chamou...
+Text.Visitor.Greet19	Por que você não me escreveu?
+Text.Visitor.Greet20	Eu li seu email
+Text.Visitor.Greet21	Li sua carta
+Text.Visitor.Greet22	Recebi sua mensagem
+Text.Visitor.Greet23	Vim o mais rápido que pude
+Text.Visitor.Greet24	Tenho que te contar algo
+Text.Visitor.Greet25	Tenho uma confissão
+Text.Visitor.Greet26	Trago notícias
+Text.Visitor.Greet27	Tenho um anuncio pra fazer
+Text.Visitor.Greet28	Uma mensagem de fora
+Text.Visitor.Greet29	Word on the grapevine. 
+Text.Visitor.Greet30	Uma coisa de fora daqui
+Text.Visitor.Greet31	Isso deve te animar…
+Text.Visitor.Greet32	Calma, você vai gostar…
+Text.Visitor.Greet33	Então, err…
+Text.Visitor.Greet34	Não acho que vai curtir isso…
+Text.Visitor.Greet35	Não sei como irá receber isso…
+Text.Visitor.Greet36	Certo, não posso mentir…
+Text.Visitor.Greet37	Te respeito muito, mas preciso dizer…
+Text.Visitor.Greet38	Ouça…
+Text.Visitor.Greet39	Bem, preciso tirar isso de mim…
+Text.Visitor.Greet40	Não fique nervoso…
+Text.Visitor.Greet41	Prometa que não vai gritar…
+Text.Visitor.Greet42	Eu preciso que você coloque sua cabeça em torno disso.
+Text.Visitor.Greet43	Não enlouqueça..
+Text.Visitor.Greet44	Mantenha isso só entre nós...
+Text.Visitor.Greet45	Pode guardar um segredo?
+Text.Visitor.Greet46	Vou lhe dizer o que anda me perturbando..
+Text.Visitor.Greet47	Se tu já tava com raiva, espera até ouvir isso…
+Text.Visitor.Greet48	Estou com o coração doendo, mas preciso lhe contar…
+Text.Visitor.Greet49	Pera, deixa eu parar de rir pra te contar…
+Text.Visitor.Greet50	Não querendo ser o portador de más notícias, mas.
+	
+Text.Visitor.Banter1	O periquito, ele morreu.
+Text.Visitor.Banter2	A vovó morreu.
+Text.Visitor.Banter3	O vovô bateu as botas
+Text.Visitor.Banter4	O cachorro se foi.
+Text.Visitor.Banter5	Sabe a Argloss? A loja toda tá com desconto de 50% !
+Text.Visitor.Banter6	Eu hipotequei a caravana
+Text.Visitor.Banter7	Os oficiais tiraram tudo nosso
+Text.Visitor.Banter8	Nossa casa pegou fogo
+Text.Visitor.Banter9	Eu gastei tudo da nossa conta
+Text.Visitor.Banter10	Irei emigrar
+Text.Visitor.Banter11	Irei mudar
+Text.Visitor.Banter12	Vou sumir por uns tempos
+Text.Visitor.Banter13	Vou te tirar daqui
+Text.Visitor.Banter14	Andei recebendo ameaças anonimas
+Text.Visitor.Banter15	Os trolls estão acabando comigo
+Text.Visitor.Banter16	A caldeira precisa de concerto novamente
+Text.Visitor.Banter17	Vendi tudo que era seu para arrumar uma grana
+Text.Visitor.Banter18	Estou em um noivado
+Text.Visitor.Banter19	Estou divorciando
+Text.Visitor.Banter20	Irei sair do meu trabalho
+Text.Visitor.Banter21	Seu advogado está nos evitando
+Text.Visitor.Banter22	Seu advogado desistiu
+Text.Visitor.Banter23	Seu advogado fugiu com o dinheiro
+Text.Visitor.Banter24	Seu advogado disse que não tem esperanças para você
+Text.Visitor.Banter25	Seu pedido foi negado
+Text.Visitor.Banter26	A juíza riu do seu pedido
+Text.Visitor.Banter27	Sua solicitação para a condicional foi negada
+Text.Visitor.Banter28	Seu pedido foi jogado no vaso
+Text.Visitor.Banter29	O gato defecou no tapete
+Text.Visitor.Banter30	Roubaram meu trator
+Text.Visitor.Banter31	Roubaram meu carro
+Text.Visitor.Banter32	Roubaram minhas sandálias
+Text.Visitor.Banter33	Roubaram meus calçados
+Text.Visitor.Banter34	O pão aumentou 10 centavos
+Text.Visitor.Banter35	O leite aumentou de preço
+Text.Visitor.Banter36	Cancelaram nossa compra
+Text.Visitor.Banter37	Comprei uma nova casa
+Text.Visitor.Banter38	Comprei um carro novo
+Text.Visitor.Banter39	Comprei um chápeu
+Text.Visitor.Banter40	Vou ser famoso!
+Text.Visitor.Banter41	Mudei de emprego
+Text.Visitor.Banter42	Está será minha última visita
+Text.Visitor.Banter43	Andei me divertindo muito
+Text.Visitor.Banter44	Estou vivendo meu sonho
+Text.Visitor.Banter45	Estou usando peruca
+Text.Visitor.Banter46	A vovó costurou novas meias para você
+Text.Visitor.Banter47	A vovó comprou um chapéu novo pra você
+Text.Visitor.Banter48	A vovó está com problemas intestinais de novo
+Text.Visitor.Banter49	A vovó vai operar amanhã
+Text.Visitor.Banter50	O eletricista me enganou
+Text.Visitor.Banter51	Fui expulso da igreja
+Text.Visitor.Banter52	Fui expulso de alguns lugares
+Text.Visitor.Banter53	Me proibiram de vir te visitar
+Text.Visitor.Banter54	Fui banido do WoW
+Text.Visitor.Banter55	Consegui um pouco de grana
+Text.Visitor.Banter56	Assaltei um banco
+Text.Visitor.Banter57	Não ando pagando as contas
+Text.Visitor.Banter58	Esqueci de pagar os impostos
+Text.Visitor.Banter59	Não acredito na vida que ando tendo
+Text.Visitor.Banter60	Eu fui ao solário
+Text.Visitor.Banter61	Estou pensando em chamar o leiteiro pra morar comigo
+Text.Visitor.Banter62	Virei modelo
+Text.Visitor.Banter63	Eu tenho conversado com um monte de homens lindos
+Text.Visitor.Banter64	Estou pensando em chamar o carteiro pra morar comigo
+Text.Visitor.Banter65	Andei falando com um monte de gostosas
+Text.Visitor.Banter66	Eu gastei muito dinheiro jogando online
+Text.Visitor.Banter67	O papagaio fugiu
+Text.Visitor.Banter68	Não estou sendo fiel
+Text.Visitor.Banter69	Eu peguei os do cassino
+Text.Visitor.Banter70	Eu derreti nossas economias no cassino
+Text.Visitor.Banter71	Eu gastei todas as nossas economias no bingo
+Text.Visitor.Banter72	Estou começando tudo de novo
+Text.Visitor.Banter73	Preciso começar tudo de novo
+Text.Visitor.Banter74	As coisas estão fora do controle
+Text.Visitor.Banter75	Está tudo bagunçado
+Text.Visitor.Banter76	A mulher barbada tem barba boba babada e um barbado bobo todo babado!
+	
+Text.Visitor.Leave1	é só isso que tenho á dizer
+Text.Visitor.Leave2	é só isso
+Text.Visitor.Leave3	...era só isso
+Text.Visitor.Leave4	Até a próxima
+Text.Visitor.Leave5	Bem, já cansei. Até
+Text.Visitor.Leave6	Vou indo
+Text.Visitor.Leave7	Tchau
+Text.Visitor.Leave8	Tenho que ir
+Text.Visitor.Leave9	Vou dar o fora
+Text.Visitor.Leave10	Divirta-se
+Text.Visitor.Leave11	Mantenha contato
+Text.Visitor.Leave12	Não se distancie
+Text.Visitor.Leave13	Estou indo.
+Text.Visitor.Leave14	Bom, perdi alguns minutos preciosos...
+Text.Visitor.Leave15	Que coisa chata...
+Text.Visitor.Leave16	Foi bom conversar com você
+Text.Visitor.Leave17	Até logo
+Text.Visitor.Leave18	Vou te manter por dentro
+Text.Visitor.Leave19	Vou manter tu atualizado
+Text.Visitor.Leave20	Entrarei em contato
+Text.Visitor.Leave21	Adios
+Text.Visitor.Leave22	Agora, tenho mais o que fazer
+Text.Visitor.Leave23	Tenho que encontrar um cachorro
+Text.Visitor.Leave24	Tenho que conversar com outros
+Text.Visitor.Leave25	Tenho que ir pra... qualquer outro lugar
+Text.Visitor.Leave26	Volto depois
+Text.Visitor.Leave27	Saindo...
+Text.Visitor.Leave28	Me escreva
+Text.Visitor.Leave29	Me mande um email
+Text.Visitor.Leave30	Tenho mais o que fazer, tchau.
+Text.Visitor.Leave31	Tenho que visitar outras pessoas
+Text.Visitor.Leave32	Tenho que ir.
+Text.Visitor.Leave33	Bom, tá na hora.
+Text.Visitor.Leave34	AI MEU DEUS, tenho que ir, tchau.
+Text.Visitor.Leave35	Bom, tenho que ir pegar as crianças
+Text.Visitor.Leave36	Bom, tenho que ir no shopping
+Text.Visitor.Leave37	Bom, tenho que ir comprar pão
+Text.Visitor.Leave38	Bom, tenho que ir comprar alguma coisa
+Text.Visitor.Leave39	Bom, tenho que ir lanchar
+Text.Visitor.Leave40	Bom, tenho que ir me preparar
+Text.Visitor.Leave41	Bom, tenho que ir e aproveitar minha liberdade
+Text.Visitor.Leave42	...
+Text.Visitor.Leave43	Eu fui enganado online
+Text.Visitor.Leave44	Fui assaltado
+Text.Visitor.Leave45	Esta foi uma visita memorável!
+Text.Visitor.Leave46	Meu advogado vai te ligar
+Text.Visitor.Leave47	Onde coloquei o passe de ônibus?
+Text.Visitor.Leave48	Eu tenho que ir trabalhar
+Text.Visitor.Leave49	Eu tenho que ir me inscrever para o desemprego
+Text.Visitor.Leave50	Ei, você pode me dar um pequeno empréstimo, mesmo com grandes juros?
+Text.Visitor.Leave51	Você tem troco para o ônibus?
+Text.Visitor.Leave52	Eu preciso sair para tomar um ar
+Text.Visitor.Leave53	eu preciso de um banho
+Text.Visitor.Leave54	Eu tenho que fazer as malas
+Text.Visitor.Leave55	Você me pegou até o nariz
+Text.Visitor.Leave56	Não consigo nem olhar para você!
+Text.Visitor.Leave57	Pela primeira vez você poderia ter me deixado falar
+Text.Visitor.Leave58	Você me dá nojo!
+Text.Visitor.Leave59	Terminei
+Text.Visitor.Leave60	Não me importas
+Text.Visitor.Leave61	Mas isso não tem mais nada a ver *COM VOCÊ*!
+Text.Visitor.Leave62	Se você não tem vontade de me ouvir, diga
+Text.Visitor.Leave63	Você não me deixa conseguir um trunfo!
+Text.Visitor.Leave64	É que. Já não sei o que fazer
+Text.Visitor.Leave65	Que falta de visita.
+Text.Visitor.Leave66	Eu ficarei doente
+Text.Visitor.Leave67	Estou cansado
+Text.Visitor.Leave68	Nunca entendi o que vi em você
+Text.Visitor.Leave69	Que bosta...
+Text.Visitor.Leave70	Estou irritado!
+Text.Visitor.Leave71	Não me ligue
+Text.Visitor.Leave72	Não me escreva
+Text.Visitor.Leave73	Nunca me senti tão insultado!
+Text.Visitor.Leave74	Olhe para si mesmo…achando que é importante
+Text.Visitor.Leave75	Volte para sua cela
+Text.Visitor.Leave76	Não se preocupe - irei dizer a todos como você AINDA ESTÁ nos negócios
+Text.Visitor.Leave77	Reze por mim
+Text.Visitor.Leave78	Vou rezar por você
+Text.Visitor.Leave79	Falarei com seus amigos pra não se preocuparem
+Text.Visitor.Leave80	Falarei com a vovó pra não se preocupar
+Text.Visitor.Leave81	Falarei comas crianças pra não se preocuparem
+Text.Visitor.Leave82	Estou indo
+Text.Visitor.Leave83	Lá vou eu...
+Text.Visitor.Leave84	Me despeço
+Text.Visitor.Leave85	Isso é tudo pessoal
+Text.Visitor.Leave86	Não chore por mim.
+Text.Visitor.Leave87	Não desista ainda
+Text.Visitor.Leave88	Cuide-se
+Text.Visitor.Leave89	Estou tão triste pelo rumo que as coisas tomaram
+Text.Visitor.Leave90	Adeus
+Text.Visitor.Leave91	Até
+Text.Visitor.Leave92	Não é você, sou eu.
+Text.Visitor.Leave93	Tchauzinho.
+	
+Text.Player.Hint1	Use 'GRAPHIC' para mover o personagem.
+Text.Player.Hint2	Pressione 'GRAPHIC' para conversar, coletar e usar objetos. Com 'GRAPHIC' você pode atacar. Com 'GRAPHIC' você pode ver os perfis.
+Text.Player.Hint3	A vida na prisão é cheia de rotinas; Respeite-as e os guardas o deixarão em paz enquanto você trama sua fuga.
+Text.Player.Hint4	Para entregar itens a outros presos, pressione 'GRAPHIC' perto deles. Claro: não deixe os guardas pegarem você!
+Text.Player.Hint5	Use a mesa da sua cela para guardar itens. Porém, cuidado - se os guardas revistarem sua cela e encontrarem itens ilegais, você terá um grande problema!
+Text.Player.Hint6	Se você passar pelos detectores com objetos ilegais, eles alertarão os guardas.
+Text.Player.Hint7	Tarefas manuais cansam você. Sente-se, durma, coma ou tome banho para reduzir a fadiga.
+Text.Player.Hint8	Coloque os uniformes sujos do carrinho nas máquinas de lavar. Ao terminar, coloque os uniformes limpos no carrinho correspondente.
+Text.Player.Hint9	Você perderá seu emprego se não atingir a cota diária.
+Text.Player.Hint10	Leia livros para aumentar seu nível intelectual!
+Text.Player.Hint11	Vá para a academia para aumentar sua VELOCIDADE e FORÇA! Quando você estiver na máquina que deseja, pressione 'GRAPHIC' e 'GRAPHIC' para treinar.
+Text.Player.Hint12	Se você perder a saúde, vai acordar na enfermaria para se recuperar. Objetos ilegais e parte do dinheiro que você carrega serão apreendidos.
+Text.Player.Hint13	Quando as luzes se apagarem, durma até o dia seguinte para salvar seu progresso.
+	
+Text.Confirm	OK
+Text.Back	Voltar
+Text.Cancel	Cancelar
+Text.PressStart	APERTE START
+	
+Text.Item.Baton	Cassetete
+Text.Item.Battery	Bateria
+Text.Item.BarOfSoap	Sabão
+Text.Item.BedDummy	Boneco
+Text.Item.BookA	Livro Azul
+Text.Item.BookB	Livro cinza
+Text.Item.BookC	Livro amarelo
+Text.Item.BedSheet	Lençol
+Text.Item.Bleach	Água sanitária
+Text.Item.BlueBedSheet	Lençol azul
+Text.Item.Broom	Vassoura
+Text.Item.Candle	Vela
+Text.Item.Cement	Cimento
+Text.Item.Comb	Pentear
+Text.Item.CombShiv	Canivete
+Text.Item.ContrabandPouch	Contrabando
+Text.Item.CookedFood	Comida Cozida
+Text.Item.Cup	Xícara
+Text.Item.Chocolate	Chocolate
+Text.Item.Crowbar	Pé de cabra
+Text.Item.CraftinNote	Instruções
+Text.Item.CircuitBoard	Placa de circuito
+Text.Item.CyanKey	Chave Ciano
+Text.Item.DeadRat	Rato morto
+Text.Item.DiceGame	Jogo de dados
+Text.Item.Dice	Dados
+Text.Item.DIYTattooKit	Kit de tatuador
+Text.Item.DuctTape	Fita adesiva
+Text.Item.FlimsyCutters	Alicate frágil
+Text.Item.FlimsyShovel	Pá frágil
+Text.Item.Foil	Papel de aluminio
+Text.Item.Fork	Garfo
+Text.Item.FakeVentCover	Grade falsa
+Text.Item.FakeWallBlock	Parede falsa
+Text.Item.File	Arquivo
+Text.Item.FireExtinguisher	Extintor de incêndio
+Text.Item.Glue	Cola
+Text.Item.GrappleHead	Gancho duplo
+Text.Item.GrappleHook	Gancho de garra
+Text.Item.GreenKey	Chave Verde
+Text.Item.GreenKeyMould	Molde Chave Verde
+Text.Item.HotChocolate	Chocolate líquido
+Text.Item.Ink	Tinta
+Text.Item.KeyMouldGreen	Molde da Chave Verde
+Text.Item.KeyMouldOrange	Molde da Chave Laranja
+Text.Item.KeyMouldPurple	Molde da Chave Roxa
+Text.Item.KeyMouldRed	Molde da chave vermelha
+Text.Item.KeyMouldYellow	Molde da Chave Amarela
+Text.Item.Knife	Faca
+Text.Item.KnuckleDuster	Punho americano
+Text.Item.LicensePlate	Matrícula
+Text.Item.Lighter	Isqueiro
+Text.Item.MakeshiftHandle	Asa improvisada
+Text.Item.Medicine	Medicina
+Text.Item.MagazineA	Revista roxa
+Text.Item.MagazineB	Revista amarela
+Text.Item.MagazineC	Revista azul
+Text.Item.MagazineD	Revista marrom
+Text.Item.MetalSheet	Placa de metal
+Text.Item.Mints	Balas
+Text.Item.MoltenChocolate	Chocolate líquido
+Text.Item.MoltenPlastic	Plástico derretido
+Text.Item.Mop	Esfregão
+Text.Item.Nunchuks	Nunchuks
+Text.Item.OrangeKey	Chave Laranja
+Text.Item.OrangeKeyMould	Molde da Chave Laranja
+Text.Item.Overalls	Macacões
+Text.Item.PaperClip	Clipe
+Text.Item.PickAxe	Picareta
+Text.Item.Pillow	Almofada
+Text.Item.Plunger	Desentupidor
+	
+Text.Item.Poster	Poster
+Text.Item.POWOutfit	Uniforme de Prisoneiro
+Text.Item.PurpleKey	Chave Roxa
+Text.item.PurpleKeyMould	Molde de chave Roxa
+Text.Item.Putty	Massa
+Text.Item.RadioReciever	Receptor de rádio
+Text.Item.Rake	Rastelo
+Text.Item.RazorBlade	Lâmina de barbear
+Text.Item.RazorComb	Lâmina de pente
+Text.Item.RedKey	Chave Vermelha
+Text.Item.RedKeyMould	Molde de chave vermelha
+Text.Item.Rope	Corda
+Text.Item.Screwdriver	Chave de fenda
+Text.Item.Shears	Tesoura de jardim
+Text.Item.SheetRope	Corda de folha
+Text.Item.SleepingPills	Pílulas para dormir
+Text.Item.SockMace	Meia falsa
+Text.Item.Sock	Meião
+Text.Item.SuperSockMace	Mega Meião
+Text.Item.Soil	Terra
+Text.Item.Spatula	Espátula
+Text.Item.Spoon	Colher
+Text.Item.Stepladders	Escadas
+Text.Item.SturdyShovel	Pá resistente
+Text.Item.TalcumPowder	Talco
+Text.Item.Timber	Madeira
+Text.Item.TimberBrace	Cinta de madeira
+Text.Item.ToiletRoll	Papel higiênico
+Text.Item.ToothbrushShiv	Espeto de escova
+Text.Item.Toothbrush	Escova de dentes
+Text.Item.Toothpaste	Pasta de dentes
+Text.Item.Torch	Tocha
+Text.Item.Trowel	Espátula
+Text.Item.UncookedFood	Alimentos Não Cozidos
+Text.Item.UnvarnishedChair	Cadeira sem verniz
+Text.Item.VentCover	Tampa de ventilação
+Text.Item.WallBlock	Parede
+Text.Item.Whip	Chicote
+Text.Item.Wire	Arame
+Text.Item.YellowKey	Chave Amarela
+Text.Item.YellowKeyMould	Molde de Chave Amarela
+Text.Item.Watch	Assistir
+	
+Text.Object.Library_Book_Container	Estante
+Text.Object.Mailman_Letter_Container	Caixa de Correio
+	
+Text.Clock.RollCall	Chamada Matutina
+Text.Clock.Breakfast	Café da manhã
+Text.Clock.Job	Trabalho
+Text.Clock.RollCall2	Chamada do meio-dia
+Text.Clock.Aft.Free	Tempo livre da tarde
+Text.Clock.Dinner	Jantar
+Text.Clock.Exercise	Período de exercícios
+Text.Clock.Showers	Hora do Banho
+Text.Clock.Eve.Free	Tempo livre noturno
+Text.Clock.RollCall3	Chamada noturna
+Text.Clock.LightsOut	Luzes apagadas
+Text.Clock.Lunch	Almoço
+Text.Clock.Morn.Free	Tempo livre matutino
+Text.Clock.Lockdown	Recolher
+Text.Clock.LockdownWarning	Os reforsos está a caminho! É melhor você ser rápido ou eles vão expulsá-lo e mandá-lo para a solitária.
+	
+Text.Day	Dia
+	
+Text.HUD.PlayProf	Perfil do jogador
+Text.HUD.Journal	Diário
+Text.HUD.Crafting	Menu de criação
+Text.HUD.Load	Carregar
+Text.HUD.Controls	Controles
+Text.HUD.Profile	Perfil
+Text.HUD.LoadQuit	Carregar/Sair
+Text.HUD.Paused	Pausado
+	
+Text.Craft	CRIAR
+Text.HUD.Cash	Dinheiro
+Text.HUD.Health	Saúde
+Text.HUD.Guards	Guarda
+	
+	
+Text.Busted	BUSTED!
+Text.Busted.Why	Os guardas encontraram evidências de que você estava cavando e o colocaram em isolamento.
+	
+Text.Item.G.Outfit.Dirty	Uniforme de guarda sujo
+Text.Item.G.Outfit.Clean	Uniforme de guarda
+Text.Item.In.Outfit.Dirty	Uniforme de detento sujo
+Text.Item.In.Outfit.Clean	Uniforme de detento
+Text.Item.DirtyGuardsOutfit	Uniforme de guarda sujo
+Text.Item.GuardsOutfit	Uniforme de guarda
+Text.Item.DirtyInmatesOutfit	Uniforme de detento sujo
+Text.Item.Inmatesoutfit	Uniforme de detento
+	
+Text.Pause.Quit	Sair
+Text.Pause.Resume	Continuar
+Text.Pause.Move	Mover
+Text.Pause.Action	Ação
+Text.Pause.CycleInventory	Mudança de inventário
+Text.Pause.Crafting	Criação
+	
+Text.Pause.Pickup	Recolher / Largar
+Text.Pause.Use	Usar item do inventário
+	
+Text.SitDown	Sentar-se
+Text.Item.Desk	Escrivaninha
+Text.Item.FoodTray	Bandeja
+Text.BedRest	Descansar
+Text.WorkOut	Treinar
+Text.MedicBed	Descansar e curar
+Text.WashingMachine	Máquina de lavar
+Text.DirtyLaundry	Roupa suja
+Text.CleanLaundry	Roupa limpa
+	
+Text.Continue	Continuar
+	
+Text.Gym.Distance	Distância
+Text.Gym.Reps	Repetições
+Text.Gym.Hits	Golpes
+Text.Gym.LogLifts	Levantamentos
+Text.Gym.Skips	Saltos
+Text.Gym.ChinUps	Dominadas
+	
+Text.Dialogue.1b	Use *GRAPHIC* para mover o personagen.
+Text.Dialogue.1c	Use *GRAPHIC* para interagir.
+Text.Dialogue.1d	Use *GRAPHIC* para pegar e largar objetos.
+	
+Text.Dialogue.2	Os trabalhos na prisão são uma forma legal de ganhar algum dinheiro extra e também de manter os guardas longe de você.
+Text.Dialogue.2b	De fato. Esquecemos de avisar que já estão te esperando na lavanderia, você está atrasado!
+Text.Dialogue.2c	AVISO: o diretor NÃO tolerará o absenteísmo e o não cumprimento das cotas terá consequências.
+	
+Text.Dialogue.3	Uau! Com isso você já fez EXCESSO de limpeza!
+Text.Dialogue.3b	Siga a seta apontando para a próxima cela e roube a FITA AMERICANA da mesa. Que você está esperando?
+	
+Text.Dialogue.4	Coloque os uniformes sujos do carrinho nas máquinas de lavar.
+Text.Dialogue.4b	Ao terminar, coloque os uniformes limpos no carrinho correspondente.
+	
+Text.Dialogue.6	Vá para a academia para aumentar sua VELOCIDADE e FORÇA!
+Text.Dialogue.6b	Alternate between *GRAPHIC* and *GRAPHIC* to work out once you're on the desired equipment.
+	
+Text.Dialogue.8	To cycle through your inventory use the (LB) and (RB) buttons. Once happy with your highlighted selection - press *GRAPHIC* once to equip, then again to use!
+Text.Dialogue.8b	Quando estiver na máquina desejada, pressione *GRAPHIC* e *GRAPHIC* para treinar.
+	
+Text.Dialogue.9	Acabou o tempo!
+	
+Text.Controls.Equip	Equipar
+Text.Controls.UseNoJap	Usar
+Text.Controls.Use	Usar
+Text.Controls.Cycle	Alterar objetos
+Text.Controls.Crafting	Criando
+Text.Controls.Discard	Soltar
+Text.Controls.Action	Ação
+Text.Controls.Pickup	Escolher
+Text.Controls.Move	Mover
+	
+Text.Jobs.JobBoard	Quadro de avisos
+Text.Jobs.Vacancy	Vaga
+	
+Text.Jobs.Gardener	Jardineiro
+Text.Jobs.Janitor	Zelador
+Text.Jobs.Kitchen	Cozinheiro
+Text.Jobs.Laundry	Lavador
+Text.Jobs.Librarian	Bibliotecário
+Text.Jobs.MailMan	Carteiro
+Text.Jobs.MetalShop	Metalúrgico
+Text.Jobs.OutfitMaking	Alfaiate
+Text.Jobs.Unloading	Carregador
+Text.Jobs.WoodShop	Marceneiro
+Text.Jobs.QuitCurrentJob	Demitido
+	
+Text.For	para 
+Text.Apply	Aplicar
+Text.Job.Quit	Desistir
+	
+Text.UI.AddItem	Adicionar
+Text.UI.ReturnItem	Devolver
+Text.UI.Exit	Sair
+Text.UI.Craft	Criar
+Text.UI.Store	Armazenar
+Text.UI.Take	Levar
+Text.UI.Flush	Tirar
+Text.UI.Buy	Comprar
+Text.UI.Give	Dar
+Text.UI.Stats	Estatisticas
+Text.UI.JobApplicationApproved	Parabéns, o trabalho é seu!
+Text.UI.JobApplicationDeclined	Desculpe, mas você não está qualificado para a posição.
+Text.UI.NameCharacter	Nomeie esse personagem.
+Text.UI.NameCharacter.Desc	Digite o nome que deseja dar ao personagem.
+Text.UI.NameYourCharacter	Dê um nome ao seu personagem.
+Text.UI.NameYourCharacter.Desc	Digite o nome que deseja dar ao seu personagem.
+	
+Text.Equip	Equipar
+Text.Discard	Largar
+	
+Text.Frontend.Loading	CARREGANDO
+Text.Job.JobQuota	Quota diária
+Text.Item.CharactersDesk	Escritório de %name%'
+Text.Item.CharactersPockets	Bolsos de %name%
+	
+Text.Stats.Strength	Força
+Text.Stats.Speeds	Velocidade
+Text.Stats.Intelligence	Inteligência
+Text.Stats.Opinion	Opinião
+Text.Stats.Weapon	Arma
+Text.Stats.Outfit	Uniforme
+	
+Text.Library.Reading	Lendo
+Text.Library.Read	Ler
+Text.Internet	Internet
+Text.Internet.Surfing	Assistindo gatos engraçados
+Text.GamesRoom	Jogos
+Text.GamesRoom.Playing	Jogando
+	
+Image.Tutorial.Clipboard	Clipboard
+Image.Tutorial.DialogueBox2_Jobs	DialogueBox2_Jobs
+Image.Tutorial.DialogueBox3_DuctTape	DialogueBox3_DuctTape
+Image.Tutorial.DialogueBox4_JobInstructions	DialogueBox4_JobInstructions
+Image.Tutorial.DialogueBox5_DeskTask	DialogueBox5_DeskTask
+Image.Tutorial.DialogueBox6_Gym	DialogueBox6_Gym
+Image.Tutorial.DialogueBox7_BedSheetDig	DialogueBox7_BedSheetDig
+Image.Tutorial.DialogueBox8_Inventory	DialogueBox8_Inventory
+Image.Tutorial.TimesUp	TimesUp
+	
+Text.NPC.Jobstaff1	Faça algo para se orgulhar!
+Text.NPC.Jobstaff2	Oferecemos bons salarios!
+Text.NPC.Jobstaff3	Sempre tem lugar para mais um na equipe
+Text.NPC.Jobstaff4	Venha, não seja tímido
+Text.NPC.Jobstaff5	Cumpra sua sentença com honra, arrume um emprego!
+Text.NPC.Jobstaff6	A industria carceraria sempre precisa de mais um!
+Text.NPC.Jobstaff7	Imagine como um emprego na prisão faria bem à sua ficha criminal!
+Text.NPC.Jobstaff8	Um dia duro de trabalho faz com que nos sintamos melhor
+Text.NPC.Jobstaff9	Nada melhor que trabalho honesto
+Text.NPC.Jobstaff10	Nada supera trabalho justo e honesto
+Text.NPC.Jobstaff11	Você verá como nossos empregos são interessantes!
+Text.NPC.Jobstaff12	Motivação? Isso não vale nada.
+Text.NPC.Jobstaff13	Construa sua carreira de um modo que orgulhe-se dela.
+Text.NPC.Jobstaff14	Deixe seus companheiros de cela verdes de inveja; solicite uma vaga agora mesmo!
+Text.NPC.Jobstaff15	Segurança? Desnecessário.
+Text.NPC.Jobstaff16	Salários imperdíveis, a partir de $1 por dia!
+Text.NPC.Jobstaff17	Seja o mais falado da prisão, comece a trabalhar!
+Text.NPC.Jobstaff18	Planeje seu futuro com a pensão que oferecemos para os trabalhores!
+Text.NPC.Jobstaff19	Desmotivado? Se sentindo inútil? NÓS precisamos de VOCÊ!
+Text.NPC.Jobstaff20	Trabalhar limpa a alma
+Text.NPC.Jobstaff21	Ninguém gosta de ratos mortos
+Text.NPC.Jobstaff22	Tem coisa melhor que almoço de graça?
+Text.NPC.Jobstaff23	Recupere sua honra; trabalhe na prisão!
+Text.NPC.Jobstaff24	Sempre cheque a placa de empregos.
+Text.NPC.Jobstaff25	A Placa de Empregos sempre tem algo pra você!
+Text.NPC.Jobstaff26	Prisioneiro trabalhador é prisioneiro feliz!
+Text.NPC.Jobstaff27	Todo mundo serve pra alguma coisa!
+Text.NPC.Jobstaff28	Sempre dê uma olhada para checar as novas vagas
+Text.NPC.Jobstaff29	Deixe sua família orgulhosa- trabalhe na prisão!
+Text.NPC.Jobstaff30	Não exigimos nenhuma habilidade
+Text.NPC.Jobstaff31	Tem duas mãos? Trabalhe na prisão!
+	
+Text.NPC.Warden1	Dá um jeito nessa barba!
+Text.NPC.Warden2	Bom trabalho, minhas senhoras.
+Text.NPC.Warden3	Vamos fazer com que valham alguma coisa!
+Text.NPC.Warden4	Arrependa-se de seus pecados
+Text.NPC.Warden5	Abra caminho para o rei
+Text.NPC.Warden6	Limpe sua alma
+Text.NPC.Warden7	Chore pelo leite derramado!
+Text.NPC.Warden8	O arrependimento iluminará vocês.
+Text.NPC.Warden9	Podemos fazer alguns cortes por aqui...
+Text.NPC.Warden10	Olha que cambada de ratos..
+Text.NPC.Warden11	Eu ando no meio de vocês e não sinto nojo!
+Text.NPC.Warden12	Vou reportar isso.
+Text.NPC.Warden13	Eu dei meu próprio sangue pra construir esse lugar.
+Text.NPC.Warden14	Cada tijolo desse lugar foi tocado por mim.
+Text.NPC.Warden15	Eu sou a lei.
+Text.NPC.Warden16	Rezarei por você
+Text.NPC.Warden17	Pecadores, pecadores em todos lugares!
+Text.NPC.Warden18	Limpe os sapatos deles.
+Text.NPC.Warden19	Tá me seguindo?
+Text.NPC.Warden20	Ainda há esperança!
+Text.NPC.Warden21	Sem fotos aqui...
+Text.NPC.Warden22	Não cantem hoje, por favor.
+Text.NPC.Warden23	As coisas vão mudar por aqui...
+Text.NPC.Warden24	Investi muito nessa prisão.
+Text.NPC.Warden25	Olha o estado desse local!
+Text.NPC.Warden26	Que horror!
+Text.NPC.Warden27	Não consigo nem olhar.
+Text.NPC.Warden28	Você tem um nome?
+Text.NPC.Warden29	Do que eles te chamam companheiro??
+Text.NPC.Warden30	Dá licença companheiro
+Text.NPC.Warden31	E ainda se pergunta porque a sociedade te rejeitou...
+Text.NPC.Warden32	Pecadores, pecadores por todos lugares...
+Text.NPC.Warden33	Nós gastamos muito nisso daqui...
+Text.NPC.Warden34	Isso daqui precisa de concerto
+Text.NPC.Warden35	Não dou autógrafos
+Text.NPC.Warden36	O que significa isso?
+Text.NPC.Warden37	As leis são ignoradas aqui!
+Text.NPC.Warden38	Não há respeito com as autoridades por aqui...
+Text.NPC.Warden39	Eu sou peixe grande por aqui...
+Text.NPC.Warden40	Você já me conhece
+Text.NPC.Warden41	Todo mundo sabe quem eu sou...
+Text.NPC.Warden42	Me pergunte sobre as punições
+Text.NPC.Warden43	Me pergunte sobre a reforma social
+Text.NPC.Warden44	Eu estou no topo
+Text.NPC.Warden45	O único jeito de sair daqui, é com arrependimento.
+Text.NPC.Warden46	Tenha fé na lei
+Text.NPC.Warden47	Esse lugar não é mais igual antes...
+Text.NPC.Warden48	Eu sou à favor das sentenças de morte
+Text.NPC.Warden49	Só exerço minha autoridade
+Text.NPC.Warden50	Só faço meu trabalho
+Text.NPC.Warden51	Quero resultados
+	
+Text.GuardAlert.Flood1	E toda essa água?
+Text.GuardAlert.Flood2	Não acredito!
+Text.GuardAlert.Flood3	Eu estou farto deste lugar!
+Text.GuardAlert.Flood4	Exatamente o que eu precisava!
+Text.GuardAlert.Flood5	Qual de vocês dos animais, fez isso?!
+	
+Text.GuardAlert.Theft1	Ha! Com as mãos na massa!
+Text.GuardAlert.Theft2	Oi! Eu vi isso!
+Text.GuardAlert.Theft3	Largue isso!
+Text.GuardAlert.Theft4	EI VOCÊ!
+Text.GuardAlert.Theft5	Que ladrão de má qualidade!
+	
+Text.GuardAlert.Disguise1	Olá, desconhecido!
+Text.GuardAlert.Disguise2	Parece bem, cara!
+Text.GuardAlert.Disguise3	Que calças mais legais!
+Text.GuardAlert.Disguise4	Como isso mexe! Que maravilha!
+Text.GuardAlert.Disguise5	Espere, espere, deixe-me dar uma boa olhada em você.
+Text.GuardAlert.Disguise6	Uau. Prêmio de melhor vestido, com certeza.
+Text.GuardAlert.Disguise7	Eu ainda tenho um ímã, amigo.
+Text.GuardAlert.Disguise8	Bom trabalho, espertinho!
+Text.GuardAlert.Disguise9	Quão limpo!
+Text.GuardAlert.Disguise10	Sim! Waka!
+	
+Text.GuardAlert.DisguiseCaught1	Ha! Eu cacei você!
+Text.GuardAlert.DisguiseCaught2	Eu pego você!
+Text.GuardAlert.DisguiseCaught3	Olá, olá, idiota!
+Text.GuardAlert.DisguiseCaught4	Aí está!
+Text.GuardAlert.DisguiseCaught5	Que decepção!
+	
+Text.GuardAlert.DisguiseBeating1	Garoto, posso te ajudar?
+Text.GuardAlert.DisguiseBeating2	Continue batendo nele! Yeeeeeah
+Text.GuardAlert.DisguiseBeating3	Eu quero bater nele também!
+Text.GuardAlert.DisguiseBeating4	Assim que tem que ser.
+Text.GuardAlert.DisguiseBeating5	Justiça! Me encanta!
+	
+Text.Inmate.Disguise1	Não fui eu
+Text.Inmate.Disguise2	Eu não direi uma palavra sem meu advogado
+Text.Inmate.Disguise3	Tudo em ordem por aqui, patrão
+Text.Inmate.Disguise4	Firmeza!
+Text.Inmate.Disguise5	Não estou fazendo nada.  
+Text.Inmate.Disguise6	Estou apenas cumprindo minha sentença, chefe.
+Text.Inmate.Disguise7	Você vai falar bem de mim?
+Text.Inmate.Disguise8	Eu não sei do que você está falando
+Text.Inmate.Disguise9	Certo!
+Text.Inmate.Disguise10	Saudações!
+Text.Inmate.Disguise11	Eu sou um criminoso honesto
+Text.Inmate.Disguise12	É a sua primeira vez aqui?
+Text.Inmate.Disguise13	Seu rosto não me lembra nada.
+	
+	
+Text.PressA	Aperte
+Text.EnterPrison	Entrar na prisão
+Text.Done	Pronto
+Text.LOAD	Carregar
+Text.QUIT	Sair
+Text.UI.Yes	Sim
+Text.UI.Maybe	Talvez
+Text.UI.Okay	Ok
+Text.UI.No	Não
+Text.UI.JobPosition	Posto
+Text.Legal	The Escapists: Complete Edition. Desenvolvido por Mouldy Toof Studios e Team17 Digital Ltd © 2018. Publicado por Team17 Digital Ltd. Team17 é uma marca comercial ou marca registrada da Team17 Digital Limited. Todas as outras marcas comerciais, direitos autorais e logotipos são propriedade de seus respectivos proprietários.
+	
+Text.Jobs.Laundry.Description	Pegue as roupas sujas no contêiner da lavanderia e coloque-os nas máquinas de lavar. Feito isso, pegue e coloque-as no contêiner de roupas limpas.
+Text.Jobs.WoodShop.Description	Pegue tábuas do contêiner na madeireira e transforme-os em móveis. Coloque o produto final no contêiner de móveis.
+Text.Jobs.Kitchen.Description	Pegue a comida congelada no freezer e coloque-as no forno. Após cozidas, pegue-as e coloque nas bandejas, na cantina.
+Text.Jobs.Janitor.Description	Pegue um esfregão ou uma vassoura da sala dos zeladores e use para limpar toda e qualquer sujeira que encontrar na prisão.
+Text.Jobs.Librarian.Description	Pegue os livros da biblioteca e os entregue ao companheiro indicado. Você pode entregá-lo pessoalmente ou deixá-lo PRÓXIMO a escrivaninha(NÃO DENTRO).
+Text.Jobs.MetalShop.Description	Pegue as chapas de metal do contêiner na oficina e use eles nas prensas para criar placas. Coloque as placas prontas no contêiner indicado.
+Text.Jobs.MailMan.Description	Pegue as cartas da sala de correspondências e entregue aos destinatários. Você pode entregar pessoalmente ou nas suas celas.
+Text.Jobs.Gardener.Description	Pegue uma enxada na sala dos jardineiros para remover to remove todas essas ervas malignas do nosso pátio.
+Text.Jobs.OutfitMaking.Description	Pegue os itens do contêiner do equipamento, use a agulha e a linha com um pedaço de tecido para criar itens de roupa. Coloque as peças de roupa no recipiente designado.
+Text.Jobs.Unloading.Description	Pegue as caixas entregues do caminhão, em seguida combine as cores, coloque esses itens em seus recipientes designados.
+	
+Text.Pause.Discard	Derrubar item do inventário
+Text.Item.PlasticKnife	Faca de plástico
+Text.Item.PlasticFork	Garfo de plástico
+Text.Item.PlasticSpoon	Colher de plástico
+Text.Controls.DiscardDrop	Derrubar
+	
+Text.Item.PaperMache	Papel machê
+Text.Quest.UI.cancel	Tem certeza de que deseja desistir deste favor? 
+	
+Text.Tutorial.Welcome.Perks	Caro $NAME$,\n\nseja bem-vindo à Center Perks - a mais confortável prisão de baixa segurança do condado. Em nome de toda nossa equipe, desejamos que tenha ótimas experiencias aqui!\n\Caso enjoe de sua TV a cabo, temos várias outras atividades disponíveis na parte externa.\n\Abraços
+	
+Text.Tip24New	Bed sheets and pillows can be removed from beds
+Text.Tip26New	Check the health of an item to see how much longer it will be of use
+Text.Tip29New	Hang a bed sheet on the cell bars to prevent prying eyes watching you 
+	
+Text.Guard.ReceiveContraband	Ah, thank you! My little snitch
+	
+Text.Tutorial.Controls.Intro	Bem-vindo ao Center Perks! Estes são os princípios básicos de que você precisa para guiar seu escapista pela prisão!
+Text.Help.Tutorial.Routine	A vida na prisão é cheia de rotinas; Respeite-os e os guardas o deixarão em paz enquanto você trama sua fuga.
+Text.Help.Tutorial.Controls.Title	Bem-vindo a @!
+Text.Help.Tutorial.Controls	Estes são os princípios básicos de que você precisa para guiar seu aspirante a escapar da prisão!
+Text.Help.Tutorial.Move	para mover seu escapista.
+Text.Help.Tutorial.Interact	para interagir com objetos e outros personagens.
+Text.Help.Tutorial.PickUp	para pegar e largar objetos, como mesas.
+Text.Help.Tutorial.Bumpers	Utilize (LB) (RB) para destacar itens em seu inventário.
+Text.Help.Tutorial.Menus	Não se esqueça que você pode pressionar (M) para acessar o menu de ajuda do jogo a qualquer momento.
+Text.Help.Tutorial.BedSheets.Title	Lençóis
+Text.Help.Tutorial.BedSheets.Body	Você pode colocar lençóis nas barras de sua cela para evitar que guardas curiosos olhem para dentro!
+	
+Text.Item.PaddedInmateOutfit	Uniforme de recluso acolchoado
+Text.Item.PlatedInmateOutfit	Uniforme de recluso cromado
+Text.Item.CushionedInmateOutfit	Uniforme de recluso acolchoado
+	
+Text.Visitors.Because	Porque.
+Text.Visitors.OnTopOfThat	Além disso.
+	
+Text.Guards.PerksRollCallStart1	Em fila por favor.
+Text.Guards.PerksRollCallStart2	Com calma pessoal
+Text.Guards.PerksRollCallStart3	Olá pessoal!
+Text.Guards.PerksRollCallStart5	Perdão, estou atrasado.
+Text.Guards.PerksRollCallStart6	Silencio por favor
+Text.Guards.PerksRollCallStart7	Quietos, por favor.
+Text.Guards.PerksRollCallStart9	Qualé pessoal...
+Text.Guards.PerksRollCallStart10	Muito bem
+Text.Guards.PerksRollCallStart11	Certo...
+Text.Guards.PerksRollCallStart12	Pessoal...
+Text.Guards.PerksRollCallStart13	Peço à atenção de vocês
+Text.Guards.PerksRollCallStart14	Atenção, por favor
+	
+Text.Guards.PerksRollCallMain1	Estamos adquirindo um pacote melhor de TV a cabo para todos.
+Text.Guards.PerksRollCallMain2	A refeição de hoje será acompanhada de Cávia
+Text.Guards.PerksRollCallMain3	Nosso objetivo é agradar.
+Text.Guards.PerksRollCallMain4	Planejamos trocar as duchas por banheiras com água quente.
+Text.Guards.PerksRollCallMain5	O prisioneiro sempre está certo
+Text.Guards.PerksRollCallMain6	Gostaria de parabenizar todos você
+Text.Guards.PerksRollCallMain7	Vocês progrediram muito.
+Text.Guards.PerksRollCallMain8	Todos merecem um tapinha nas costas.
+Text.Guards.PerksRollCallMain9	Cada travesseiro foi muito bem afofado por nós.
+Text.Guards.PerksRollCallMain10	Infelizmente, cancelamos uma excursão que ocorreria logo
+Text.Guards.PerksRollCallMain11	A cantora que contratamos para hoje infelizmente não poderá vir
+Text.Guards.PerksRollCallMain12	Estamos à sua disposição
+Text.Guards.PerksRollCallMain13	Suspeitamos que tenhamos um fugitivo por aqui
+Text.Guards.PerksRollCallMain14	Perguntas?
+Text.Guards.PerksRollCallMain15	Não entendo porque alguém iria querer escapar de um lugar como este!
+Text.Guards.PerksRollCallMain16	Infelizmente, nosso karaokê está quebrado!
+Text.Guards.PerksRollCallMain17	Temos boas notícias!
+Text.Guards.PerksRollCallMain18	Temos coisas interessantes para anunciar.
+Text.Guards.PerksRollCallMain19	O diretor pode fazer uma visita hoje
+Text.Guards.PerksRollCallMain20	Alguém defecou no tanque
+Text.Guards.PerksRollCallMain21	Alguém roubou a peruca do diretor
+Text.Guards.PerksRollCallMain22	Alguém invadiu o armazém
+Text.Guards.PerksRollCallMain23	Alguém comeu todos bolinhos com sorvete
+Text.Guards.PerksRollCallMain24	Alguém entupiu todos os vasos sanitários
+Text.Guards.PerksRollCallMain25	Alguém jogou o sombreiro do diretor no vaso
+Text.Guards.PerksRollCallMain26	O que é um martelo hidráulico?
+Text.Guards.PerksRollCallMain27	Punimos com amor
+Text.Guards.PerksRollCallMain28	Quem bagunçar vai ficar de castigo na solitária
+Text.Guards.PerksRollCallMain30	Isso me lembra de...
+Text.Guards.PerksRollCallMain31	Por favor, comportem-se
+Text.Guards.PerksRollCallMain32	Não tenham medo de pedir abraços.
+Text.Guards.PerksRollCallMain33	Nossa maior preocupação é a necessidade de vocês
+Text.Guards.PerksRollCallMain34	Pelo visto, alguém escapou, mas já está de volta.
+Text.Guards.PerksRollCallMain35	Muitos fugitivos daqui voltam por vontade própria
+Text.Guards.PerksRollCallMain36	'A vida não é fácil'; isso não aplica-se aqui.
+Text.Guards.PerksRollCallMain37	Aqui é a verdadeira vida boa
+Text.Guards.PerksRollCallMain38	Tenha orgulho de onde está
+Text.Guards.PerksRollCallMain39	Bom, ganhamos outro prêmio
+Text.Guards.PerksRollCallMain40	E agora, um anuncio importante...
+Text.Guards.PerksRollCallMain41	Vamos à um assunto mais importante...
+	
+Text.Message.Fatigued	Você está muito cansado.
+Text.Message.TunnelSupports	Você deve escorar o túnel.
+	
+Text.Tutorial.Welcome.Shankton	Sejam bem-vindos à prisão de Shankton Pen, $NAME$. Seu novo lar no futuro próximo.\n\nDesde que sou o diretor, tivemos alguns escapistas ousados ​​entre nós, mas eles foram rapidamente capturados e punidos. Ninguém foge comigo no comando, então não tenha muitas esperanças!\n\nSe você esquecer alguma das regras, os gritos dos guardas ficarão mais do que felizes em lembrá-lo!
+	
+Text.Guards.Disguise1	Nunca te vi antes
+Text.Guards.Disguise2	Acha que devíamos espancar esses otários?
+Text.Guards.Disguise3	Você deve ser o novato
+Text.Guards.Disguise4	Não consigo esperar pela hora de ir embora
+Text.Guards.Disguise5	O pagamento é incrivelmente ruim.
+Text.Guards.Disguise6	Estou planejando dar umas revistadas...
+Text.Guards.Disguise7	Nós somos a lei aqui
+Text.Guards.Disguise8	Alguém comeu todos biscoitos com sorvete
+Text.Guards.Disguise9	Tá afim de jogar boliche depois do expediente?
+Text.Guards.Disguise10	Bem vindo novato
+Text.Guards.Disguise11	Tome cuidado com esses malucos
+Text.Guards.Disguise12	Vâmo dar uma rondada
+	
+Text.ui.play 	Jogar
+Text.ui.options 	Opções
+Text.ui.leaderboards 	Classificação
+Text.ui.select 	Selecionar Prisão
+Text.ui.help	Ajuda
+	
+Text.ui.newgame 	Novo jogo
+Text.ui.continue 	Continuar
+Text.ui.customchar 	Personalização de personagens
+Text.ui.skip 	Pular
+Text.ui.nextOLD 	Próximo
+Text.ui.enter 	Entrar na prisão
+	
+Text.NPC.Medic1	FATO: A maioria das fraturas nessa prisão ficam no meio das pernas.
+Text.NPC.Medic2	ENFERMEIRA!
+Text.NPC.Medic3	Temos um belo estoque de penicilina!
+Text.NPC.Medic4	Hmm, parece que misturaram os testes sanguíneos de novo.
+Text.NPC.Medic5	Adrenalina e soro... tudo a mesma coisa, não acha?
+	
+Text.Visitors.Thing	Você vê, o ponto é esse.
+Text.Visitors.Something	E há algo mais.
+	
+Text.Tutorial.Welcome.Stalag Luft	Então eles me mandam outra pessoa, hein? \n\nOlhe $NAME$, não preciso lembrar que Stalag Flucht é famosa por abrigar presos com uma fuga anterior então, se você está planejando sair daqui, pense duas vezes!\n\nAgora fique confortável, vai ser um inverno longo e frio.
+	
+Names.Inmates	Tasty, Rahool, Wolferine, Fraggdya, Boogie, Col, Boris, Bertrand, Andreas, Kel, Elliot, Alfie, Jack, Jackal, Karl,  Joe, Snake, Wheaty, Lewis, Taylor, Hips, Jonny, Alex, Geoff, Dom, Sam, Witcomb, Sox, Nalie, Tom,  Red, Fingers, Legs, Colin, Chris, Dogekit, Brucie, Wilesy, Gary, Chesh, Burnill, Cheddz, Phteven, Jegg, Oscar, Spinelli, Simon, Mike, Rich, Steve, Levi, Taylor, Martin, Gary, Shane, Darren, Adam, Lee, Craig, Matt, Stuart, Ricky, Trevor, Carl, Leeroy, Jared, Wayne, John, William, Edgar, Nick, Walder, Brad, Ross, Max, Paul, Hans, Clark, Hank, Walt, Pierre, Larcen, Ervin, Buster, Marcus, Whitney, Gregg, Chung, Rory, Marshall, Gil, Terrell, Odell, Samual, Lance, Raphael, Sang, Shelby, Rolando, Micah, Ronals, Noah, Liam, Jacob, Mason, Ethan, Michael, Alexander, Jayden, Daniel, Elijah, Aiden, James, Benjamin, Matthew, Jackson, Logan, David, Anthony, Joseph, Joshua, Andrew, Lucas, Isaac, Caleb, Henry, Carter, Hunter, Owen, Sebastian, Isaiah, Wyatt, Gavin, Julian, Aaron, Cameron, Tobias, Chase, Bentley, Xavier, Mick, Cooper, Luis, Jessie, Knuckles, Spud, Darwin, Brambles, Monty, Rabbit, Clive, Barker, Troy, Ledge, Santiago, Matias, Diego, Pedro, Samuel, Miguel, Alan, Nathan, Enzo, Timeo, Wolfgang, Punchy, Ferris, Jungen, Dieter, Jens, Jonas, Alexi, Albert, Anton, Vladimir, Vitaly
+Names.Guards	Guarda Morales, Guarda Heiko, Guarda Irwingvh, Guarda Merv, Guarda Stellan, Guarda Barnes, Guarda Bruce, Guarda Burnside, Guarda McClane, Guarda Bates, Guarda Darren, Guarda Le Veque, Guarda Lyons, Guarda Mickknew, Guarda Gazmoz, Guarda Rope, Guarda Radford, Guarda Eden, Guarda Torode, Guarda Homewood, Guarda Dibble, Guarda Wood, Guarda Chip, Guarda Tucker, Guarda Serpico 
+Names.Wardens	Alberto Valero, Dean Hall, Patrick Garratt, Paul Bray, Boggy B, Chris Davis, Jim Stirling, Colin Seal, Frank Brown, Buck Norris, Gypsum Fantastic, Austin Tasseltime, David Jatt, Jed Maul, Bernie Lerring, Bob Ryan, Robert Norton, Luke Martin, Sean Nooks, Pat McGoober, Keith Castle, Cyrus Gibbon, Nick McDunnough, Frank Morris, Burt Crewe, Max Caddy, Jon Coffee, Andy Duberense, Hannibal Lecture, Graeme Boyd
+	
+Text.Unequip	Desequipar
+Text.UI.Quest.Complete	Favor completo!
+Text.TV	TV
+	
+Text.Guards.PerksRollCallStart4	Desculpe estou atrasado
+Text.Guards.PerksRollCallStart8	Certo então
+	
+Text.Platform.XB1.SignedOutMessage	Seu estado de login mudou e você retornará à tela de título.
+Text.Platform.XB1.ControllerDisconnectedMessage	Controle desconectado. Pressione (A) em um controle ativo para continuar.
+Text.Platform.XB1.ConfirmChangeActiveUser	Tem certeza de que deseja alterar o perfil ativo no momento?
+	
+Text.Item.Hat	Chapéu
+Text.Item.Letter	Carta
+	
+Text.WardenName	Diretor $NAME$
+Text.OfficerName	Guarda $NAME$
+	
+Text.Locker.Hide	Ocultar
+	
+Text.Desk.Opening	Abrir
+	
+Text.Busted.Why.Dig	Quieto! Os guardas encontraram evidências de seus hábitos de escavação. Esta prisão NÃO vai tolerar esse tipo de comportamento. Você vai direto para o isolamento por três dias.
+Text.Busted.Why.Cut	Ai Deus! Os guardas encontraram evidências de suas travessuras na corte. Esta prisão NÃO vai tolerar esse tipo de comportamento. Aproveite seus três dias de isolamento.
+Text.Busted.Why.Chip	Oh não. Os guardas encontraram evidências de sua predileção por quebrar paredes. Esta prisão NÃO vai tolerar esse tipo de comportamento. Três dias de isolamento devem ser suficientes para você pensar no que fez.
+Text.Busted.Why.Light	O que é isso? Você precisa de um pouco de tempo para pensar. Claro, três dias de isolamento devem ser mais do que suficientes. Talvez você deva ficar longe da luz de agora em diante?
+Text.Busted.Why.Lockdown	*suspiro* Infelizmente para você, minha equipe avançada é perita em registrar rebeldes como você durante o fechamento de celas. Ele também terá a gentileza de acompanhá-lo até o isolamento, onde você ficará por três dias. Aproveite!
+Text.Busted.Why.Contraband	Quantas vezes? Nenhum contrabando é permitido nesta prisão. Fora da minha vista. GUARDAS! Coloque este homem em confinamento solitário por três dias para que ele possa refletir sobre suas ações.
+Text.Busted.Why.KeyOLD	Que má ideia foi roubar as chaves dos guardas? Você achou que não notaríamos? Venha ja! Você está indo direto para o isolamento, amigo. Uma adorável estadia de três dias. Passe bem!
+	
+Text.Item.PlayerJournal	Diário de %name%
+	
+text.ui.talk	Falar
+text.ui.attack	Atacar
+text.ui.loot	Saquear
+text.ui.dismiss	Destacar
+text.ui.orderattack	Ordenar ataque
+	
+text.ui.information	Informação
+	
+Text.Credits.Original	Conceito Original - 'The Escapists'
+Text.Credits.Development	Equipe de desenvolvimento
+Text.Credits.Support	Suporte ao Desenvolvimento
+Text.Credits.Publishing	Suporte a Publicação
+Text.Credits.QA	QA
+Text.Credits.Thanks	Agradecimentos especiais
+	
+Text.Perks.Name	Center Perks
+Text.Stalag.Name	Stalag Flucht
+Text.Shankton.Name	Shankton State Pen
+	
+text.perks.info	Considerada amplamente como a prisão mais descontraída do mundo, com suas celas luxuosas e muitos confortos domésticos. Por que alguém iria querer escapar daqui?
+text.stalag.info	A comida aqui servida não é a única coisa que é fria. Eu tentaria usar roupas de inverno para poder suportar as condições extremas!
+text.shankton.info	Esta prisão de segurança média é um osso duro de roer. Você terá que ficar de vigía para descobrir o plano de fuga perfeito. Boa sorte!
+text.jungle.info	Calor, umidade, suor e desconforto. Estas são * exatamente * as condições desagradáveis ​​que o diretor cruel deseja que todos os prisioneiros sofram.
+text.sona.info	Uau, esta é uma prisão desagradável. Se você conseguir sobreviver por tempo suficiente para tramar um plano de fuga e até mesmo executá-lo, terá que fazer melhor do que a maioria dos condenados neste lugar infernal.
+text.alcatraz.info	A prisão mais cruel que você pode encontrar: esta prisão de segurança máxima avançada colocará até mesmo os fugitivos mais habilidosos ao limite absoluto.
+	
+Text.UI.Leaderboards.Busy	Acessando as tabelas de classificação. 
+Text.UI.Leaderboards.Filter.Overall	Geral
+Text.UI.Leaderboards.Filter.MyScore	Minha pontuação
+Text.UI.Leaderboards.Filter.Friends	Amigos
+Text.UI.Leaderboards.Rank	Posição
+Text.UI.Leaderboards.Player	Jogador
+Text.UI.Leaderboards.Score	Pontuação
+Text.UI.Leaderboards.Days	Dias
+	
+Text.UI.Leaderboards.NoScores	Ninguém se classificou neste placar.
+Text.UI.Leaderboards.PlayerNotPosted	Você ainda não está classificado neste placar
+Text.UI.Leaderboards.FriendsNotPosted	Seus amigos ainda não estão classificados neste placar
+	
+Text.Dialogue.1b	para mover seu Detento.
+Text.Dialogue.1c	para interagir com objetos e outros personagens.
+Text.Dialogue.1d	para pegar e largar objetos como mesas.
+	
+Text.Dialogue.4	Coloque os uniformes sujos do carrinho nas máquinas de lavar.
+Text.Dialogue.4b	Quando estiverem limpos, coloque os uniformes no carrinho correspondente.
+	
+Text.Dialogue.2	Os empregos são uma forma legal de ganhar dinheiro. Você pode escolher entre vários empregos disponíveis no quadro de vagas do escritório de empregos da prisão. São estabelecidos certos períodos da rotina diária para que os detentos possam exercer suas funções. Se você não atingir a cota mínima indicada durante esse período, perderá seu emprego!
+Text.Dialogue.2c	Você perderá seu emprego se não atingir a cota diária que foi atribuída a você!
+	
+Text.Dialogue.8b	Para pegar um item, coloque seu personagem próximo a ele e pressione (A). Para largar um item, destaque-o em seu inventário e pressione (B).
+	
+Text.Help.Health	Se sua saúde chegar a zero, você será enviado para a enfermaria para se recuperar. Todos os itens ILEGAIS serão retirados de você.
+	
+Text.Help.Fatigue	Tarefas manuais afetam negativamente seus níveis de fadiga. Para se recuperar, você pode sentar, dormir, comer ou tomar banho.
+	
+Text.Help.Loot	Você pode pegar itens de outros personagens enquanto eles estão fora de combate. Para fazer isso, interaja com eles com (A) para ver se eles carregam itens que valem a pena roubar!
+	
+Text.Help.Reading	Usar a Internet e ler livros na biblioteca aumenta seu nível intelectual!
+	
+Text.Help.Desks	Você pode manter objetos na mesa da sua cela. Mas tenha cuidado: se os guardas decidirem revistar SUA cela e encontrar itens ilegais em sua mesa, eles os confiscarão e você terminará em confisco solitário!
+	
+text.results.escape	ESCAPOU
+text.results.stats	Status do jogador
+text.results.rep	Reputação
+text.results.good	Boa conduta
+text.results.bad	Má conduta
+text.results.days	Dias passados
+text.results.score	Pontuação final
+	
+Text.Item.Bananas	Bunch of Bananas
+Text.Item.Brush	Brush
+Text.Item.Coconut	Coconut
+Text.Item.Cookie	Cookie
+Text.Item.DentalFloss	Dental Floss
+Text.Item.Dogtag	Dog tag
+Text.Item.DVD	DVD
+Text.Item.FamilyPhoto	Family Photo
+Text.Item.Feather	Feather
+Text.Item.GreenHerb	Green Herb
+Text.Item.HandCream	Hand Cream
+Text.Item.HandFan	Hand Fan
+Text.Item.LuxuryToiletRoll	Luxury Toilet Roll
+Text.Item.Mango	Mango
+Text.Item.Medal	Medal
+Text.Item.Muffin	Muffin
+Text.Item.PedicureKit	Pedicure Kit
+Text.Item.PocketWatch	Pocket Watch
+Text.Item.Postcard	Postcard
+Text.Item.RedChilli	Red Chilli
+Text.Item.RedHerb	Red Herb
+Text.Item.Sand	Sand
+Text.Item.Seasponge	Sea Sponge
+Text.Item.SignedPapers	Signed Papers
+Text.Item.SilkHandkerchief	Silk Handkerchief
+Text.Item.Sombrero	Sombrero
+Text.Item.TeddyBear	Teddy Bear
+Text.Item.UnsignedPapers	Unsigned Papers
+	
+Text.Menu.Crafting	Crafting is the most useful element of any escapist's skills by a mile! Combining two or three craftable items will provide you with both weaponry and tools you'll need in your quest to get by. 
+Text.Menu.Escaping	Your objective is to escape prison. There are different ways to escape - what works in one prison might not work in another! Look for flaws in security, and collect items that might help. Be patient, timing is crucial!
+	
+Text.BuyItem.WillSell	$NAME$ will sell to you but only because he likes you.
+Text.BuyItem.WontSell	$NAME$ refuses to sell you anything, perhaps if he liked you more . 
+Text.Guard.Bribe	Not enough!
+	
+text.start	para Iniciar
+Text.Save.Body	Você gostaria de dormir até de manhã e salvar seu progresso atual?
+	
+Text.Message.CraftingNotEnoughIntellect	You don't have enough intelligence to craft this item!
+Text.Quest.Full	Too many favours active at this time to accept any more!
+	
+Text.Help.Tutorial.MetalShop.Body	Use sheets from the metal box on the printing pressers at the table to create license plates. Place the completed license plates into the license plate container.
+Text.Help.Tutorial.MetalShop.Title	Metal Shop Job
+	
+Text.Help.Tutorial.WoodShop.Body	Take three pieces of timber from the wood-pile and using the crafting system create a chair. Completed chairs should then be placed into the assigned container.
+Text.Help.Tutorial.WoodShop.Title	Carpenter Job
+	
+Text.Help.Tutorial.Janitor.Body	Use the mop to clean dirty floor tiles you find around the prison.
+Text.Help.Tutorial.Janitor.Title	Janitor Job
+	
+Text.Help.Tutorial.Unloading.Body	Take the boxes from the lorry and then matching the colours up, place these items into their designated containers.
+Text.Help.Tutorial.Unloading.Title	Lorry Unloading Job
+	
+Text.Help.Tutorial.Gardener.Body	Use the hoe to deal with pesky weeds that you find in the outdoor sections around the prison.
+Text.Help.Tutorial.Gardener.Title	Gardener Job
+	
+Text.Help.Tutorial.Kitchen.Body	Take uncooked food out of the freezer and cook it by placing it into the oven. Once cooked, place the food onto the serving trays ready for your fellow inmates.
+Text.Help.Tutorial.Kitchen.Title	Cook Job
+	
+Text.Help.Tutorial.MailMan.Body	Take delivered letters from the sorting cabinet and then give them to the corresponding inmates.
+Text.Help.Tutorial.MailMan.Title	Mail Job
+	
+Text.Help.Tutorial.Librarian.Body	Take books and magazines from the delivered items cabinet and give them to the corresponding inmates.
+Text.Help.Tutorial.Librarian.Title	Librarian Job
+	
+Text.Help.Tutorial.Outfit.Body	Taking the items from the equipment container use the needle and thread with a piece of fabric to create items of clothing. Place the finished clothing into the designated container.
+Text.Help.Tutorial.Outfit.Title	Tailor Job
+	
+Text.Tutorial.JobQuota	You will lose your job if you fail to meet the job quota you have been set!
+Text.Tutorial.LightsOut	When lights out occurs you can save your current progress by sleeping till the morning by using the bed.
+Text.Help.StandOnDesk	Standing on desks and tables will enable you to see the ventilation system above you. With the right tools you can get up inside them!
+	
+Text.Pause.Outfit	Current Outfit: $NAME$
+Text.Pause.Weapon	Current Weapon: $NAME$
+	
+Text.Help.Gym.Perks	Use the weights bench and treadmill to boost your STRENGTH and SPEED stats - get on the desired equipment and using fast presses,  alternate between (LT) and (RT) to buff yourself up!
+Text.Help.Gym.Stalag	Using the crash mats provided you can use these items to increase your SPEED and STRENGTH levels! To use,  alternate between (LT) and (RT) once on the desired equipment!
+Text.Help.Gym.Shank	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels! To use the speed bags build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers. To use the weights bench,  alternate between (LT) and (RT) to pump iron.
+Text.Help.Gym.Jungle	Use the logs and crash mat provided to boost your SPEED and STRENGTH levels. To use,  alternate between (LT) and (RT) once on the desired equipment!
+Text.Help.Gym.Sona	To use the punch bag and boost your STRENGTH, time your shots by pressing (LT) and (RT) when the marker is in the red zone of the power bar. To skip and boost your SPEED, build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers.
+Text.Help.Gym.Alca	Using the chin-up bar and treadmills to increase your SPEED and STRENGTH levels! Alternate between (LT) and (RT) to use the desired equipment once on them.
+	
+Text.UI.GameOptions	Opções do Jogo
+Text.UI.Music	Musica
+Text.UI.Sounds	Sons
+Text.UI.Credits	Créditos
+	
+Text.HUD.Audio	Áudio
+	
+Text.UI.JobFired	Due to your sheer incompetence and inability to reach the more than reasonable set quotas, we have no choice but to let you go from your job. \n\nIf you pull yourself together and realise you must try harder, in future you may re-apply at the job board within the prison offices.
+	
+Text.Busted.Why.Outside	Three days in solitary for you, sunshine! You know the rules - night time is CELL TIME.  You do understand this very simple concept, yes? 
+	
+Text.MapObject.Cutlery	Cutlery
+	
+Text.Item.Nails	Nails
+	
+Text.Inmate.CallGuard1	What are you doing?! Guard.  QUICK!
+Text.Inmate.CallGuard2	Oh I don't believe this!!! GUARD.  COME SEE!
+Text.Inmate.CallGuard3	So errr.  HEY! Stop that! GUARD!
+Text.Inmate.CallGuard4	I haven't the time, I *really* haven't the time.  OI! STOP IT! GUARD!
+Text.Inmate.CallGuard5	I'm not having this! GUARD! QUICK! HE'S TRYING TO ESCAPE!
+	
+Text.HUD.Favours	Favores
+Text.HUD.Notes	Notas
+	
+Text.Item.NeedleandThread	Agulha e linha
+Text.Item.Fabric	Tecido
+	
+Text.Help.Tutorial.MetalShop.BodyNEW	The automotive industry is booming! The only booming you will hear is the sound of license plates being pressed. The harder you work, the sooner I get my sporty little convertible. \n\nUse sheets from the metal box on the printing pressers at the table to create license plates. Place the completed license plates into the license plate container.
+	
+Text.Help.Tutorial.WoodShop.BodyNEW	Responsibly sourced by us, irresponsibly hammered together by you lot. Our wood shop has found quite the market for our ‘vintage inspired’ furniture. No craftsmanship required, the prison is *NOT* responsible for splinters.\n\nTake three pieces of timber from the wood-pile and using the crafting system create a chair. Completed chairs should then be placed into the assigned container.
+	
+Text.Help.Tutorial.Janitor.BodyNEW	Clean up your act and clean up our floors whilst you’re at it! I want you to make those floors, the foundations of *YOUR* reform, look their best.\n\nUse the mop to clean dirty floor tiles you find around the prison.
+	
+Text.Help.Tutorial.Unloading.BodyNEW	What’s inside those boxes isn’t of concern to you. I just want them moving *UNTAMPERED* to where they need to go.\n\nTake the boxes from the lorry and then matching the colours up, place these items into their designated containers. 
+	
+Text.Help.Tutorial.Gardener.BodyNEW	Dream of working in the great outdoors? Being at one with nature and all that? Then introduce yourself to the weeds plaguing our courtyards.\n\nUse the hoe to deal with pesky weeds that you find in the outdoor sections around the prison. 
+	
+Text.Help.Tutorial.Kitchen.BodyNEW	The inspectors call it hazardous, I call it ‘Rustic’. A sense of taste and/or smell is not essential. Don’t worry about washing your hands.\n\nTake uncooked food out of the freezer and cook it by placing it into the oven. Once cooked, place the food onto the serving trays ready for your fellow inmates.
+	
+Text.Help.Tutorial.MailMan.BodyNEW	I hate to be the bearer of bad news, which is why I’m asking you to do it for me.\n\nTake delivered letters from the sorting cabinet and then give them to the corresponding inmates.
+	
+Text.Help.Tutorial.Librarian.BodyNEW	You lot accuse the library of being understocked, but I assure you it’s a ‘modest’ collection of the finest literary works available. Not the inane jumble of expletives and filth you rabble are used to on the outside.\n\nTake books and magazines from the delivered items cabinet and give them to the corresponding inmates. 
+	
+Text.Help.Tutorial.Outfit.BodyNEW	As a prison, we are proud of our contract with famous clothing brand ‘Adidoodoo’ and are determined to meet their need for high quality, hand crafted garments.\n\nTaking the items from the equipment container use the needle and thread with a piece of fabric to create items of clothing. Place the finished clothing into the designated container.
+	
+Text.Help.Tutorial.Laundry.BodyNEW	Your criminal attitude stinks, and so do your overalls! The only thing I want to smell on you inmates is the fresh scent of justice.\n\nPlace dirty outfits from the dirty laundry trolley into the washing machines. Once cleaned, place the outfits into the clean laundry trolley. 
+Text.Item.medikit	MediKit
+Text.Item.MediKit	MediKit
+Text.Item.Underpants	Underpants
+Text.Item.CrowBar	Crowbar
+	
+Text.Busted.Why.Jeep	Hey! What are you doing? You *know* that prison is for prisoners.  You shouldn't be out here. I've just had an idea, why don't you sample solitary for a cool three days? Bye bye.
+	
+Text.UI.JobApplicationDeniedINT	Sorry, you don't have the intellect for this position. The required intellect is 00
+	
+	
+Text.Inmates.Gift.Rank.Enough1	I think you've given me enough already. Maybe later eh?
+Text.Inmates.Gift.Rank.Enough2	I'm not in the mood right now for being gifted stuff.  You've given me too much already!
+Text.Inmates.Gift.Rank.Enough3	What? MORE gifts? No thanks.  I don't want any more from you right now.
+	
+Text.UI.JobApplicationWrongPeriod	I'm far, *far* too busy to be processing requests like this during a work period. Move along and come back later. Thanks.
+	
+Text.Guard.Carrying1	Hey you! Drop that immediately!
+Text.Guard.Carrying2	What are you doing?! Put that down!
+Text.Guard.Carrying3	DROP IT $name!
+	
+Text.Tutorial.Welcome.Jungle is Massive	Welcome to the jungle!  \n\nSociety has declared you a menace, so we've put you far away from any trace of it. \n\nBefore you even entertain the thought of escaping, let me remind you that even if by some remote chance you make it past the fence, the wall, the perimeter jeeps and the guard checkpoint, there's no surviving out in the wild beyond.
+Text.Tutorial.Welcome.Sona	This is the notorious San Pancho, the roughest, toughest and downright nastiest prison south of the border.\n\nThe blistering heat and claustrophobic conditions here turns our inmates angry and violent. \n\nEven the guards daren't enter!
+Text.Tutorial.Welcome.alca	Listen here maggot.\n\nYou know why you're here so no point crying about it. Generally feared as the highest security prison ever, HMP Iron Gate is where you'll live out the rest of your meaningless existence.\n\nEscape you say? Don't make me laugh! The handful of idiots who tried met a watery demise trying to swim off the island. Still, chin up eh?\n\nOh, one more thing. There'll be no perks, breaks or luxuries on my watch. Sleep lightly.
+	
+Text.Item.BoxA	Sky Hooks
+Text.Item.BoxB	Spirit Level Bubbles
+Text.Item.BoxC	Chocolate Fireguards
+	
+Text.Item.Hammer	Hammer
+	
+Text.Lounge	Sun Lounger
+	
+Text.Item.Payphone	Payphone
+	
+Text.Item.LightweightCutters	Lightweight Cutters
+Text.Item.SturdyCutters	Sturdy Cutters
+	
+Text.Item.FlimsyPickAxe	Flimsy Pickaxe
+Text.Item.LightweightPickAxe	Lightweight Pickaxe
+Text.Item.SturdyPickAxe	Sturdy Pickaxe
+Text.Item.Stinger	Stinger
+	
+Text.Locked	Buy Tip
+	
+text.payphone.tips	You can use the kindly provided payphones to gain inside knowledge on useful hints and tips. At a cost of course. 
+	
+Text.Item.Shorts	Shorts
+	
+Text.Map.Jungle.NoDisguise1	Requesting backup!
+Text.Map.Jungle.NoDisguise2	You're done for!
+Text.Map.Jungle.NoDisguise3	End of the road, pal!
+Text.Map.Jungle.NoDisguise4	YOU SHALL NOT PASS!
+Text.Map.Jungle.NoDisguise5	Code red at checkpoint!
+	
+Text.Map.Jungle.YesDisguise1	Have a good day!
+Text.Map.Jungle.YesDisguise2	See ya tomorrow!
+Text.Map.Jungle.YesDisguise3	Clockin' off eh? Take care now!
+Text.Map.Jungle.YesDisguise4	Good times!
+Text.Map.Jungle.YesDisguise5	See you later, criminal educator!
+	
+Text.HUD.CheckpointCharlie	Checkpoint Charlie
+	
+Text.Map.Jungle.PapersPlease	Papers please!
+	
+Text.Tutorial.Names.Thumbstick	Clicking the (RS) will allow you to see all of the names of the inmates currently on screen.
+	
+Text.Item.Hoe	Hoe
+	
+Text.Payphone.NotEnoughMoney	Uh oh! Doesn't seem like you have enough money to purchase this tip right now!
+Text.Unlocked	View Tip
+	
+Text.Alcatraz.Name	HMP Iron Gate
+	
+Text.Item.PlayingCards	Pack of Cards
+	
+Text.Item.Speaker	Speaker
+	
+Text.Tutorial.Visitors	During Free Period, why not take a seat in the visitors room and see who comes to visit? Maybe they'll tell you about how they have been getting on since you've been locked away.
+	
+Text.Jungle.Name	Jungle Compound
+Text.Sona.Name	San Pancho
+	
+Text.NPC.JobOfficer	Job Officer
+Text.NPC.MedicName	Medic
+	
+Text.UI.Quest.RetrieveItem	Remover $item do $subject.
+Text.UI.Quest.GiveItem	Dar $item para $giver.
+Text.UI.Quest.Offer.RetrieveItem1	$giver: I gave $subject my $item a while back. I've felt sick about it since - take that off him!
+Text.UI.Quest.Offer.RetrieveItem2	$giver: $subject and his pals extorted a $item out of me. I just want it taken away from him!
+Text.UI.Quest.Offer.GiveItem1	$giver: I'm on the lookout for a $item, could you get me one and bring it back to me? I'd be ever so grateful!
+	
+Text.UI.Fist	Punho
+	
+Text.UI.Weapon	Arma
+Text.UI.Tool	Ferramenta
+Text.UI.Component	Componente
+	
+Text.HUD.Energy	Energy
+Text.ZipWire	Zip Wire
+Text.Platform.XB1.NeedActiveUserToContinue	You must select an active user to continue.
+	
+Text.Dialogue.JobDisrupt	Inmates will lose their jobs if they fail to meet their required daily quota. The warden will NOT tolerate feeble excuses regarding other inmates disrupting and preventing you from doing your job.
+	
+Text.Item.LightweightShovel	Lightweight Shovel
+	
+Text.Message.InventoryFull	Your inventory is full!
+	
+Text.ui.next 	Personalizar
+	
+Text.Tutorial.Welcome.HMP Calder Island	Listen here maggot.\n\nYou know why you're here so no point crying about it. Generally feared as the highest security prison ever, HMP Iron Gate is where you'll live out the rest of your meaningless existence.\n\nEscape you say? Don't make me laugh! The handful of idiots who tried met a watery demise trying to swim off the island. Still, chin up eh?
+	
+Text.Tutorial.RoofHeader	WARNING!
+Text.Tutorial.RoofInDayTime	Inmates on rooftops will NOT be tolerated. By day the rooftops are closely guarded by elite sniper guards armed to the teeth with rubber bullets.
+Text.Tutorial.RoofInDayTimeExtra	Inmates on rooftops will NOT be tolerated. By day the rooftops are closely guarded by elite sniper guards armed to the teeth with rubber bullets.\n\nBy night, they swap the weaponry for much more useful high powered spotlights!
+Text.Message.NoFreeSlots	No free slots available!
+Text.Busted.Why.Key	A guard has reported a prison key has been stolen from him and we've traced it back to you!\n\nTake time out in solitary to think about you've done.
+	
+Text.Tutorial.Speedbag	Quickly alternating between (LT) and (RT) - maintain the rhythm of hitting the speedbag by keeping your marker within the moving range.
+Text.Tutorial.PunchbagSkipping	Alternating between (LT) and (RT) - time each press to successfully land within the marked range.
+	
+Text.Tutorial.SpeedbagTitle	Speedbag
+Text.Tutorial.PunchbagTitle	Punchbag
+Text.Tutorial.SkippingTitle	Skipping
+Text.Tutorial.LogLifting	Log Lifting
+Text.Tutorial.Jogging	Jogging
+Text.Tutorial.PushUps	Push Ups
+Text.Tutorial.Chinups	Chin Ups
+	
+Text.Item.RedKeyPlastic	Plastic Red Key
+Text.Item.CyanKeyPlastic	Plastic Cyan Key
+Text.Item.YellowKeyPlastic	Plastic Yellow Key
+Text.Item.PurpleKeyPlastic	Plastic Purple Key
+Text.Item.GreenKeyPlastic	Plastic Green Key
+	
+	
+Text.Guards.Lockdown	RIGHT! That's it - It's a LOCKDOWN!
+Text.Busted.Why.Vent	We have a little rat scurrying around in the vents do we? Did you think no one could hear you scampering around? Off to your own little rat's nest in solitary, chum. A lovely three night stay. Have fun!
+	
+Text.Recruits.Follow1	When an inmate has a high enough opinion of you they can be recruited and will follow you around the prison if you request so by pressing (A) and interacting with them.
+Text.Recruits.Follow2	If you wish to dismiss then, stand next to them and press (B).
+Text.Recruits.Follow3	To instruct followers to attack other characters, interact with them by pressing (A) and then highlight a target with (LS) then confirm the target with (A).
+	
+Text.Hint.Recipe	USE THE CRAFTING SYSTEM TO CREATE %name% WITH THESE ELEMENTS:
+	
+Text.Tip1	Guard towers limit your actions outside during the day, but at night it’s a different story.
+Text.Tip2	Disrupting employees whilst they go about their jobs just might prevent them from completing their quota!
+Text.Tip3	If you try to cut through the outer fence you’ll be in for a shock. Look for a way to disable the power.
+Text.Tip4	You’ll have to befriend your cell mate if you don’t want him snitching on you.
+Text.Tip5	The prison roof has various layers which can be traversed using ropes or grappling hooks.
+Text.Tip6	Barracks situated north of the compound store \nan item you will need!
+Text.Tip7	Once you're out, you're not *exactly* out - there's a guard checkpoint you'll need to pass!
+Text.Tip8	If the perimeter jeep spots an inmate outside the prison walls they'll be sent straight to solitary!
+Text.Tip9	The mines beyond the fence only trigger when passed over on ground!
+Text.Tip10	The perimeter jeep can be temporarily disabled with a makeshift Stinger!
+Text.Tip11	In his infinite wisdom, the architect who created San Pancho placed the generator on the roof!
+Text.Tip12	The perimeter wall beyond the main compound has a reinforced concrete base. No going under or through that!
+Text.Tip13	Duct Tape can be used to briefly disable the security cameras!
+	
+	
+Text.Platform.XB1.SaveErrorWarning	There was a problem accessing your save data.
+	
+Text.Item.Vest	Vest
+	
+text.results.distance	Efficiency
+	
+Text.Tutorial.InmateFollow.Title	Minions
+Text.Tutorial.InmateFollow.Intro	When an inmate has a high enough opinion of you they can be recruited and will follow you around the prison if you request so by pressing (A) and interacting with them.
+Text.Tutorial.InmateFollow.BodyBButton	If you wish to dismiss them, stand next to them and press (B).
+Text.Tutorial.InmateFollow.BodyAttack	You can make your followers attack other NPCs' by pressing (A) and interacting with them which then allows you to choose a target by cycling through NPC's on screen using (LS) and confirming a target with (A) button.
+	
+Text.Item.KeyMouldCyan	Cyan Key Mould
+Text.HUD.Toilet	Flush Items
+	
+text.ui.move	Move / Highlight
+text.ui.names	Display Names
+text.ui.interact	Talk / Interact
+text.ui.crafting	Crafting
+text.ui.fight	Fight / Use / Pickup
+text.ui.drop	Drop
+text.ui.menu	Menu
+text.ui.quick	Quick Select Weapon
+text.ui.journal	Journal
+text.ui.profile	Player Profile
+text.ui.invleft	Inventory Left
+text.ui.invright	Inventory Right
+text.ui.exright	Exercise Right
+text.ui.exleft	Exercise Left
+	
+text.requiredintellect	You need $NUMBER$ more intellect to craft this item!
+	
+Text.Help.Tutorial.Equip.Equiping	To equip items, simply highlight them in your inventory. 
+Text.Help.Tutorial.Equip.Unequip	To use the equipped item in your inventory press
+Text.Help.Tutorial.Equip.Target	A green target shows you can use the item at this location. 
+	
+Text.Tip15	It's possible to craft a Bed Dummy to make the guards think you're tucked up nicely in there whilst you can go do other things!
+Text.Tip16	If you want to lower the risk of having contraband items taken from you, you can store them in the vents above. Even if you're sent to Solitary they will remain undiscovered!
+Text.Tip17	If you want to make good use of the vent system above you without being discovered - ensure to place a Fake Vent Cover over the access point!
+Text.Tip18	If you have several favours where you need to return items to inmates - the easiest way to do this is at Roll Call!
+	
+Text.Item.Consumable	Consumable
+	
+Text.Dream.Tut.Toilet	Você pode tentar usar o banheiro para dar descarga. Só não se esqueça que você corre o risco de bloquear o vaso sanitário e inundar sua cela, o que alerta os vigilantes! 
+Text.Dream.Tut.Bed	Você pode salvar seu progresso usando a cama para dormir à noite. No entanto, nós realmente temos que avançar, então bora!
+Text.Dream.Tut1	Bom, \n\nessa é a hora de testarmos o plano! \n\nAll the preparation and hard work all boils down to this. \n\nLet's get to it!
+Text.Dream.Tut2	Vá até sua mesa e pressione (A) para abri-la. Pegue todos itens de lá.
+Text.Dream.Tut3	Para acessar o sistema de ventilação, você precisa ficar em cima da mesa. \n\nPrimeiro, pegue-a usando (Y) e leve a mesa para o local marcado e solte-a usando (B).
+Text.Dream.Tut4	When stood next to the desk press (X) to stand on it. \n\nOnce on it, equip the Screwdriver by selecting it using (LB) or (RB). \n\nUse the Screwdriver to break into the vent by pressing (Y).
+Text.Dream.Tut5	Climb into the vent by pressing (A) when stood directly beneath it. \n\nOnce in the vent, navigate your way to a nearby cell where an inmate has something you need.
+Text.Dream.Tut6	Stand next to the inmate and press (X) to see what he has to sell. \n\nI think you'll find the item you'll be needing is available, and you have the funds to buy it!
+Text.Dream.Tut7	Great! \n\nNow you can craft yourself a weapon. Press (UP) to access the crafting menu and add the items. Then craft away!
+Text.Dream.Tut8	Probably not the best idea to leave the cell without having your newly crafted weapon equipped. \n\nSelect the weapon in your inventory and press (RIGHT) to equip it.
+Text.Dream.Tut9	Now, go fight that guard by standing next to him and pressing (Y) to launch an attack on him! \n\nKeep in mind that actions such as these will raise Guard Heat. Guard Heat is how much attention you have drawn to yourself through bad behaviour. 
+Text.Dream.Tut10	Now, walk up to the unconscious guard and press (A) so that you can steal their outfit! \n\nWith the guard outfit highlighted press (A) to take it, then with the outfit selected in your inventory press (RIGHT) to put it on.
+Text.Dream.Tut11	Wow that really suits you! \n\nNow, you can head out past the guards just outside the double doors. \n\nHead out this way then head north where your way out of here awaits!
+Text.Dream.Tut12	Dark down here isn't it? \n\nWell I do apologise but no one said this would be comfortable or easy. \n\nPick up that shovel, select it within your inventory and press (Y) to start digging.
+Text.Dream.Tut13	When you dig into an empty space this allows you to dig upwards and emerge from the underground.
+Text.Dream.Tut14	That wasn't too tough now was it? \n\nAll you have to do is walk on out. \n\nFreedom has never tasted so good!
+	
+	
+	
+Text.Item.FakeFence	Fake Fence Cover
+	
+text.menu.help1	The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of escaping!
+text.menu.help2	Players will have to keep in line and juggle their time sensibly as they form their personal plan of escape; work out potential routes to use, as well as being incredibly smart and clever in using what seem like harmless items to craft. Create various weaponry and escape tools which help aid the player in their ultimate goal of escaping!
+text.menu.help3	Players will have to juggle everyday prison life with holding down a job, improving stats through exercise and reading, and building relationships with other inmates to gain their support. If keeping on top of all these tasks wasn't difficult enough, don't forget to escape!
+text.menu.help4	Featuring six unique and testing prisons, are you up to the task of becoming 'The Escapist'?
+text.menu.help5	
+	Click to Display Character Names
+	Move / Highlight
+	Exercise Controls
+	Cycle Through Inventory Items
+	Fight / Use Item / Pick Up Item
+	Drop Inventory Item
+	Talk / Interact
+	View NPC Profile
+	Player Profile
+	Quick Select Current Weapon
+	Crafting
+	Journal Menu
+	Toggle Game Menu
+	Contact Us
+	Overview
+	Controls
+	Help on
+	Previous
+	Next
+	
+Text.Tip14	Unconscious guards! What if you could somehow make a mould of a key and return the key back to him before he even knew it was missing? Well you wouldn't be sent to solitary - for a start.
+	
+Text.Item.sail	Sail
+Text.Item.raftbase	Raft Base
+Text.Item.balsawood	Balsa Wood
+Text.Item.makeshiftraft	Makeshift Raft
+	
+Text.NPC.LostSightOfTarget	Get 'ere $name!
+	
+Text.Takeover	You've activated the prison takeover! Before you continue on your violent rampage I'd suggest you get out of here while you still can.\n\nThe main gates are OPEN! 
+	
+text.help.soilfail	Are you really trying to fill the holes in underground with soil? I suggest you find somewhere more apt to dispose of such an item!
+	
+Text.MapObject.Generator	Generator
+	
+Text.Exit.New	Do you wish to return to the main menu?
+Text.Load.New	Do you wish to load the save from the start of the day?
+	
+Text.Inmates.StartFollow	Let's do this
+Text.Inmates.StopFollow	We'll catch up later
+	
+Text.Inmate.WhoShouldIAttack	It's not a problem to dish out beatings
+	
+Text.Bruce.Music	Music
+Text.Bruce.SFX	Sound FX
+Text.Bruce.Credits	Credits
+	
+Text.Message.NPCInventoryFull	Inventory is full!
+	
+Text.Dream.WakeUp1	$name. . .
+Text.Dream.WakeUp2	$name wake up. . .
+Text.Dream.WakeUp3	$name. . .
+Text.Dream.WakeUp4	Wake up $name, you're dreaming. . .
+	
+Text.Credits.Original.People	Chris Davis
+	
+Text.Credits.Development.People	Andrew Morriss, Colin Surridge, Dan Foster, David Rogers, Grant Towell, James Witcomb, Joe McClean, Karl "The Jackal" Hutchinson, Kelvin Aston, Laurie Dobson, Matt Burnill, Oli Wood, Rory Little, Simon Vanhauwaert
+	
+Text.Credits.Support.People	Adam Findlay, Adam Riley, Andy MacKinnon, AJ Grand-Scrutton, Ben Averley, Colin Poulter, Dave Smethurst, Jessica Kelham, John Dye, Kevin Carthew, Nick Gomersall
+	
+Text.Credits.Publishing.People	Bethany Aston, Chris Eden, Debbie Bestwick, Harley Homewood, Michael Shillingford, Mickey Torode, Paul Bray
+	
+Text.Credits.QA.People	Andy Aveyard, Danny Martin, Darren Eggerton, Dean Knight, Emma Bates, Hollie Emery, Michael Anderson, Rene Vravko, Stuart Greenwood
+	
+Text.Credits.Thanks.People	Ankit Arora, Boris Vaugenot, Craig Spiers, Craig Thomas
+	
+Text.Controls.Climb	Climb / Stats
+	
+Text.Dig.Busted.Dirt	Use soil on a hole to conceal it!
+	
+Text.Hole.Desk.Hide	Place a desk on top of a hole within your cell to conceal it!
+	
+Text.Busted.Help.Tip1	Remember to keep in mind the following 
+Text.Busted.Help.Tip2	Crafting the following item might help you next time
+Text.Busted.Help.Tip3	Why not try crafting and using this next time
+	
+Text.Empty0	
+Text.Empty1	
+Text.Empty2	
+Text.Empty3	
+Text.Empty4	
+Text.Empty5	
+Text.Empty6	
+Text.Empty7	
+Text.Empty8	
+Text.Empty9	
+Text.Empty10	
+Text.Empty11	
+Text.Empty12	
+Text.Empty13	
+Text.Empty14	
+Text.Empty15	
+Text.Empty16	
+Text.Empty17	
+Text.Empty18	
+Text.Empty19	
+Text.Empty20	
+Text.Empty21	
+Text.Empty22	
+Text.Empty23	
+Text.Empty24	
+Text.Empty25	
+Text.Empty26	
+	
+Text.Item.vines	Trepadeira 
+Text.CD1	
+Text.CD2	Câmera
+Text.CD3	Escrivaninha do $inmate
+Text.CD4	Vaso sanitário
+Text.CD5	Subir escada
+Text.CD6	Descer escada
+Text.CD7	Sua cama
+Text.CD8	Sua escrivaninha
+Text.CD9	Produtos de limpeza
+Text.CD10	Detector de contrabando
+Text.CD11	Forno
+Text.CD12	Pia
+Text.CD13	Freezer
+Text.CD14	Cama da Enfermaria
+Text.CD15	Produtos médicos
+Text.CD16	Armário (esconder)
+Text.CD17	Gerador
+Text.CD18	Estoque de tábuas
+Text.CD19	Contêiner de móveis
+Text.CD20	Estoque de metal
+Text.CD21	Contêiner de placas
+Text.CD22	Estante
+Text.CD23	Baú de Livros
+Text.CD24	Esconderijo de prisioneiros
+Text.CD25	Máquina de Lavar
+Text.CD26	Baú de Tecido
+Text.CD27	Internet
+Text.CD28	Arquivos da Sala de Correspondências
+Text.CD29	Caminhão de entrega
+Text.CD30	Escrivaninha vazia
+Text.CD31	Laminas de Metal
+Text.CD32	Respiradouro
+Text.CD33	Grade Falsa Cover
+Text.CD34	TV a cabo
+Text.CD35	Cama da Solitária
+Text.CD36	Visitas
+Text.CD37	arede Falsa
+Text.CD38	Concreto reforçado
+Text.CD39	Quebrar a Parede [action]
+Text.CD40	Cortar cercas [action]
+Text.CD41	Cortar barras [action]
+Text.CD42	Quebrar pedras [action]
+Text.CD43	Desparafusar o respiradouro [action]
+Text.CD44	Arrombar o respiradouro [action]
+Text.CD45	Cavar [action]
+Text.CD46	Desenterrar [action]
+Text.CD47	Cortar metal [action]
+Text.CD48	Coordenador de trabalhos
+Text.CD49	Equipe da Enfermaria
+Text.CD50	Visitante
+	
+Text.Container	Container
+	
+Text.Inmates.Desk.Alert1	HEY!
+	
+	
+	
+	
+Text.UI.NoCraftedItems	No Crafted Items
+	
+	
+Text.ui.aditionalContent	Conteúdo Bônus
+	
+Text.New.Button.DLC	New
+	
+Image.Alcatraz.Upsell	NewPrisonAvailable_English
+	
+	
+Text.Visitor.Greet.Kowalski.1	Er. . . sir?
+Text.Visitor.Greet.Kowalski.2	Well I. . .
+Text.Visitor.Greet.Kowalski.3	Sir can I. . .
+Text.Visitor.Greet.Kowalski.4	The chief sent me. . .
+	
+Text.Visitor.Banter.Kowalski.1	Because of what you've done, Hawaiian Mo is coming for us. . .
+Text.Visitor.Banter.Kowalski.2	This seems out of the blue but have you played L.A. Cops yet? 
+Text.Visitor.Banter.Kowalski.3	I heard you got banged up with only two days left to retirement. . .
+Text.Visitor.Banter.Kowalski.4	I heard one of your boys took out Hawaiian Mo's son. . .
+	
+Text.Visitor.Leave.Kowalski.1	Anyway - *if* we get through this, one day, we'll play some L.A. Cops together.
+Text.Visitor.Leave.Kowalski.2	Right, I'm gonna go *cough* play some L.A. Cops. Ciao!
+Text.Visitor.Leave.Kowalski.3	Ok. Gonna grab me some coffee and some DoDo Donuts. Later, pal.
+	
+Text.Item.DodoDonut	DoDo Donut
+	
+	
+Text.Item.Barrel	Penarium Barrel
+Text.NPC.Warden.PenariumName	The Ringmaster
+Text.NPC.Warden.Penarium.1	Under MY guidance you will take your shot at becoming a top contestant!
+Text.NPC.Warden.Penarium.2	All you have to do is survive. How hard can it be?
+Text.NPC.Warden.Penarium.3	Surviving is pretty easy when nothing is shooting at you!
+Text.NPC.Warden.Penarium.4	They want you to ENTERTAIN!
+Text.NPC.Warden.Penarium.5	Welcome to the sadistic circus extravaganza that is. . . PENARIUM!
+Text.NPC.Warden.Penarium.6	I am *such* a funny guy. . .
+Text.NPC.Warden.Penarium.7	You never cease to amaze me!
+Text.NPC.Warden.Penarium.8	It's time for BLOOD BALLOONS! Gnahahuhah!
+Text.NPC.Warden.Penarium.9	SHOW US WHAT YOU GOT!
+Text.NPC.Warden.Penarium.10	Welcome to. . . PENARIUM!
+Text.NPC.Warden.Penarium.11	If they believe in you, then perhaps YOU have what it takes to climb the mountain!
+Text.NPC.Warden.Penarium.12	Why are you giving me that look? Are you still angry?
+Text.NPC.Warden.Penarium.13	There *IS* a way to get out of here! But for now you have more pressing matters to attend to. . . Like breathing consecutively.
+Text.NPC.Warden.Penarium.14	Alright, I hate to break it to you but. . . I really thought you would be dead by now.
+Text.NPC.Warden.Penarium.15	Everything I said and made you do was a preparation for this moment.
+Text.NPC.Warden.Penarium.16	I didn't want to hurt you. . . But I had to. My only goal was to make you strong!
+	
+Image.ETeam.Upsell	NewContentAvailable_English
+	
+Text.Credits.Eteam	Escape Team
+	
+Text.Credits.ETeamDev.People	Adam Riley, Andrew Morriss, Ben Ridge, David Rogers, Grant Towell, Jimmy Storey, Joe McClean, John Dye, Nick Gomersall, Oli Wood, Rory Little
+Text.Credits.ETeamSup.People	Dave Smethurst, Kelvin Aston, Kevin Carthew
+Text.Credits.ETeamDla	Dlala Studios
+Text.Credits.ETeamDla.People	AJ Grand-Scrutton, Craig Thomas
+Text.Credits.ETeamPub.People	Bethany Aston, Chris Eden, Debbie Bestwick, Jason Dewey, Mickey Torode, Paul Bray
+Text.Credits.ETeamQA.People	Andy Aveyard, Dean Knight, Emma Bates, John Lappin
+	
+Text.Credits.Jimmy	In fond memory of Jimmy
+	
+	
+Text.DLC.Alcatraz.Name	Alcatraz
+Text.DLC.Alcatraz.Info	Welcome to Alcatraz! If you've ever thought to yourself 'wouldn't it be nice to get away from it all?' then you've come to the right place. Let's just say, this island is hardly paradise. Good luck!
+Text.Tutorial.Welcome.Alcatraz	Well I never.\n\nOf all the prisons in all the world, you went and got yourself landed in mine. Now, I really don't want to dampen your spirits seeing as though you're the new guy around here but quite frankly - this is it.\n\nYou'll never leave this island and see out the rest of your days with me and my boys.\n\nEnjoy your stay, punk.
+Text.Help.Gym.Alcatraz	Use the weights bench and treadmill to boost your STRENGTH and SPEED stats - get on the desired equipment and using fast presses,  alternate between (LT) and (RT) to buff yourself up!
+	
+Text.Presence.EscapedPrison101pri	On the outside of Alcatraz! Day %DAY%
+Text.Presence.InGamePrison101pri	Serving hard time in Alcatraz! Day %DAY%
+	
+Text.DLC.Alcatraz.NameAF	Alcatraz
+	
+	
+Text.DLC.ETeam.Name	Escape Team
+Text.DLC.ETeam.Info	Imprisoned for a crime you didn't commit. . . Apparently! You and your trusty team of three need to bust out this place. It will take team work and brain power to get out of this one. Good luck!
+Text.Tutorial.Welcome.ETeam	If you're reading this letter then our man on the inside didn't die in vain.\n\nIt's going to take some serious work on your part to bust loose from this place.\n\nOne thing our man told us is that some items you need he made sure were marked out so you could identify their locations.\n\nPrevious intelligence suggests there are enough items for you to seek out and use to force an escape.\n\nGood luck - keep your eyes open; it's always an option to 'tank' your way out of here.
+Text.Help.Gym.ETeam	Use the weights bench and treadmill to boost your STRENGTH and SPEED stats - get on the desired equipment and using fast presses,  alternate between (LT) and (RT) to buff yourself up!
+	
+Text.Inmates.Banter.BA.1	Shut up!
+Text.Inmates.Banter.BA.2	I hate this!
+Text.Inmates.Banter.BA.3	I ain't getting in no tank!
+Text.Inmates.Banter.BA.4	Not now!
+Text.Inmates.Banter.BA.5	I told you! I ain't getting in no tank!
+Text.Inmates.Banter.BA.6	This plan stinks!
+Text.Inmates.Banter.BA.7	The name of my fist is 'K.O'!
+Text.Inmates.Banter.BA.8	The bigger they are, the harder they hit, man!
+Text.Inmates.Banter.BA.9	Let's go!
+Text.Inmates.Banter.BA.10	Victory attained by violence is momentary!
+Text.Inmates.Banter.BA.11	I ain't got time for no autographs!
+Text.Inmates.Banter.BA.12	This is bad.
+Text.Inmates.Banter.BA.13	I ain't afraid of nothing!
+Text.Inmates.Banter.BA.14	What you talking about, man?
+Text.Inmates.Banter.BA.15	Oh man!
+Text.Inmates.Banter.BA.16	I hate coincidences, man!
+	
+Text.Inmates.Showers.BA.1	These muscles need de-stressing!
+Text.Inmates.Showers.BA.2	Man, I love a good shower!
+Text.Inmates.Showers.BA.3	This water be all good for me.
+Text.Inmates.Showers.BA.4	Keep your distance!
+Text.Inmates.Showers.BA.5	Rain it down on me, man!
+	
+Text.Inmates.Showers.Chev.1	This shower is bringing out my charm.
+Text.Inmates.Showers.Chev.2	I can't help that I'm irresistible. . .
+Text.Inmates.Showers.Chev.3	the ladies will love me all clean. . . When we get out.
+Text.Inmates.Showers.Chev.4	I'm such a tease!
+Text.Inmates.Showers.Chev.5	This is like a relaxing water massage. . . Definitely my favourite part of the day!
+	
+Text.Inmates.Showers.Merv.1	Reminds me of rain. . . Wet rain. Yeah. . . This reminds me of water! WATER!
+Text.Inmates.Showers.Merv.2	Imagine life without water. Now *THAT* would be weird!
+Text.Inmates.Showers.Merv.3	Room for a little crazy guy?
+Text.Inmates.Showers.Merv.4	Come rain down on me!
+Text.Inmates.Showers.Merv.5	Getting all wet in here!
+	
+Text.Inmates.Gym.BA.1	Man I'm working it!
+Text.Inmates.Gym.BA.2	Watch my moves. . . Ugh, ugh, ugh!
+Text.Inmates.Gym.BA.3	Work it. Work it!
+Text.Inmates.Gym.BA.4	A man can always be stronger.
+Text.Inmates.Gym.BA.5	I can't believe how strong I am!
+	
+Text.Inmates.Gym.Chev.1	How will this improve my looks?
+Text.Inmates.Gym.Chev.2	Where are all the mirrors?
+Text.Inmates.Gym.Chev.3	I'm not really keen on this sweating business.
+Text.Inmates.Gym.Chev.4	Guys. I gotta say - I would prefer a sauna to this. . . 
+Text.Inmates.Gym.Chev.5	After gym time. . . It's sauna time, right?
+	
+Text.Inmates.Gym.Merv.1	I wish I had more arms. . .
+Text.Inmates.Gym.Merv.2	If I was a bird - maybe I could exercise my wings. . .Or my beak!
+Text.Inmates.Gym.Merv.3	This place creeps me out. *Way* too many muscles for my liking!
+Text.Inmates.Gym.Merv.4	I wonder if they could collect our sweat. . . Maybe that's what they use for the showers?
+Text.Inmates.Gym.Merv.5	I could go for a big juicy burger right now!
+	
+	
+Text.Inmates.Banter.Chev.1	If we're gonna fight, I'd really prefer not to be hit in the face!
+Text.Inmates.Banter.Chev.2	We don't *really* have a plan do we?
+Text.Inmates.Banter.Chev.3	I don't plan on making a career out of this!
+Text.Inmates.Banter.Chev.4	There's about a million reasons why I hate this plan of yours!
+Text.Inmates.Banter.Chev.5	You better watch my back. Seriously!
+Text.Inmates.Banter.Chev.6	They say that rules are made to be broken!
+Text.Inmates.Banter.Chev.7	The bigger they are, the harder they fall. But I don't plan on fighting big guys!
+Text.Inmates.Banter.Chev.8	Come on man, what kind of friend are you?
+Text.Inmates.Banter.Chev.9	I know! 'Yesterday was a dream and tomorrow is but a vision. Bliss!'
+Text.Inmates.Banter.Chev.10	I dream of tomorrow as a vision of hope!
+Text.Inmates.Banter.Chev.11	Did you ever hear of. . .I forgot who I was talking about. . .
+Text.Inmates.Banter.Chev.12	It's time the truth came out, guys! We are INNOCENT!
+Text.Inmates.Banter.Chev.13	Aw, come on guys!
+Text.Inmates.Banter.Chev.14	Oh boy, this is gonna be fun!
+Text.Inmates.Banter.Chev.15	What are we gonna do now?
+Text.Inmates.Banter.Chev.16	I think we should make some swift vacation plans!
+Text.Inmates.Banter.Chev.17	I love how you make me feel so much a part of the team.
+Text.Inmates.Banter.Chev.18	Oh that's all we need. . . Just a tank. . . Haha, no problem! Let's get moving.
+Text.Inmates.Banter.Chev.19	When I was a kid I always wanted to be a guard. Did you know that?
+	
+	
+	
+Text.Inmates.Banter.Merv.1	I wish I could live like a fish!
+Text.Inmates.Banter.Merv.2	I'm surprised they ever discharged me!
+Text.Inmates.Banter.Merv.3	I'm nuts. Let's get that straight, okay? Wait, you guys agree, right?
+Text.Inmates.Banter.Merv.4	Gimme a trash bag!
+Text.Inmates.Banter.Merv.5	I have memory loss!
+Text.Inmates.Banter.Merv.6	#I want to be over there, hey look I'm covered with hair!
+Text.Inmates.Banter.Merv.7	You guys ever think one day this will *all* be over? Me neither!
+Text.Inmates.Banter.Merv.8	Forgive me! I'm sorry but I'm not the one with the bad attitude!
+Text.Inmates.Banter.Merv.9	When someone talks to me I feel obliged to respond. . . Is that called a conversation?
+Text.Inmates.Banter.Merv.10	#Oh I want to be a fisherman, sailing on the sea. . . Come fish, come fish, come fish with me!
+Text.Inmates.Banter.Merv.11	#Oh I want to be a. . . Hey guys! I forgot the lyrics!
+Text.Inmates.Banter.Merv.12	You can count on me!
+Text.Inmates.Banter.Merv.13	Idiots are not a very reliable source of information you know!
+Text.Inmates.Banter.Merv.14	I knew it. I just knew you had a plan. You do have one don't you?
+Text.Inmates.Banter.Merv.15	I'm a real soldier. . . Well I think I am. . . Or I used to be?
+Text.Inmates.Banter.Merv.16	I don't want to be a secret weapon. What's the fun in nobody knowing?
+Text.Inmates.Banter.Merv.17	I could go for a relaxing lie down right now. Rest this crazy brain of mine.
+Text.Inmates.Banter.Merv.18	I wanna cry. At least I think I do? No! I want to laugh instead!
+Text.Inmates.Banter.Merv.19	Even I know there's a difference between being brave and just plain crazy.
+	
+Text.Inmates.FoodHall.BA.1	Man, this ain't doing nothing in terms of nutrition.
+Text.Inmates.FoodHall.BA.2	How will this help build up my muscles?
+Text.Inmates.FoodHall.BA.3	Maybe we'll get a taste for this slop?
+Text.Inmates.FoodHall.BA.4	I want chicken. A man needs protein for a body like this.
+Text.Inmates.FoodHall.BA.5	These fools have no clue when it comes to feeding a monster like me!
+Text.Inmates.FoodHall.BA.6	My nutritionist would hate to see me eating this. . . *stuff*
+Text.Inmates.FoodHall.BA.7	Can a man not even get a side plate of nuts here? Man, this sucks!
+	
+Text.Inmates.FoodHall.Chev.1	I'm hoping this brings out the natural glow in me!
+Text.Inmates.FoodHall.Chev.2	I'm used to michelin-starred restaurants. . . Not this.
+Text.Inmates.FoodHall.Chev.3	Ah waiter? Anyone? Anyone? The service here appals me!
+Text.Inmates.FoodHall.Chev.4	This really is terribly poor food, guys. We gotta get out of here.
+Text.Inmates.FoodHall.Chev.5	I never thought I'd be eating with you guys. I prefer female company!
+Text.Inmates.FoodHall.Chev.6	This is the worst date I've ever been on.
+Text.Inmates.FoodHall.Chev.7	All these seats and you have to sit so close to me. I'm not used to this.
+	
+Text.Inmates.FoodHall.Merv.1	I want me a tummy-busting surprise pack!
+Text.Inmates.FoodHall.Merv.2	Mmmm. . . I'm coming at ya! Get in my mouth!
+Text.Inmates.FoodHall.Merv.3	This is both *nutritious* and *mega delicious*!
+Text.Inmates.FoodHall.Merv.4	It tastes pretty yucky!
+Text.Inmates.FoodHall.Merv.5	Grapefruit juice, please. Shaken, not stirred.
+Text.Inmates.FoodHall.Merv.6	This is not going to taste good. I just know it.
+Text.Inmates.FoodHall.Merv.7	YUM YUM. . . Not!
+	
+Text.Item.MakeshiftTankTurret	Makeshift Tank Turret
+Text.Item.MakeshiftTankBarrel	Makeshift Tank Barrel
+Text.Item.MakeshiftTankFiringBase	Makeshift Tank Firing Base
+Text.Item.CorrugatedIron	Corrugated Iron
+Text.Item.MetalPipe	Metal Tube
+Text.Item.MakeshiftExplosiveRound	Makeshift Explosive Round
+Text.Item.MakeshiftExplosiveThing	Explosive Compound
+Text.Item.MetalCone	Metal Cone
+Text.Item.Container	Mixing Container
+Text.Item.ExplosiveMix	Explosive Mix
+Text.Item.MakeshiftFuse	Makeshift Fuse
+Text.Item.Taper	Taper
+Text.Item.Fertilizer	Fertilizer
+Text.Item.Charcoal	Charcoal
+Text.Item.Potassium	Potassium
+	
+Text.Item.AfterShave	After Shave
+Text.Item.SovereignRing	Sovereign Ring
+Text.Item.TrashBag	Bag Of Trash
+	
+	
+Eteam.HUD.TankCrafting	Build Instructions
+Eteam.Tank.Progress.TurretClue	You need a Makeshift Turret first!
+Eteam.Tank.Progress.ExplosiveClue	You need a Makeshift Explosive Round next!
+Eteam.Tank.Progress.FuseClue	You need a Makeshift Fuse next!\n\n. . .Did you honestly think we would tell you how to make one of those *as well*?!
+	
+	
+Text.ETeam1	Makeshift Tank Barrel MAN!
+Text.ETeam2	Makeshift Tank firing base MAN!
+Text.ETeam3	Explosive Mix
+Text.ETeam4	Makeshift Explosive Thing
+	
+Text.TankBase	Broken Tank
+	
+Text.TankPlaque	Memorial
+Text.UI.TankPlaqueTitle	In Loving Memory Of
+Text.UI.TankPlaque.Body	A fantastic and fiercely loyal tank.\n\nA tank bursting with hatred, gifting amazing damage and wonderful destruction to anything and anyone without hesitation.\n\nThe remnants of this doting war-machine can be viewed at it's final resting place situated east in the compound.\n\nMay your malevolent, blood-thirsty soul rest in peace.
+	
+Text.Name.General	General $NAME$
+	
+Text.Presence.EscapedPrison103pri	The Escape Team has done it again! Day %DAY%
+Text.Presence.InGamePrison103pri	Plotting with the Escape Team in the barracks! Day %DAY%
+	
+Text.DLC.ETeam.NameAF	Escape Team
+	
+	
+Text.DLC.DTAF.Name	Duct Tapes Are Forever
+Text.DLC.DTAF.Info	Yourself and your wannabe spy inmates have been rounded up by a cruel but evil genius. It will take more brain than brawn to work out how to escape this lair!
+Text.Tutorial.Welcome.DTAF	Pay attention sir, you'll need to seek out the necessary equipment in this base in order to 'launch' your way out of here.\n\nOne of the other faux agents did manage to get to us some good information and got us these pictures, with the words 'Sharks' and 'Hammers' scrawled on the back of them.  The words are utterly *useless* but the pictures are not, I feel.\n\nGood luck, we're all depending on you!
+Text.Help.Gym.DTAF	Use the weights bench and treadmill to boost your STRENGTH and SPEED stats - get on the desired equipment and using fast presses, alternate between (LT) and (RT) to buff yourself up!
+	
+Text.Inmates.Banter.DTAF.1	Shut up!
+Text.Inmates.Banter.DTAF.2	Do you *really* expect me to talk?
+Text.Inmates.Banter.DTAF.3	Shocking. Positively shocking I'd say!
+Text.Inmates.Banter.DTAF.4	I really should get this tuxedo dry-cleaned when I get the chance
+Text.Inmates.Banter.DTAF.5	White socks AND a tuxedo? Outrageous I'd say
+Text.Inmates.Banter.DTAF.6	I'm thinking of stopping wearing socks. . . Just an idea
+Text.Inmates.Banter.DTAF.7	Does anyone else feel like they look like a penguin?
+Text.Inmates.Banter.DTAF.8	Why couldn't the Evil Lair be in the Bahamas?!
+Text.Inmates.Banter.DTAF.9	The decor in here really is quite ghastly!
+Text.Inmates.Banter.DTAF.10	Why do Lairs always look so... drab?
+Text.Inmates.Banter.DTAF.11	Its quite cold for a base inside a volcano...
+Text.Inmates.Banter.DTAF.12	Is that a hidden weapon or are you pleased to see me?
+Text.Inmates.Banter.DTAF.13	No one can be trusted
+Text.Inmates.Banter.DTAF.14	I think I’m being watched
+Text.Inmates.Banter.DTAF.15	Is it me or is it warm in here?
+Text.Inmates.Banter.DTAF.16	Something big is gonna happen
+Text.Inmates.Banter.DTAF.17	I feel a change in the wind
+Text.Inmates.Banter.DTAF.18	Something big is going down
+Text.Inmates.Banter.DTAF.19	I used to be a butcher you know
+Text.Inmates.Banter.DTAF.20	I used to be a barber you know
+Text.Inmates.Banter.DTAF.21	I used to be a cab driver you know
+Text.Inmates.Banter.DTAF.22	I used to be a CEO you know
+Text.Inmates.Banter.DTAF.23	I used to be a builder you know
+Text.Inmates.Banter.DTAF.24	I used to own my own company you know
+Text.Inmates.Banter.DTAF.25	I used to run my own business you know
+Text.Inmates.Banter.DTAF.26	I used to be a game developer you know
+Text.Inmates.Banter.DTAF.27	I used to be homeless you know
+Text.Inmates.Banter.DTAF.28	I used to be a con man you know
+Text.Inmates.Banter.DTAF.29	Yawn
+Text.Inmates.Banter.DTAF.30	Sleepy.
+Text.Inmates.Banter.DTAF.31	Does my bum look big in this?
+Text.Inmates.Banter.DTAF.32	You smell nice
+Text.Inmates.Banter.DTAF.33	He's testing my patience
+Text.Inmates.Banter.DTAF.34	Tread lightly
+Text.Inmates.Banter.DTAF.35	Can you hear that?
+Text.Inmates.Banter.DTAF.36	You gotta be kidding me right.
+Text.Inmates.Banter.DTAF.37	Dude's got bad intentions.
+Text.Inmates.Banter.DTAF.38	Dudes got bad intentions part two!
+Text.Inmates.Banter.DTAF.39	I have nothing to declare but my innocence
+Text.Inmates.Banter.DTAF.40	If there was an escape plot I'd hope to be invited
+Text.Inmates.Banter.DTAF.41	Ever thought about escaping?
+Text.Inmates.Banter.DTAF.42	That's what got me thinking
+Text.Inmates.Banter.DTAF.43	I doubt that very much
+Text.Inmates.Banter.DTAF.44	I've always said that
+Text.Inmates.Banter.DTAF.45	I tend to agree
+Text.Inmates.Banter.DTAF.46	Like I was saying.
+Text.Inmates.Banter.DTAF.47	Am I rambling?
+Text.Inmates.Banter.DTAF.48	Did I stutter?
+Text.Inmates.Banter.DTAF.49	Am I boring you?
+Text.Inmates.Banter.DTAF.50	Yes
+Text.Inmates.Banter.DTAF.51	Did you need something?
+Text.Inmates.Banter.DTAF.52	What on earth do you want?
+Text.Inmates.Banter.DTAF.53	Couldn't be less interested
+Text.Inmates.Banter.DTAF.54	I've never been so insulted!
+	
+	
+	
+	
+Text.Inmates.Showers.DTAF.1	The sensation across my body is double oh HEAVEN!
+Text.Inmates.Showers.DTAF.2	I'm at ease with the heavy amount of gentlemen in here
+Text.Inmates.Showers.DTAF.3	The water temperature is most comfortable
+Text.Inmates.Showers.DTAF.4	I'm not adverse to sharing such an enclosed space
+Text.Inmates.Showers.DTAF.5	Hey! Nice trunks
+Text.Inmates.Showers.DTAF.6	I didn't bring my Scuba Gear!
+Text.Inmates.Showers.DTAF.7	Do you always take a shower with a water pistol?
+Text.Inmates.Showers.DTAF.8	I think he got the point
+Text.Inmates.Showers.DTAF.9	I always preferred the wet look
+Text.Inmates.Showers.DTAF.10	Oh I'm one *slippery* customer alright!
+Text.Inmates.Showers.DTAF.11	Do you always take a shower with this many people?
+Text.Inmates.Showers.DTAF.12	I. . . I must be dreaming
+Text.Inmates.Showers.DTAF.13	This really isn't the time!
+Text.Inmates.Showers.DTAF.14	This place will really make or break a chap
+Text.Inmates.Showers.DTAF.15	We could be friends
+Text.Inmates.Showers.DTAF.16	You're invading my personal space
+Text.Inmates.Showers.DTAF.17	Any conditioner?
+Text.Inmates.Showers.DTAF.18	I've made many friends in here
+Text.Inmates.Showers.DTAF.19	Well this is romantic
+Text.Inmates.Showers.DTAF.20	Oh do hush
+Text.Inmates.Showers.DTAF.21	Something wrong?
+Text.Inmates.Showers.DTAF.22	I won't sleep tonight now
+Text.Inmates.Showers.DTAF.23	What a day!
+Text.Inmates.Showers.DTAF.24	Oh I don't believe this!
+Text.Inmates.Showers.DTAF.25	I could drive on this road forever.
+Text.Inmates.Showers.DTAF.26	I would be happy with just one minute in your arms!
+Text.Inmates.Showers.DTAF.27	Do you know that when you look at me it is a salvation?
+Text.Inmates.Showers.DTAF.28	You worry so much about not having enough time together?
+Text.Inmates.Showers.DTAF.29	This water. . . It's almost *too* watery. . . Far too obvious!
+Text.Inmates.Showers.DTAF.30	Let's do this
+	
+	
+	
+Text.Inmates.Gym.DTAF.1	The only reason I would visit a gym would be for the sauna!
+Text.Inmates.Gym.DTAF.2	Why aren't there any ladies in here?
+Text.Inmates.Gym.DTAF.3	I think my gym days might be over, you know!
+Text.Inmates.Gym.DTAF.4	Could I not get a damp towel and a cocktail please
+Text.Inmates.Gym.DTAF.5	At least the villain who runs this place has excellent facilities!
+Text.Inmates.Gym.DTAF.6	I'm sure we can work this out
+Text.Inmates.Gym.DTAF.7	I'm joyous at working out alongside such a man as yourself
+Text.Inmates.Gym.DTAF.8	Me? Of course I love a good workout!
+Text.Inmates.Gym.DTAF.9	Well, one of us smells like a binman's underwear!
+Text.Inmates.Gym.DTAF.10	I'm pacing myself
+Text.Inmates.Gym.DTAF.11	*Roar*
+Text.Inmates.Gym.DTAF.12	I'm not even tensing
+Text.Inmates.Gym.DTAF.13	Not even trying here
+Text.Inmates.Gym.DTAF.14	Nothing to it
+Text.Inmates.Gym.DTAF.15	I got this
+Text.Inmates.Gym.DTAF.16	Taking it easy
+Text.Inmates.Gym.DTAF.17	Getting hench over here, chaps!
+Text.Inmates.Gym.DTAF.18	Oh my, I believe I've pulled. A muscle!
+Text.Inmates.Gym.DTAF.19	I'm known for handling the pressure
+Text.Inmates.Gym.DTAF.20	I musn't let things get on top of me
+Text.Inmates.Gym.DTAF.21	This is torture!
+Text.Inmates.Gym.DTAF.22	I must remain strong!
+Text.Inmates.Gym.DTAF.23	Jog on
+Text.Inmates.Gym.DTAF.24	Not cleaning it afterwards is just, dastardly!
+Text.Inmates.Gym.DTAF.25	The real villain here is the music choice
+Text.Inmates.Gym.DTAF.26	I'll be lifting that rocket next
+Text.Inmates.Gym.DTAF.27	I may be shaken, but I shall not be deterred!
+Text.Inmates.Gym.DTAF.28	What?
+Text.Inmates.Gym.DTAF.29	Yes?
+Text.Inmates.Gym.DTAF.30	We'll catch up later
+Text.Inmates.Gym.DTAF.31	Not now
+Text.Inmates.Gym.DTAF.32	I can't help you
+Text.Inmates.Gym.DTAF.33	Hello
+Text.Inmates.Gym.DTAF.34	Sigh.
+Text.Inmates.Gym.DTAF.35	Not again?
+Text.Inmates.Gym.DTAF.36	What now?!
+Text.Inmates.Gym.DTAF.37	This is outragous!
+Text.Inmates.Gym.DTAF.38	None of my business
+Text.Inmates.Gym.DTAF.39	Sneaky.
+Text.Inmates.Gym.DTAF.40	I've places to be
+Text.Inmates.Gym.DTAF.41	Move along chap
+Text.Inmates.Gym.DTAF.42	You're delaying me
+	
+Text.Inmates.FoodHall.DTAF.1	Oh I do enjoy a quick nibble
+Text.Inmates.FoodHall.DTAF.2	This food is no good to spies like us
+Text.Inmates.FoodHall.DTAF.3	I wish you wouldn't do such things to your food
+Text.Inmates.FoodHall.DTAF.4	I wonder if this is laced with deadly poison?
+Text.Inmates.FoodHall.DTAF.5	I'm sure this food contains 'special' substances
+Text.Inmates.FoodHall.DTAF.6	*choke* *choke* Don't panic chums, it's just a bone
+Text.Inmates.FoodHall.DTAF.7	Just a drink. A dry tea, warm, not disturbed
+Text.Inmates.FoodHall.DTAF.8	He just popped in for a quick *bite*
+Text.Inmates.FoodHall.DTAF.9	You call this food?
+Text.Inmates.FoodHall.DTAF.10	There's a hair in my soup
+Text.Inmates.FoodHall.DTAF.11	Waiter!
+Text.Inmates.FoodHall.DTAF.12	Any seconds?
+Text.Inmates.FoodHall.DTAF.13	I refuse to ingest this
+Text.Inmates.FoodHall.DTAF.14	Is this food?
+Text.Inmates.FoodHall.DTAF.15	I'll need a mint after this
+Text.Inmates.FoodHall.DTAF.16	It's not bad really
+Text.Inmates.FoodHall.DTAF.17	Bit overcooked
+Text.Inmates.FoodHall.DTAF.18	I've had better
+Text.Inmates.FoodHall.DTAF.19	Pass that salt
+Text.Inmates.FoodHall.DTAF.20	Could do with some seasoning
+Text.Inmates.FoodHall.DTAF.21	It's missing something
+Text.Inmates.FoodHall.DTAF.22	This resembles vomit
+Text.Inmates.FoodHall.DTAF.23	Who runs this kitchen?
+Text.Inmates.FoodHall.DTAF.24	The chef needs removing
+Text.Inmates.FoodHall.DTAF.25	Call this a serving?
+Text.Inmates.FoodHall.DTAF.26	You planning on finishing that?
+Text.Inmates.FoodHall.DTAF.27	Do you mind?
+Text.Inmates.FoodHall.DTAF.28	Real food would be nice
+Text.Inmates.FoodHall.DTAF.29	Reminds me of dog food
+Text.Inmates.FoodHall.DTAF.30	Smells rank
+Text.Inmates.FoodHall.DTAF.31	Honestly, smell that.
+Text.Inmates.FoodHall.DTAF.32	That isn't a head hair.
+Text.Inmates.FoodHall.DTAF.33	Awful this is
+Text.Inmates.FoodHall.DTAF.34	Contains all the nutrition a wannabe spy requires!
+Text.Inmates.FoodHall.DTAF.35	I'd love a side serving of espionage!
+Text.Inmates.FoodHall.DTAF.36	Undercover? Under-nourished more like!
+Text.Inmates.FoodHall.DTAF.37	I'll be the first to admit it - I'm beginning to regret my actions
+Text.Inmates.FoodHall.DTAF.38	Hopefully this won't be our last meal together, chaps1
+Text.Inmates.FoodHall.DTAF.39	I *spy* with my little eye. . .
+Text.Inmates.FoodHall.DTAF.40	Yes - I get my gadgets from 'Spies'R'Us'!
+	
+	
+Text.NPC.Jobstaff.DTAF.1	Do a job you can be proud of!
+Text.NPC.Jobstaff.DTAF.2	Competitive wages right here!
+Text.NPC.Jobstaff.DTAF.3	Always room for more workers
+Text.NPC.Jobstaff.DTAF.4	Don't be shy, step right up
+Text.NPC.Jobstaff.DTAF.5	A hard days work makes men of us all
+Text.NPC.Jobstaff.DTAF.6	Nothing better than an honest days work
+Text.NPC.Jobstaff.DTAF.7	Nothing beats an honest wage
+Text.NPC.Jobstaff.DTAF.8	You will find our jobs thoroughly engaging!
+Text.NPC.Jobstaff.DTAF.9	Motivation? Not important!
+Text.NPC.Jobstaff.DTAF.10	Forge a career you can be proud of
+Text.NPC.Jobstaff.DTAF.11	Sick of being a spy? Step right up!
+Text.NPC.Jobstaff.DTAF.12	Your job, if you choose to accept it...
+Text.NPC.Jobstaff.DTAF.13	Unmotivated? Useless? We need YOU!
+Text.NPC.Jobstaff.DTAF.14	Employment cleanses the soul
+Text.NPC.Jobstaff.DTAF.15	Espionage proving a daily grind? Come chat to us!
+Text.NPC.Jobstaff.DTAF.16	Bored of gadgets and risky business? Come do something *GREAT*
+Text.NPC.Jobstaff.DTAF.17	High speed chases? Thrilling action? We have NONE of that! Come see. . .
+Text.NPC.Jobstaff.DTAF.18	Some say these jobs are impossible. . . I say otherwise. Come see!
+Text.NPC.Jobstaff.DTAF.19	Come to me my little cuckoos, let me get you work to do!
+Text.NPC.Jobstaff.DTAF.20	Bad intentions? Work it out! Come get employed!
+	
+Text.FingerprintScanner	Fingerprint Scanner
+Text.VoiceScanner	Voice Analyzer
+Text.KeyCard	Key Panel
+	
+Text.RocketPlaque	Important Notice
+Text.UI.RocketPlaqueTitle	LAUNCH INSTRUCTIONS
+Text.UI.RocketPlaque.Body	DO NOT USE FAKE FINGERPRINTS ON THE FINGERPRINT SCANNER!\n\n\n\n\nDO NOT USE HENCHMAN VOICE RECORDINGS ON THE VOICE RECOGNITION SYSTEM!\n\n\n\n\nDO NOT USE STOLEN LAUNCH KEYS ON THE PANEL!
+	
+	
+Text.Name.Mr	Mr. $NAME$
+Text.Presence.EscapedPrison104pri	Such magnificent skills from a super spy! Day %DAY%
+Text.Presence.InGamePrison104pri	Coming up with a super plan! Day %DAY%
+	
+Text.Item.ShoeKnife	Shoe Knife
+Text.Item.WireWatch	Garotting Wire Watch
+Text.Item.LaserWatch	Cutting Laser Watch
+Text.Item.VoiceRecording	Voice Recording
+Text.Item.BombSuprise	Bomb Suprise
+Text.Item.FlameThrower	Hidden Flame Thrower
+Text.Item.TeaTray	Sharp Tea Tray
+Text.Item.MetalRimmedHat	Metal Rimmed Hat
+Text.Item.StunPen	Stun Pen
+Text.Item.FakeEgg	Fake Decorated Egg
+Text.Item.FakeShoe	Fake Shoe
+Text.Item.CyanidePills	Cyanide Pills
+Text.Item.TapePlayer	Tape Player
+Text.Item.MemoirTape	Henchmans Memoir Tape
+Text.Item.DirtyGlass	Dirty Glass
+Text.Item.TalcumPowder	Talcum Powder
+Text.Item.StickyTape	Sticky Tape
+Text.Item.FingerprintGlass	Weak Fingerprint
+Text.Item.Blutack	Blue Putty
+Text.Item.FingerprintMould	Fake Fingerprint
+Text.Item.Keycard	Keycard
+Text.Item.PorkpieHat	Porkpie Hat
+Text.Item.HairSpray	Hair Spray
+	
+	
+	
+	
+Text.NPC.Warden.DTAF1	You rotten lot are more useless than I ever imagined you would be!
+Text.NPC.Warden.DTAF2	My mother used to say the successful criminal brain is always the most superior!
+Text.NPC.Warden.DTAF3	Move along, vermin. . . This evil genius has work to do!
+Text.NPC.Warden.DTAF4	Our rules are very simple. If you fail. . . Well, you get the picture
+Text.NPC.Warden.DTAF5	Captives, I expect you *ALL* to die here!
+Text.NPC.Warden.DTAF6	I shall look forward personally to exterminating you.
+Text.NPC.Warden.DTAF7	Good morning my pets, it's sure going to be a beautiful day!
+Text.NPC.Warden.DTAF8	Ours is the loneliest profession, detainees!
+Text.NPC.Warden.DTAF9	Look around, captives. View the instruments of Armageddon!
+Text.NPC.Warden.DTAF10	Captives, you persist in defying my efforts to provide an amusing death for you all!
+Text.NPC.Warden.DTAF11	If you're trying to be ingratiating, chaps. Don't bother!
+Text.NPC.Warden.DTAF12	The distance between insanity and a genius like me is measured by success!
+Text.NPC.Warden.DTAF13	I owe you an unpleasant death, you pesky spies!
+	
+	
+	
+Text.Visitor.Greet.DTAF.1	Hiya, beautiful. . .
+Text.Visitor.Greet.DTAF.2	Howdy, peasant. . .
+Text.Visitor.Greet.DTAF.3	Hello sweet-cheeks. . .
+Text.Visitor.Greet.DTAF.4	Ooh nice suit, idiot!
+Text.Visitor.Greet.DTAF.5	I don't even know why I've come here. . . Hello anyway
+Text.Visitor.Greet.DTAF.6	Ahaaa, Mr. . . What's your name again?
+Text.Visitor.Greet.DTAF.7	I've been expecting you! Or you've been expecting me, whatever!
+	
+	
+	
+	
+Text.Visitor.Banter.DTAF.1	I didn't recognise you with your clothes on. . .
+Text.Visitor.Banter.DTAF.2	The thing is. . . Actually. . . I forgot what I was going to say?
+Text.Visitor.Banter.DTAF.3	This place seems a little 'man-heavy' for my liking. . .
+Text.Visitor.Banter.DTAF.4	People are blaming me for you being here. . . But I don't know. . .
+Text.Visitor.Banter.DTAF.5	I bet you're lonely aren't you? *Real* lonely. . .
+Text.Visitor.Banter.DTAF.6	Don't worry. I'm not supposed to be here either. . .
+Text.Visitor.Banter.DTAF.7	Spy gets caught, Spy gets lonely. . . There are lots of spies here. But I don't know. . .
+Text.Visitor.Banter.DTAF.8	I bet you're looking forward to 'shower' time aren't you?
+Text.Visitor.Banter.DTAF.9	The only thing secret about you now is what you get up to at night.
+Text.Visitor.Banter.DTAF.10	Are you allowed to sleep with the light on at all?
+Text.Visitor.Banter.DTAF.11	Honestly, if I could swap places with you, I definitely wouldn't.
+Text.Visitor.Banter.DTAF.12	Haven't you got any magic gadgets you can use to get out?
+Text.Visitor.Banter.DTAF.13	Worst. Agent. Ever.
+Text.Visitor.Banter.DTAF.14	That tuxedo needs a wash. You smell absolutely horrific.
+Text.Visitor.Banter.DTAF.15	Did you get that suit from a third-hand shop?
+Text.Visitor.Banter.DTAF.16	You do realise I'm missing a gadget convention to be here?
+Text.Visitor.Banter.DTAF.17	Well? Come on. . .Say something!
+Text.Visitor.Banter.DTAF.18	Haha, you look like a penguin in that suit you know?
+Text.Visitor.Banter.DTAF.19	I heard an *awful* rumour about where you were caught. . .
+Text.Visitor.Banter.DTAF.20	I don't actually think anyone has noticed you're missing. . .
+Text.Visitor.Banter.DTAF.21	You're getting blamed for all sorts of stuff on the outside. . .
+Text.Visitor.Banter.DTAF.22	Evil genius numbers rising. Local agent blamed. . . But I don't know.
+Text.Visitor.Banter.DTAF.23	You always said your favourite place was inside. . .
+Text.Visitor.Banter.DTAF.24	You do realise how much of a pain it was to get here, right?
+Text.Visitor.Banter.DTAF.25	Hidden underground bases bring me out in a rash. Sick of it.
+Text.Visitor.Banter.DTAF.26	As evil as your captor is he certainly has excellent facilities.
+Text.Visitor.Banter.DTAF.27	Don't laugh, but I've got my eye on one of those dishy henchmen out there. . .
+	
+	
+Text.Visitor.Leave.DTAF.1	Hopefully you won't end up rotting in here. . . Bye
+Text.Visitor.Leave.DTAF.2	I have to go.I need to return some video tapes.
+Text.Visitor.Leave.DTAF.3	Don't forget to give that suit a wash. I'm out of here. Bye
+Text.Visitor.Leave.DTAF.4	Goodbye Mr. . . What's your name again?
+	
+Text.Name.Chedds.Bond.1	John Connelly
+Text.Name.Chedds.Bond.2	Jorge Lazyboy
+Text.Name.Chedds.Bond.3	Podger Mourn
+Text.Name.Chedds.Bond.4	Anthony Walton
+Text.Name.Chedds.Bond.5	Piers Bronson
+Text.Name.Chedds.Bond.6	Samuel Dave
+Text.Name.Chedds.Bond.7	Matthew Craine
+Text.Name.Chedds.Bond.8	Justin Prowler
+Text.Name.Chedds.Bond.9	Tris Sainsbur
+Text.Name.Chedds.Bond.10	Mickey Flan
+	
+Text.WarningPlaque	WARNING!
+	
+Text.UI.WarningPlaqueTitle	STOP!
+Text.UI.WarningPlaque.Body	This is a restricted area.\n\nIf you have to think about if this applies to you then you probably shouldn't be in here!
+	
+DTAF.HUD.PanelCrafting	WARNING!
+DTAF.Progress.FingerprintClue	Only the fingerprint of the villain in charge of this operation will activate this!
+DTAF.Progress.VoiceClue	Only the soft, velvety tones of a loyal henchman will enable this!
+DTAF.Progress.KeycardClue	Come on now. Surely you're able to find the right Keycard to authorise this machine?
+	
+Names.Henchman	Baster, Ender, Keeper, Topay, Allcars, Tize, Wrights, Dubree, Gerours, Turner, Ismoore, Tyme, Reed, Ascious, Phulle, Fley, Knott, Sladder, Tality, Downe, Count
+	
+Text.DLC.DTAF.NameAF	Duct Tapes Are Forever
+	
+Text.Chat.Reindeer.1	RAWWWWK!
+Text.Chat.Reindeer.2	HRRRRRRP!
+Text.Chat.Reindeer.3	GAAAAH!
+Text.Chat.Reindeer.4	SPRKKKKK!
+Text.Chat.Reindeer.5	QWAAAARP!
+Text.Chat.Reindeer.6	ACK-ACK-ACK!
+Text.Chat.Reindeer.7	BRAAAG!
+Text.Chat.Reindeer.8	ARFF!
+Text.Chat.Reindeer.9	*CHOMP*
+Text.Chat.Reindeer.10	*CRUNCH*
+Text.Chat.Reindeer.11	EEEEEEEEEH!
+Text.Chat.Reindeer.12	*GNAW*
+Text.Chat.Reindeer.13	*GROWL*
+Text.Chat.Reindeer.14	*SNARL*
+Text.Chat.Reindeer.15	*MUNCH*
+Text.Chat.Reindeer.16	*OM NOM NOM*
+Text.Chat.Reindeer.17	*SLURP*
+Text.Chat.Reindeer.18	CHRRRRRRDS
+Text.Chat.Reindeer.19	MRRRRRTT
+Text.Chat.Reindeer.20	BRRRRRCE
+	
+Text.DLC.Santa.Name	Santa's Sweatshop
+Text.DLC.Santa.Info	After suffering Santa's cruel regime for the last 20 years, it's time you got back home to enjoy christmas with your *real* family. . . Sick and tired of bad working conditions and zero pay, you decide to hit Santa where it hurts most and escape his vile sweatshop!
+Text.Tutorial.Welcome.Santa	I'm sick of this.\n\nAbsolutely *sick* of it.\n\nNO pay!\n\nNO holidays!\n\nI've had ENOUGH!\n\nSeeing as though he doesn't let us  celebrate Christmas, I'm gonna annoy Santa by decorating his room then bust out of here. . .\n\nTHEN. . . I'm going home!
+Text.Help.Gym.Santa	Use the weights bench and treadmill to boost your STRENGTH and SPEED stats - get on the desired equipment and using fast presses, alternate between (LT) and (RT) to buff yourself up!
+	
+Text.Inmates.Banter.santa.1	Ho, Ho, oh
+Text.Inmates.Banter.santa.2	Merry Christmas, again...
+Text.Inmates.Banter.santa.3	If I hear Jingle Bells one more time...
+Text.Inmates.Banter.santa.4	Green is my favourite colour
+Text.Inmates.Banter.santa.5	Fed up of snow
+Text.Inmates.Banter.santa.6	I just can't stop making toys!
+Text.Inmates.Banter.santa.7	We need more step ladders
+Text.Inmates.Banter.santa.8	Snow chance!
+Text.Inmates.Banter.santa.9	I wonder of the outside world
+Text.Inmates.Banter.santa.10	It's the little things, ya know?
+Text.Inmates.Banter.santa.11	I'm probably the best Wrapper here!
+Text.Inmates.Banter.santa.12	Jingle Bells, Jingle Bells, Jingle...
+Text.Inmates.Banter.santa.13	No one can be trusted
+Text.Inmates.Banter.santa.14	I think I’m being watched
+Text.Inmates.Banter.santa.15	Is it me or is it warm in here?
+Text.Inmates.Banter.santa.16	Something big is gonna happen
+Text.Inmates.Banter.santa.17	I feel a change in the wind
+Text.Inmates.Banter.santa.18	Something big is going down
+Text.Inmates.Banter.santa.19	I used to be a butcher you know
+Text.Inmates.Banter.santa.20	I used to be a barber you know
+Text.Inmates.Banter.santa.21	I used to be a cab driver you know
+Text.Inmates.Banter.santa.22	I used to be a CEO you know
+Text.Inmates.Banter.santa.23	I used to be a builder you know
+Text.Inmates.Banter.santa.24	I used to own my own company you know
+Text.Inmates.Banter.santa.25	I used to run my own business you know
+Text.Inmates.Banter.santa.26	I used to be a game developer you know
+Text.Inmates.Banter.santa.27	I used to be homeless you know
+Text.Inmates.Banter.santa.28	I used to be a con man you know
+Text.Inmates.Banter.santa.29	Yawn
+Text.Inmates.Banter.santa.30	Sleepy.
+Text.Inmates.Banter.santa.31	Does my bum look big in this?
+Text.Inmates.Banter.santa.32	You smell nice
+Text.Inmates.Banter.santa.33	He's testing my patience
+Text.Inmates.Banter.santa.34	Tread lightly
+Text.Inmates.Banter.santa.35	Can you hear that?
+Text.Inmates.Banter.santa.36	You gotta be kidding me right.
+Text.Inmates.Banter.santa.37	Dude's got bad intentions.
+Text.Inmates.Banter.santa.38	Dude's got bad intentions part two!
+Text.Inmates.Banter.santa.39	I have nothing to declare but my innocence
+Text.Inmates.Banter.santa.40	If there was an escape plot I'd hope to be invited
+Text.Inmates.Banter.santa.41	Ever thought about escaping?
+Text.Inmates.Banter.santa.42	That's what got me thinking
+Text.Inmates.Banter.santa.43	I doubt that very much
+Text.Inmates.Banter.santa.44	I've always said that
+Text.Inmates.Banter.santa.45	I tend to agree
+Text.Inmates.Banter.santa.46	Like I was saying.
+Text.Inmates.Banter.santa.47	Am I rambling?
+Text.Inmates.Banter.santa.48	Did I stutter?
+Text.Inmates.Banter.santa.49	Am I boring you?
+Text.Inmates.Banter.santa.50	Yes
+Text.Inmates.Banter.santa.51	Did you need something?
+Text.Inmates.Banter.santa.52	What on earth do you want?
+Text.Inmates.Banter.santa.53	Couldn't be less interested
+Text.Inmates.Banter.santa.54	I've never been so insulted!
+	
+	
+	
+	
+Text.Inmates.Showers.santa.1	How do we get hot water?
+Text.Inmates.Showers.santa.2	Rinse away the happiness...
+Text.Inmates.Showers.santa.3	I hope these don't shrink anymore
+Text.Inmates.Showers.santa.4	I just had a shower thought!
+Text.Inmates.Showers.santa.5	Nothing can dampen my mood
+Text.Inmates.Showers.santa.6	So many christmas bells
+Text.Inmates.Showers.santa.7	Do you always take a shower with a water pistol?
+Text.Inmates.Showers.santa.8	Don't use too much!
+Text.Inmates.Showers.santa.9	My size shouldn't matter
+Text.Inmates.Showers.santa.10	Better than a cold bath
+Text.Inmates.Showers.santa.11	Wheres that Christmas warmth?
+Text.Inmates.Showers.santa.12	This is the best gift I could ever have
+Text.Inmates.Showers.santa.13	Tis' the season to be frothy
+Text.Inmates.Showers.santa.14	I need to *wrap* up
+Text.Inmates.Showers.santa.15	We could be friends
+Text.Inmates.Showers.santa.16	You're invading my personal space
+Text.Inmates.Showers.santa.17	Any conditioner?
+Text.Inmates.Showers.santa.18	I've made many friends in here
+Text.Inmates.Showers.santa.19	Well this is romantic
+Text.Inmates.Showers.santa.20	Oh do hush
+Text.Inmates.Showers.santa.21	Something wrong?
+Text.Inmates.Showers.santa.22	I won't sleep tonight now
+Text.Inmates.Showers.santa.23	What a day!
+Text.Inmates.Showers.santa.24	Oh I don't believe this!
+Text.Inmates.Showers.santa.25	I could drive on this road forever.
+Text.Inmates.Showers.santa.26	I would be happy with just one minute in your arms!
+Text.Inmates.Showers.santa.27	Do you know that when you look at me it is a salvation?
+Text.Inmates.Showers.santa.28	You worry so much about not having enough time together?
+Text.Inmates.Showers.santa.29	This water. . . It's almost *too* watery. . . Far too obvious!
+Text.Inmates.Showers.santa.30	Let's do this
+	
+	
+	
+Text.Inmates.Gym.santa.1	Makes lifting toys easy!
+Text.Inmates.Gym.santa.2	You must be crackers!
+Text.Inmates.Gym.santa.3	I've lifted heavier presents...
+Text.Inmates.Gym.santa.4	My hat might fall off
+Text.Inmates.Gym.santa.5	Lets WRAP this up
+Text.Inmates.Gym.santa.6	This goose is getting fat!
+Text.Inmates.Gym.santa.7	I'm pacing myself
+Text.Inmates.Gym.santa.8	*Roar*
+Text.Inmates.Gym.santa.9	I'm not even tensing
+Text.Inmates.Gym.santa.10	Not even trying here
+Text.Inmates.Gym.santa.11	Nothing to it
+Text.Inmates.Gym.santa.12	I got this
+Text.Inmates.Gym.santa.13	Taking it easy
+Text.Inmates.Gym.santa.14	Getting hench over here, chaps!
+Text.Inmates.Gym.santa.15	Oh my, I believe I've pulled. A muscle!
+Text.Inmates.Gym.santa.16	I'm known for handling the pressure
+Text.Inmates.Gym.santa.17	I mustn't let things get on top of me
+Text.Inmates.Gym.santa.18	This is torture!
+Text.Inmates.Gym.santa.19	I must remain strong!
+Text.Inmates.Gym.santa.20	Jog on!
+Text.Inmates.Gym.santa.21	Not cleaning it afterwards is just, dastardly!
+Text.Inmates.Gym.santa.22	Working them abs
+Text.Inmates.Gym.santa.23	Let's get sweaty
+Text.Inmates.Gym.santa.24	What do you bench?
+Text.Inmates.Gym.santa.25	What?
+Text.Inmates.Gym.santa.26	Yes?
+Text.Inmates.Gym.santa.27	We'll catch up later
+Text.Inmates.Gym.santa.28	Not now
+Text.Inmates.Gym.santa.29	I can't help you
+Text.Inmates.Gym.santa.30	Hello
+Text.Inmates.Gym.santa.31	Sigh.
+Text.Inmates.Gym.santa.32	Not again?
+Text.Inmates.Gym.santa.33	What now?!
+Text.Inmates.Gym.santa.34	This is outragous!
+Text.Inmates.Gym.santa.35	None of my business
+Text.Inmates.Gym.santa.36	Sneaky.
+Text.Inmates.Gym.santa.37	I've places to be
+Text.Inmates.Gym.santa.38	Move along chap
+Text.Inmates.Gym.santa.39	You're delaying me
+	
+	
+	
+	
+Text.Inmates.FoodHall.santa.1	Not MORE mince pies!
+Text.Inmates.FoodHall.santa.2	Would you prefer a lump of coal?
+Text.Inmates.FoodHall.santa.3	Porridge is the gift that keeps on giving
+Text.Inmates.FoodHall.santa.4	Is, is that glitter?!
+Text.Inmates.FoodHall.santa.5	Can I have some more milk please?
+Text.Inmates.FoodHall.santa.6	Any spare carrots?
+Text.Inmates.FoodHall.santa.7	Quick, stuff it in your hat!
+Text.Inmates.FoodHall.santa.8	Can I get a chair boost please?
+Text.Inmates.FoodHall.santa.9	You call this food?
+Text.Inmates.FoodHall.santa.10	There's a hair in my soup
+Text.Inmates.FoodHall.santa.11	Waiter!
+Text.Inmates.FoodHall.santa.12	Any seconds?
+Text.Inmates.FoodHall.santa.13	I refuse to ingest this
+Text.Inmates.FoodHall.santa.14	Is this food?
+Text.Inmates.FoodHall.santa.15	I'll need a mint after this
+Text.Inmates.FoodHall.santa.16	It's not bad really
+Text.Inmates.FoodHall.santa.17	Bit overcooked
+Text.Inmates.FoodHall.santa.18	I've had better
+Text.Inmates.FoodHall.santa.19	Pass that salt
+Text.Inmates.FoodHall.santa.20	Could do with some seasoning
+Text.Inmates.FoodHall.santa.21	It's missing something
+Text.Inmates.FoodHall.santa.22	This resembles vomit
+Text.Inmates.FoodHall.santa.23	Who runs this kitchen?
+Text.Inmates.FoodHall.santa.24	The chef needs removing
+Text.Inmates.FoodHall.santa.25	Call this a serving?
+Text.Inmates.FoodHall.santa.26	You planning on finishing that?
+Text.Inmates.FoodHall.santa.27	Do you mind?
+Text.Inmates.FoodHall.santa.28	Real food would be nice
+Text.Inmates.FoodHall.santa.29	Reminds me of dog food
+Text.Inmates.FoodHall.santa.30	Smells rank
+Text.Inmates.FoodHall.santa.31	Honestly, smell that.
+Text.Inmates.FoodHall.santa.32	That isn't a head hair.
+Text.Inmates.FoodHall.santa.33	Awful this is
+Text.Inmates.FoodHall.santa.34	We should make snow cones
+Text.Inmates.FoodHall.santa.35	Hope this is made better than our toys
+Text.Inmates.FoodHall.santa.36	Urgh! This milk has gone off!
+Text.Inmates.FoodHall.santa.37	Why does Santa get all the good stuff?!
+Text.Inmates.FoodHall.santa.38	Down the chimney it goes
+Text.Inmates.FoodHall.santa.39	You get more in a cracker!
+Text.Inmates.FoodHall.santa.40	This won't help me grow
+	
+	
+Text.NPC.Jobstaff.santa.1	Do a job you can be proud of!
+Text.NPC.Jobstaff.santa.2	Competitive wages right here!
+Text.NPC.Jobstaff.santa.3	Always room for more workers
+Text.NPC.Jobstaff.santa.4	Don't be shy, step right up
+Text.NPC.Jobstaff.santa.5	A hard days work makes men of us all
+Text.NPC.Jobstaff.santa.6	Nothing better than an honest days work
+Text.NPC.Jobstaff.santa.7	Nothing beats an honest wage
+Text.NPC.Jobstaff.santa.8	You will find our jobs thoroughly engaging!
+Text.NPC.Jobstaff.santa.9	Motivation? Not important!
+Text.NPC.Jobstaff.santa.10	Forge a career you can be proud of
+Text.NPC.Jobstaff.santa.11	Toymaking is for you!
+Text.NPC.Jobstaff.santa.12	Do you love carpentry?
+Text.NPC.Jobstaff.santa.13	Unmotivated? Useless? We need YOU!
+Text.NPC.Jobstaff.santa.14	Employment cleanses the soul
+Text.NPC.Jobstaff.santa.15	We need some more toy designs
+Text.NPC.Jobstaff.santa.16	Come work, theres nothing else to do!
+Text.NPC.Jobstaff.santa.17	Its always holiday time here!
+Text.NPC.Jobstaff.santa.18	This is a constant paid holiday!
+Text.NPC.Jobstaff.santa.19	Can you fit down a chimney?
+Text.NPC.Jobstaff.santa.20	Help spread some Christmas Cheer!
+	
+	
+	
+Text.Name.General	Mr. $NAME$
+	
+Text.Presence.EscapedPrison105pri	This jubilant elf is now a festive escapee! Day %DAY%
+Text.Presence.InGamePrison105pri	Carefully scheming to escape the grotto! Day %DAY%
+	
+	
+	
+Text.NPC.Warden.santa1	Ho, Ho, "cough, cough". Ho
+Text.NPC.Warden.santa2	Well this is nice and festive!
+Text.NPC.Warden.santa3	Of *course* I'm real!
+Text.NPC.Warden.santa4	Has anyone seen my mistletoe?
+Text.NPC.Warden.santa5	THIS. IS. SANTA!
+Text.NPC.Warden.santa6	#Let them know it's Christmas time!
+Text.NPC.Warden.santa7	I should make sure I'm wearing my thermals!
+Text.NPC.Warden.santa8	This job never gets any easier. . .
+Text.NPC.Warden.santa9	#It's Christmas time. . .
+Text.NPC.Warden.santa10	RIGHT
+Text.NPC.Warden.santa11	Elves. . . Prepare my reindeer!
+Text.NPC.Warden.santa12	Where is Mrs Claus?
+	
+Text.Item.Bulbs	Bulbs
+Text.Item.Cracker	Cracker
+Text.Item.FairyLights	Fairy Lights
+Text.Item.Glitter	Glitter
+Text.Item.Lever	Lever
+Text.Item.Lollipop	Lollipop
+Text.Item.MincePie	Mince Pie
+Text.Item.Presents	Presents
+Text.Item.Snowball	Snowball
+Text.Item.Snowman	Snowman
+Text.Item.Stocking	Stocking
+Text.Item.Tinsel	Tinsel
+Text.Item.WoodBall	Wood Ball
+Text.Item.WoodBlocks	Wood Blocks
+Text.Item.WoodDoll	Wood Doll
+Text.Item.WoodScooter	Wood Scooter
+Text.Item.WrappingPaper	Wrapping Paper
+Text.Item.NaughtyLetter	Naughty Letter
+Text.Item.NastyLetter	Nasty Letter
+Text.Item.NiceLetter	Nice Letter
+Text.Item.SantaLetter	Letter
+Text.Item.Chisel	Wood Scraper
+Text.Item.WoodJoystick	Wood Joystick
+Text.Object.Furnace	Furnace
+Text.Object.Shredder	Shredder
+Text.Object.Basket	Basket
+Text.Object.Sack	Letters Sack
+Text.Object.Woodbox	Wood Box
+Text.Item.Furnace	Furnace
+Text.Item.Shredder	Shredder
+Text.Item.Basket	Basket
+Text.Item.WoodBlock	Wood Block
+	
+	
+	
+Text.ChristmasTree	Christmas Tree
+Santa.Tree.Progress.PresentsClue	Festive Hint!
+Santa.Tree.Progress.TinselClue	Festive Hint!
+Santa.Tree.Progress.FairyLightsClue	Festive Hint!
+Santa.Tree.Progress.LeverClue	Festive Hint!
+	
+	
+	
+Text.Job.Santa.Janitor	Manure Control
+Text.Job.Santa.Unloading	Letter Organisation
+Text.Job.Santa.Mailman	Task Master
+Text.Job.Santa.Outfit	Toymaker
+	
+	
+Text.Help.Tutorial.Janitor.Santa.BodyNEW	I bet, never in your wildest dreams did you imagine you'd find yourself cleaning up reindeer droppings for a career path did you?\n\nWell this is it - it's your time to shine.
+Text.Help.Tutorial.Unloading.Santa.BodyNEW	This job is *so* much fun! Never have you had so much power at your fingertips in a job role.\n\nLike a festive secretary it's down to you to sort the naughty, nice and nasty letters into their designated places using the new fangled efficiency based system we have set up to make your filing so much fun!
+Text.Help.Tutorial.MailMan.Santa.BodyNEW	So it's up to you in this job to hand out Santa's chores to your fellow workers.\n\nThey'll hate you for it sure, but hey - don't shoot the messenger!
+Text.Help.Tutorial.Outfit.Santa.BodyNEW	Toys are so much fun aren't they? Well it's even better when you're making them not very well. . . These Christmas gifts are hardly the amazing presents that kids want.\n\nStill, they're a step up from a lump of coal on Christmas morning!
+	
+Text.Jobs.Janitor.Santa.Description	Take hold of your trusty broom and clean up the left behind, digested mess of those dirty, dirty reindeer!
+Text.Jobs.MailMan.Santa.Description	Have a good rummage around in Santa's sack and deliver his chores to the elves so they know what they are doing, please.
+Text.Jobs.OutfitMaking.Santa.Description	Being the master craftsman that you are, take the Chisel item and Wood Block, then craft these two items together to make toys which are then placed into the toy-box container.
+Text.Jobs.Unloading.Santa.Description	Taking those wishful, heartfelt messages scrawled on paper by wheezing, portly kiddies. It's your job to sort them accordingly into their designated destiny!\n\nWill their dreams come true on Christmas morning or have they been so naughty this year that they will get NOTHING?
+	
+Text.Name.Santa	Santa
+Text.Name.Claus	Claus
+	
+Text.Visitor.Greet.santa.1	Santa!?
+Text.Visitor.Greet.santa.2	I've always wanted to come here!
+Text.Visitor.Greet.santa.3	How did I get here?
+Text.Visitor.Greet.santa.4	I brought my list with me!
+Text.Visitor.Greet.santa.5	I've been a good little Princess
+Text.Visitor.Greet.santa.6	I've been a good little Prince
+Text.Visitor.Greet.santa.7	It was a long walk to get here!
+Text.Visitor.Greet.santa.8	If you see Santa, can you tell him...
+	
+	
+Text.Visitor.Banter.santa.1	I *want* a new hover bike
+Text.Visitor.Banter.santa.2	I *demand* you bring me some molten ice cream
+Text.Visitor.Banter.santa.3	You *owe* me a jar of marbles, i've lost mine...
+Text.Visitor.Banter.santa.4	You should send me a combine harvester
+Text.Visitor.Banter.santa.5	I NEED a robot charger
+Text.Visitor.Banter.santa.6	I NEED a solar powered torch!
+Text.Visitor.Banter.santa.7	Will you get me an inflatable anchor?
+Text.Visitor.Banter.santa.8	I really want one of those black highlighter pens!
+Text.Visitor.Banter.santa.9	Do you have any fizzy milk?
+Text.Visitor.Banter.santa.10	I'd love an inflatable dart board!
+Text.Visitor.Banter.santa.11	I feel like some sugar coated toothpaste
+Text.Visitor.Banter.santa.12	Can I have all the presents?
+Text.Visitor.Banter.santa.13	Would you be so kind as to get me a new imaginary friend?
+Text.Visitor.Banter.santa.14	Am I allowed sweeties this year?
+Text.Visitor.Banter.santa.15	Will you make it snow, then make *me* a snowman?
+Text.Visitor.Banter.santa.16	Have you got any snow you can send our way?
+Text.Visitor.Banter.santa.17	I, really, really, want some new insults!
+Text.Visitor.Banter.santa.18	Please can I have. . . Oh I've forgotten what I want!
+Text.Visitor.Banter.santa.19	Please, Please, PLEASE! Get my dad some new hair!
+Text.Visitor.Banter.santa.20	Can you get me something futuristic?
+Text.Visitor.Banter.santa.21	Can you get me some new requests please?
+Text.Visitor.Banter.santa.22	Will you definitely visit me this year please?
+Text.Visitor.Banter.santa.23	Can you please not make a mess of the fireplace?
+Text.Visitor.Banter.santa.24	Please don't leave mince pie crumbs everywhere. . .
+Text.Visitor.Banter.santa.25	Mum says don't let your reindeers do their 'business' on the front lawn. . .
+Text.Visitor.Banter.santa.26	Dad says don't let the reindeers eat his flowers. . .
+Text.Visitor.Banter.santa.27	Is Santa real?
+	
+	
+Text.Visitor.Leave.santa.1	RIGHT. . .I better go get tucked up in bed.
+Text.Visitor.Leave.santa.2	Hope to see you soon!
+Text.Visitor.Leave.santa.3	I should leave, mum and dad will be missing me.
+Text.Visitor.Leave.santa.4	How do I get back?
+Text.Visitor.Leave.santa.5	I need my bed. . . I tired!
+Text.Visitor.Leave.santa.6	Say bye to everyone for me, especially the reindeers. Bye!
+Text.Visitor.Leave.santa.7	That just about covers it. Right, I'm going!
+Text.Visitor.Leave.santa.8	Ooh, it's *way* past my bedtime. Bye bye!
+Text.Visitor.Leave.santa.9	I, I should go...
+Text.Visitor.Leave.santa.10	I should go have my bath...
+	
+Text.DLC.Santa.NameAF	Santa's Sweatshop
+Text.DLC.TowerOfLondon.NameAF	London Tower
+	
+Text.DLC.TowerOfLondon.Name	London Tower
+Text.DLC.TowerOfLondon.Info	This infamous castle has confined a wide range of society throughout history including monarchs, bishops, dukes, and princes. Now it's your turn. Falsely accused of treason and imprisoned without a trial, you decide it's time to break free!
+	
+Text.Tutorial.Welcome.TowerOfLondon	Welcome to the London Tower\n\nA wealthy member of society has accused you of treason, so we’ve had no choice but to skip the trial and reserve you a bed here, all expenses paid by him! Oh, and that evidence you submitted, seems to have been misplaced. . .\n\nStill, never mind. Enjoy your stay, peasant!
+	
+Text.Help.Gym.TowerOfLondon	To use the punch bag and boost your STRENGTH, time your shots by pressing (LT) and (RT) when the marker is in the red zone of the power bar. To skip and boost your SPEED, build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers.
+	
+Text.Presence.EscapedPrison106pri	Man on the run! This prisoner has escaped The London Tower, Day %DAY%
+Text.Presence.InGamePrison106pri	Steady does it as they plot their way out of The London Tower, Day %DAY%
+	
+Text.DLC.LakeLOL.NameAF	Banned Camp
+	
+Text.DLC.LakeLOL.Name	Banned Camp
+Text.DLC.LakeLOL.Info	Your attorney's secured you a nice little scenic spot by the lake to serve out your sentence. Turns out it's not as nice as you'd imagined...
+	
+Text.Tutorial.Welcome.LakeLOL	Dear Client,\n\nThe trial was a farce, but as you can see, I was able to pull some last minute strings with my good friend the Judge and got you sent to summer camp.\n\nHow do you like the place?\n\nNice little quiet spot by the lake, like you always wanted, right?\n\nThey've forecast a great summer, so enjoy!
+	
+Text.Help.Gym.LakeLOL	To use the punch bag and boost your STRENGTH, time your shots by pressing (LT) and (RT) when the marker is in the red zone of the power bar. To skip and boost your SPEED, build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers.
+	
+Text.Presence.EscapedPrison107pri	Summer has at last begun, escape is complete! Day %DAY%
+Text.Presence.InGamePrison107pri	Having great fun, forging a plan as they plot their way out of Banned Camp, Day %DAY%
+	
+Text.Name.LouPole	Warden Lou Pole
+	
+Text.DLC.SantaII.Name	Jingle Cells
+Text.DLC.SantaII.Info	Upon escaping Santa's Sweatshop, the sleigh comes crashing down right inside another prison! The other inmates don’t believe your story and think you’re crazy.\n\nRepair the sleigh and fly out of there!
+Text.Tutorial.Welcome.SantaII	After escaping Santa's Sweatshop, you lose control of the sleigh mid-flight and are forced to make an emergency crash landing. Ironically, the landing happening to be right within the grounds of Jingle Cells Prison!\n\nThe other inmates don’t believe your story and think you're crazy. Now you’re doing hard time with the rest of them.\n\nOnly one thing to do - repair the sleigh and fly out of there!
+Text.Help.Gym.SantaII	To use the punch bag and boost your STRENGTH, time your shots by pressing (LT) and (RT) when the marker is in the red zone of the power bar. To skip and boost your SPEED, build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers.
+	
+Text.Item.BottledWater	Bottled Water
+Text.Item.BowlOfWater	Bowl Of Water
+Text.Item.Cork	Cork
+Text.Item.EmptyBottle	Empty Bottle
+Text.Item.Flashlight	Flashlight
+Text.Item.FrozenCarrots	Raw Nasty Carrots
+Text.Item.Fuel	Fuel
+Text.Item.HalogenBulb	Halogen Bulb
+Text.Item.HighPoweredFlashlight	High Beam Flashlight
+Text.Item.JuicyCarrots	Juicy Carrots
+Text.Item.Magnet	Magnet
+Text.Item.MagnetizedNeedle	Magnetized Needle
+Text.Item.MakeshiftCompass	Makeshift Compass
+Text.Item.NavigationLighting	Navigation Lighting
+Text.Item.Needle	Needle
+Text.Item.RedHerring	Red Herring
+Text.Item.ReindeerBowl	Reindeer Bowl
+Text.Item.Thruster	Thruster
+Text.Item.WorkHat	Work Hat
+	
+SantaII.Sleigh.Progress.ThrusterClue	Santa's sleigh took quite a beating during the crash, it'll need some repairs before you can fly it out of here. Firstly, a new thruster!
+SantaII.Sleigh.Progress.MakeshiftCompassClue	The sleighs GPS Navigation system is down. You’ll have to make yourself a compass to find your way home.
+SantaII.Sleigh.Progress.NavigationLightingClue	The sleighs high beam headlamps were smashed during the crash. Without adequate lighting you’ll be flying blind!
+SantaII.Sleigh.Progress.JuicyCarrotsClue	The sleigh looks ready to leave, but the stubborn reindeers are refusing to travel on an empty stomach. Looks like you'll have to cook them their favorite snack...
+	
+Text.Sleigh	Broken Sleigh
+	
+Text.Presence.EscapedPrison108pri	Finally the festive cheer can begin, escape is complete! Day %DAY%
+Text.Presence.InGamePrison108pri	Having a great time! Conjuring up a plan as they plot their way out of Jingle Cells, Day %DAY%
+	
+	
+Text.Inmates.Banter.SantaII.1	I found a sleigh in the woods. . .
+Text.Inmates.Banter.SantaII.2	Free the reindeers!
+Text.Inmates.Banter.SantaII.3	Elves *AREN'T* real!
+Text.Inmates.Banter.SantaII.4	Those pointy ears don't even look real!
+Text.Inmates.Banter.SantaII.5	Killer boots, man!
+Text.Inmates.Banter.SantaII.6	Love the meggings!
+Text.Inmates.Banter.SantaII.7	Where'd he get that hat?
+Text.Inmates.Banter.SantaII.8	Be careful not to step on the lil' fella!
+Text.Inmates.Banter.SantaII.9	He's a trip hazard!
+Text.Inmates.Banter.SantaII.10	Those pants are way too tight!
+Text.Inmates.Banter.SantaII.11	That costume looks ridiculous!
+Text.Inmates.Banter.SantaII.12	Don't believe his lies!
+Text.Inmates.Banter.SantaII.13	He's too fat for an elf!
+Text.Inmates.Banter.SantaII.14	Who'd escape Santa's grotto?!
+Text.Inmates.Banter.SantaII.15	I'm willing to play along with it. . .
+Text.Inmates.Banter.SantaII.16	There's a hit out on the lil' fella!
+Text.Inmates.Banter.SantaII.17	All we talk about is this lil' fella!
+Text.Inmates.Banter.SantaII.18	The lil' fella is hilarious!
+Text.Inmates.Banter.SantaII.19	He must think we're as stupid as he is!
+Text.Inmates.Banter.SantaII.20	Is there a pantomine on?!
+Text.Inmates.Banter.SantaII.21	. . .Oh yeah? And *I'M* the tooth fairy! 
+Text.Inmates.Banter.SantaII.22	Chestnuts roasting on an open fire. . .
+Text.Inmates.Banter.SantaII.23	Jack Frost nipping at your nose?
+Text.Inmates.Banter.SantaII.24	Folks dressed up like elves. . .
+	
+Text.Inmates.Showers.SantaII.1	He’s shrinking in the wash!
+Text.Inmates.Showers.SantaII.2	Meet me under the mistletoe
+Text.Inmates.Showers.SantaII.3	Tis' the season to be frothy
+Text.Inmates.Showers.SantaII.4	I need to *wrap* up
+Text.Inmates.Showers.SantaII.5	Best. Christmas. Ever!
+Text.Inmates.Showers.SantaII.6	Here’s your Christmas present!
+Text.Inmates.Showers.SantaII.7	Be my Christmas present
+Text.Inmates.Showers.SantaII.8	Nice speedos!
+Text.Inmates.Showers.SantaII.9	What kind of *moron* walks around this day and age thinking he’s an elf?
+Text.Inmates.Showers.SantaII.10	Wow! The little dude is seriously packing!
+Text.Inmates.Showers.SantaII.11	Get a stool and do my back
+Text.Inmates.Showers.SantaII.12	Ready for my rub down, elfie!
+Text.Inmates.Showers.SantaII.13	The little guy’s been short changed!
+Text.Inmates.Showers.SantaII.14	Little guy, big plans?
+Text.Inmates.Showers.SantaII.15	Don’t drown in that puddle
+Text.Inmates.Showers.SantaII.16	Don’t fall down the plughole
+Text.Inmates.Showers.SantaII.17	Hurry down my chimney tonight!!!
+	
+Text.Inmates.Gym.SantaII.1	Go easy there lil’ fella!
+Text.Inmates.Gym.SantaII.2	Check out the small dude!
+Text.Inmates.Gym.SantaII.3	When you grow up you can compete with us
+Text.Inmates.Gym.SantaII.4	Keep up small fry!
+Text.Inmates.Gym.SantaII.5	Now, now. . . Less of the ‘short’ temper!
+Text.Inmates.Gym.SantaII.6	I think he’s so small because his blood is bad. . .
+Text.Inmates.Gym.SantaII.7	Work it, little dude. WORK IT!
+Text.Inmates.Gym.SantaII.8	Look at his little legs go!
+Text.Inmates.Gym.SantaII.9	The little dude suffers from low standards!
+Text.Inmates.Gym.SantaII.10	Gotta look good for Santa
+Text.Inmates.Gym.SantaII.11	Check out the little dude bustin’ loose. YOLO!
+Text.Inmates.Gym.SantaII.12	Who let that child on the equipment?
+Text.Inmates.Gym.SantaII.13	Hey buddy, no kids allowed in here!
+Text.Inmates.Gym.SantaII.14	Tis’ the season to be jealous
+Text.Inmates.Gym.SantaII.15	Bet I could bench press the elf
+Text.Inmates.Gym.SantaII.16	Almost trampled over the little dude there!
+Text.Inmates.Gym.SantaII.17	Little dude has brought his A-Game!
+Text.Inmates.Gym.SantaII.18	Green with envy huh?
+	
+Text.Inmates.FoodHall.SantaII.1	So where’s the turkey?
+Text.Inmates.FoodHall.SantaII.2	The mince pies?
+Text.Inmates.FoodHall.SantaII.3	Bring forth the Christmas pudding!
+Text.Inmates.FoodHall.SantaII.4	The little one needs a chair boost
+Text.Inmates.FoodHall.SantaII.5	Where does he put it all?
+Text.Inmates.FoodHall.SantaII.6	Little guy. BIG appetite!
+Text.Inmates.FoodHall.SantaII.7	He’d work in the kitchen but the steaks are too high!
+Text.Inmates.FoodHall.SantaII.8	The little guy only gets a kids portion right? 
+Text.Inmates.FoodHall.SantaII.9	Does his parents know he’s eating with us today?
+Text.Inmates.FoodHall.SantaII.10	Sorry, the kid’s table is over there
+Text.Inmates.FoodHall.SantaII.11	Quick, stuff this under your hat
+Text.Inmates.FoodHall.SantaII.12	Yamma yamma yamma!
+Text.Inmates.FoodHall.SantaII.13	It’s beginning to taste a lot like Christmas
+Text.Inmates.FoodHall.SantaII.14	Where’s the Christmas spirit?
+Text.Inmates.FoodHall.SantaII.15	Lump of coal, yum!
+Text.Inmates.FoodHall.SantaII.16	Yamm yammmmm!
+	
+Text.DLC.SantaII.NameAF	Jingle Cells
+	
+Text.DLC.LeTrou.Name	Paris Central Pen
+Text.DLC.LeTrou.Info	Well, looks like you've been stitched up good and proper this time squire eh? You're in for a surprise with this one…
+Text.Tutorial.Welcome.LeTrou	Dear Client,\n\nWords cannot describe how bad I feel right now for you. I'm so sorry I forgot your case files and it was an honest mistake that I thought you were the accused and not the client I was supposed to be defending.\n\nAnyway, when in Paris as they say... Bon Voyage!
+Text.Help.GymNew.LeTrou	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels. Walk up to the piece of equipment you want to use and tap (A).
+Text.Help.GymNew.LeTrou.Touch	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels. Walk up to the piece of equipment you want to use and tap 'Work Out'.
+Text.Help.GymNew.LeTrou.Controller	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels. Walk up to the piece of equipment you want to use and press (PAD_A).
+Text.Help.Gym.LeTrou	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels. Walk up to the piece of equipment you want to use and tap (A).
+Text.Help.Gym.LeTrou.Touch	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels. Walk up to the piece of equipment you want to use and tap 'Work Out'.
+Text.Help.Gym.LeTrou.Controller	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels. Walk up to the piece of equipment you want to use and press (PAD_A).
+Text.Presence.EscapedPrison123pri	Get out there and enjoy the REAL views! Escape is complete! Day %DAY%
+Text.Presence.InGamePrison123pri	Absolutely loving the scenic views, coming up with a plan to escape Paris Central Pen, Day %DAY%
+Text.DLC.LeTrou.NameAF	Paris Central Pen
+	
+	
+Text.Item.ZiplineHook	Zipline Hook
+Text.UI.PlayTutorial	Você gostaria de jogar o nível tutorial primeiro?
+Text.Help.Gym.CallOut	Alternar entre (LT) e (RT)
+	
+Text.AutoSave	Este jogo possui salvamento automaticamente. Não desligue o console durante a animação deste símbolo.
+	
+Text.ControllerDisconnected	Controle desconectado
+Text.NewGame.Warning	Começar um novo jogo substituirá seu progresso atual para esta prisão. Você deseja continuar? 
+	
+Text.DLC.FhurstPeak.Name	Fhurst Peak Correctional
+Text.DLC.FhurstPeak.Info	Wide open spaces, a large extremely well equipped in-house gym and a generously proportioned canteen... What’s not to like about Fhurst Peak?
+Text.Tutorial.Welcome.FhurstPeak	Dear $NAME$,\n\nYou are lucky enough to be locked up in one of the most architecturally splendid prisons in the country, praised for its innovative open-plan design! \n\nNot only does it allow natural light to flood throughout, but it means my guards can keep an eye on everything you do! Enjoy your stay!
+Text.Help.GymNew.FhurstPeak	Use the weights bench and treadmills to boost your STRENGTH and SPEED stats. Walk up to the piece of equipment you want to use and tap (A).
+Text.Help.GymNew.FhurstPeak.Touch	Use the weights bench and treadmills to boost your STRENGTH and SPEED stats. Walk up to the piece of equipment you want to use and tap 'Work Out'.
+Text.Help.GymNewFhurstPeak.Controller	Use the weights bench and treadmills to boost your STRENGTH and SPEED stats. Walk up to the piece of equipment you want to use and tap (PAD_A).
+Text.Help.Gym.FhurstPeak	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels! To use the speed bags build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers. To use the weights bench,  alternate between (LT) and (RT) to pump iron.
+Text.Presence.EscapedPrisonFhurstPeak	Get out there and enjoy the REAL views! Escape is complete! Day %DAY%
+Text.Presence.InGamePrisonFhurstPeak	Absolutely loving the scenic views, coming up with a plan to escape Fhurst Peak, Day %DAY%
+Text.DLC.FhurstPeak.NameAF	Fhurst Peak Correctional Facility
+	
+Text.Credits.Switch	Nintendo Switch™ Port
+	
+Text.Credits.Switch.Dev.People	Emma Bates, Rafael Zacharias, Mikolaj Panasiuk, Adam Findlay, Matt Burnill
+Text.Credits.Switch.Sup.People	Dave Smethurst, Kelvin Aston, David Wood, Kevin Carthew, Adam Riley, Daniel Stacey
+Text.Credits.Switch.Pub.People	Bethany Aston, Debbie Bestwick, Paul Bray, Ade Lawton, Will Palmer
+Text.Credits.Switch.QA.People	Paul Goleniewski, John Lappin, Will Leeming
+	
+Text.Names.Lewis	Lewis
+Text.Names.James	James
+Text.Names.Dom	Dom
+Text.Names.Sam	Sam
+Text.Names.Joe	Joe
+	
+Text.Names.Sean	Sean
+Text.Names.Cage	Cage
+Text.Names.Clint	Clint
+Text.Names.Andy	Andy
+	
+Text.Names.Buddy	Buddy
+Text.Names.Donner	Donner
+Text.Names.Dancer	Dancer
+Text.Names.Dasher	Dasher
+Text.Names.Prancer	Prancer
+Text.Names.Vixen	Vixen
+Text.Names.Comet	Comet
+Text.Names.Cupid	Cupid
+Text.Names.Rudolph	Rudolph
+Text.Names.Blitzen	Blitzen
+	
+End	
