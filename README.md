@@ -4,7 +4,7 @@
 
 ## :small_blue_diamond:Sobre a Tradução.
 
-Tradução feita pelo grupo TriboGamer.
+Tradução jogo base feita pelo grupo TriboGamer e DLC por min.
 
 _ "Portado para Nintendo Switch por Traduções GBJ" _
 
@@ -14,7 +14,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Requerimentos
 
-- Nintendo Switch Debloqueado - SXOS ou ATMOSPHERE>
+- Nintendo Switch Desbloqueado - SXOS ou ATMOSPHERE>
 
 ## :small_blue_diamond:Instalação
 
