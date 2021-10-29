@@ -2084,7 +2084,7 @@ Text.Item.LightweightPickAxe	Picareta leve
 Text.Item.SturdyPickAxe	Picareta Robusta
 Text.Item.Stinger	Furador
 	
-Text.Locked	Dica de compra
+Text.Locked	Comprar dica
 	
 text.payphone.tips	Você pode usar os telefones gentilmente fornecidos para obter informações sobre dicas e sugestões úteis. Por um preço, claro.
 	
