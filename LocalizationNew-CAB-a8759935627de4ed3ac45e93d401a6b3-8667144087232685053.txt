@@ -647,7 +647,7 @@ Text.Inmates.Attacked.5	Caralho!
 Text.Inmates.Attacked.6	Para com isso!
 Text.Inmates.Attacked.7	NÃO!
 Text.Inmates.Attacked.8	Ué!
-Text.Inmates.Attacked.9	eleza então...
+Text.Inmates.Attacked.9	Beleza então...
 Text.Inmates.Attacked.10	Acha que pode comigo?
 Text.Inmates.Attacked.11	Vâmo começa então!
 Text.Inmates.Attacked.12	Prepare-se!
@@ -834,7 +834,7 @@ Text.Favour.Distract.5	Distract@Preciso resolver assuntos pendentes na(o) próxi
 Text.Favour.Distract.6	Distract@Andei observando um ladrão de merda a dias, e finalmente descobri a rotina dele. Distraia os guardas na(o) próxima(o) $routine para que eu lhe ensine como se comportar.
 Text.Favour.Distract.7	Distract@Se puder atrair os guardas na(o) próxima(o) $routine, poderei fazer justiça com esse belo martelo!
 	
-Text.Favour.Fetch1	Fetch@None@I think I'm being watched- it's too dangerous for me to grab my $item. Mind fetching it for me?
+Text.Favour.Fetch1	Fetch@None@Acho que estou sendo vigiado - é muito perigoso para mim pegar meu $item. Importa-se de ir buscar para mim?
 	
 Text.Favour.PlantDesk1	PlantDesk@Inmate@Ouvi dizer que os guardas planejam revistar a cela de $inmate. Você pode colocar meu $item em sua mesa?
 Text.Favour.PlantDesk2	PlantDesk@Inmate@Um passarinho me disse que eles vão revistar a cela de $inmate. Certifique-se de que eles encontrem meu $item em sua mesa?
@@ -1379,7 +1379,7 @@ Text.HUD.Health	Saúde
 Text.HUD.Guards	Guarda
 	
 	
-Text.Busted	BUSTED!
+Text.Busted	PEGO!
 Text.Busted.Why	Os guardas encontraram evidências de que você estava cavando e o colocaram em isolamento.
 	
 Text.Item.G.Outfit.Dirty	Uniforme de guarda sujo
@@ -1435,9 +1435,9 @@ Text.Dialogue.4	Coloque os uniformes sujos do carrinho nas máquinas de lavar.
 Text.Dialogue.4b	Ao terminar, coloque os uniformes limpos no carrinho correspondente.
 	
 Text.Dialogue.6	Vá para a academia para aumentar sua VELOCIDADE e FORÇA!
-Text.Dialogue.6b	Alternate between *GRAPHIC* and *GRAPHIC* to work out once you're on the desired equipment.
+Text.Dialogue.6b	Alterne entre *GRAPHIC* e *GRAPHIC* para treinar quando estiver no equipamento desejado.
 	
-Text.Dialogue.8	To cycle through your inventory use the (LB) and (RB) buttons. Once happy with your highlighted selection - press *GRAPHIC* once to equip, then again to use!
+Text.Dialogue.8	Para percorrer seu inventário, use os botões (LB) e (RB). Quando estiver satisfeito com a seleção destacada - pressione *GRAPHIC* uma vez para equipar e, em seguida, novamente para usar!
 Text.Dialogue.8b	Quando estiver na máquina desejada, pressione *GRAPHIC* e *GRAPHIC* para treinar.
 	
 Text.Dialogue.9	Acabou o tempo!
@@ -1688,11 +1688,11 @@ Text.Quest.UI.cancel	Tem certeza de que deseja desistir deste favor?
 	
 Text.Tutorial.Welcome.Perks	Caro $NAME$,\n\nseja bem-vindo à Center Perks - a mais confortável prisão de baixa segurança do condado. Em nome de toda nossa equipe, desejamos que tenha ótimas experiencias aqui!\n\Caso enjoe de sua TV a cabo, temos várias outras atividades disponíveis na parte externa.\n\Abraços
 	
-Text.Tip24New	Bed sheets and pillows can be removed from beds
-Text.Tip26New	Check the health of an item to see how much longer it will be of use
-Text.Tip29New	Hang a bed sheet on the cell bars to prevent prying eyes watching you 
+Text.Tip24New	Lençóis e travesseiros podem ser removidos das camas
+Text.Tip26New	Verifique a integridade de um item para ver por quanto tempo ele será útil
+Text.Tip29New	Pendure um lençol nas barras da cela para evitar que olhos curiosos observem você
 	
-Text.Guard.ReceiveContraband	Ah, thank you! My little snitch
+Text.Guard.ReceiveContraband	Oh, obrigada! Meu pequeno pomo.
 	
 Text.Tutorial.Controls.Intro	Bem-vindo ao Center Perks! Estes são os princípios básicos de que você precisa para guiar seu escapista pela prisão!
 Text.Help.Tutorial.Routine	A vida na prisão é cheia de rotinas; Respeite-os e os guardas o deixarão em paz enquanto você trama sua fuga.
@@ -1913,88 +1913,88 @@ text.results.bad	Má conduta
 text.results.days	Dias passados
 text.results.score	Pontuação final
 	
-Text.Item.Bananas	Bunch of Bananas
-Text.Item.Brush	Brush
-Text.Item.Coconut	Coconut
-Text.Item.Cookie	Cookie
-Text.Item.DentalFloss	Dental Floss
-Text.Item.Dogtag	Dog tag
+Text.Item.Bananas	Cacho de bananas
+Text.Item.Brush	Escova
+Text.Item.Coconut	Coco
+Text.Item.Cookie	Biscoito
+Text.Item.DentalFloss	Fio dental
+Text.Item.Dogtag	Placa de identificação
 Text.Item.DVD	DVD
-Text.Item.FamilyPhoto	Family Photo
-Text.Item.Feather	Feather
-Text.Item.GreenHerb	Green Herb
-Text.Item.HandCream	Hand Cream
-Text.Item.HandFan	Hand Fan
-Text.Item.LuxuryToiletRoll	Luxury Toilet Roll
+Text.Item.FamilyPhoto	Foto da familia
+Text.Item.Feather	Pluma
+Text.Item.GreenHerb	Erva verde
+Text.Item.HandCream	Creme para mãos
+Text.Item.HandFan	Leque
+Text.Item.LuxuryToiletRoll	Papel higiênico de luxo
 Text.Item.Mango	Mango
-Text.Item.Medal	Medal
-Text.Item.Muffin	Muffin
-Text.Item.PedicureKit	Pedicure Kit
-Text.Item.PocketWatch	Pocket Watch
-Text.Item.Postcard	Postcard
-Text.Item.RedChilli	Red Chilli
-Text.Item.RedHerb	Red Herb
-Text.Item.Sand	Sand
-Text.Item.Seasponge	Sea Sponge
-Text.Item.SignedPapers	Signed Papers
-Text.Item.SilkHandkerchief	Silk Handkerchief
-Text.Item.Sombrero	Sombrero
-Text.Item.TeddyBear	Teddy Bear
-Text.Item.UnsignedPapers	Unsigned Papers
+Text.Item.Medal	Medalha
+Text.Item.Muffin	Bolo
+Text.Item.PedicureKit	Kit de pedicure
+Text.Item.PocketWatch	Relógio de bolso
+Text.Item.Postcard	Cartão postal
+Text.Item.RedChilli	Pimenta Vermelha
+Text.Item.RedHerb	Erva vermelha
+Text.Item.Sand	Areia
+Text.Item.Seasponge	Esponja do mar
+Text.Item.SignedPapers	Papéis Assinados
+Text.Item.SilkHandkerchief	Lenço de seda
+Text.Item.Sombrero	Chapéu
+Text.Item.TeddyBear	Ursinho de pelúcia
+Text.Item.UnsignedPapers	Artigos não assinados
 	
-Text.Menu.Crafting	Crafting is the most useful element of any escapist's skills by a mile! Combining two or three craftable items will provide you with both weaponry and tools you'll need in your quest to get by. 
-Text.Menu.Escaping	Your objective is to escape prison. There are different ways to escape - what works in one prison might not work in another! Look for flaws in security, and collect items that might help. Be patient, timing is crucial!
+Text.Menu.Crafting	Criação é de longe a habilidade mais útil de qualquer detento! A combinação de dois ou três objetos que você pode fazer, fornecerá as armas e ferramentas de que você precisará para sua missão.
+Text.Menu.Escaping	Seu objetivo é escapar da prisão. Existem diferentes maneiras de escapar; O que funciona em uma prisão pode não funcionar em outra! Procure por bugs de segurança e colete itens que possam ser úteis. Seja paciente - esperar o momento certo é crucial!
 	
-Text.BuyItem.WillSell	$NAME$ will sell to you but only because he likes you.
-Text.BuyItem.WontSell	$NAME$ refuses to sell you anything, perhaps if he liked you more . 
-Text.Guard.Bribe	Not enough!
+Text.BuyItem.WillSell	$NAME$ está disposto a vender, mas apenas porque gosta de você.
+Text.BuyItem.WontSell	$NAME$ não está disposto a vender. Talvez se ele gostasse mais de você.
+Text.Guard.Bribe	Não é suficiente!
 	
 text.start	para Iniciar
 Text.Save.Body	Você gostaria de dormir até de manhã e salvar seu progresso atual?
 	
-Text.Message.CraftingNotEnoughIntellect	You don't have enough intelligence to craft this item!
-Text.Quest.Full	Too many favours active at this time to accept any more!
+Text.Message.CraftingNotEnoughIntellect	Você não tem inteligência suficiente para criar este item!
+Text.Quest.Full	Muitos favores ativos neste momento para aceitar mais!
 	
-Text.Help.Tutorial.MetalShop.Body	Use sheets from the metal box on the printing pressers at the table to create license plates. Place the completed license plates into the license plate container.
-Text.Help.Tutorial.MetalShop.Title	Metal Shop Job
+Text.Help.Tutorial.MetalShop.Body	Retire as placas de metal da caixa e coloque-as nas prensas para fazer as placas dos carros. Coloque as placas concluídas no contêiner correspondente.
+Text.Help.Tutorial.MetalShop.Title	Trabalho em oficina de metal
 	
-Text.Help.Tutorial.WoodShop.Body	Take three pieces of timber from the wood-pile and using the crafting system create a chair. Completed chairs should then be placed into the assigned container.
-Text.Help.Tutorial.WoodShop.Title	Carpenter Job
+Text.Help.Tutorial.WoodShop.Body	Pegue três pedaços de madeira da pilha e faça uma cadeira com o sistema de criação. Coloque as cadeiras prontas no recipiente apropriado.
+Text.Help.Tutorial.WoodShop.Title	Trabalho de carpinteiro
 	
-Text.Help.Tutorial.Janitor.Body	Use the mop to clean dirty floor tiles you find around the prison.
-Text.Help.Tutorial.Janitor.Title	Janitor Job
+Text.Help.Tutorial.Janitor.Body	Use o esfregão para limpar os ladrilhos sujos que encontrar ao redor da prisão.
+Text.Help.Tutorial.Janitor.Title	Trabalho de zelador
 	
-Text.Help.Tutorial.Unloading.Body	Take the boxes from the lorry and then matching the colours up, place these items into their designated containers.
-Text.Help.Tutorial.Unloading.Title	Lorry Unloading Job
+Text.Help.Tutorial.Unloading.Body	Retire as caixas do caminhão e coloque-as nos recipientes designados de acordo com a cor.
+Text.Help.Tutorial.Unloading.Title	Trabalho de descarga de caminhão
 	
-Text.Help.Tutorial.Gardener.Body	Use the hoe to deal with pesky weeds that you find in the outdoor sections around the prison.
-Text.Help.Tutorial.Gardener.Title	Gardener Job
+Text.Help.Tutorial.Gardener.Body	Use a enxada para lidar com ervas daninhas desagradáveis que você encontra nas seções ao ar livre ao redor da prisão.
+Text.Help.Tutorial.Gardener.Title	Trabalho de jardineiro
 	
-Text.Help.Tutorial.Kitchen.Body	Take uncooked food out of the freezer and cook it by placing it into the oven. Once cooked, place the food onto the serving trays ready for your fellow inmates.
-Text.Help.Tutorial.Kitchen.Title	Cook Job
+Text.Help.Tutorial.Kitchen.Body	Retire os alimentos crus do congelador e coloque no forno para cozinhá-los. Quando estiver pronto, coloque-o nas bandejas para os outros internos.
+Text.Help.Tutorial.Kitchen.Title	Trabalho de cozinheiro
 	
-Text.Help.Tutorial.MailMan.Body	Take delivered letters from the sorting cabinet and then give them to the corresponding inmates.
-Text.Help.Tutorial.MailMan.Title	Mail Job
+Text.Help.Tutorial.MailMan.Body	Retire do armário as cartas recebidas e entregue-as aos respectivos presidiários.
+Text.Help.Tutorial.MailMan.Title	Trabalho de carteiro
 	
-Text.Help.Tutorial.Librarian.Body	Take books and magazines from the delivered items cabinet and give them to the corresponding inmates.
-Text.Help.Tutorial.Librarian.Title	Librarian Job
+Text.Help.Tutorial.Librarian.Body	Pegue os livros e revistas solicitados pelos presidiários do guarda-roupa de artigos recebidos e entregue-os a eles.
+Text.Help.Tutorial.Librarian.Title	Trabalho de bibliotecário
 	
-Text.Help.Tutorial.Outfit.Body	Taking the items from the equipment container use the needle and thread with a piece of fabric to create items of clothing. Place the finished clothing into the designated container.
-Text.Help.Tutorial.Outfit.Title	Tailor Job
+Text.Help.Tutorial.Outfit.Body	Pegue os itens da caixa de ferramentas e use uma agulha, linha e tecido para fazer roupas. Coloque as roupas acabadas no recipiente correspondente.
+Text.Help.Tutorial.Outfit.Title	Trabalho de alfaiate
 	
-Text.Tutorial.JobQuota	You will lose your job if you fail to meet the job quota you have been set!
-Text.Tutorial.LightsOut	When lights out occurs you can save your current progress by sleeping till the morning by using the bed.
-Text.Help.StandOnDesk	Standing on desks and tables will enable you to see the ventilation system above you. With the right tools you can get up inside them!
+Text.Tutorial.JobQuota	Você perderá seu emprego se não atingir a cota diária que foi atribuída a você!
+Text.Tutorial.LightsOut	Quando as luzes se apagam, você pode salvar seu progresso atual usando a cama para dormir até a manhã seguinte.
+Text.Help.StandOnDesk	Se você subir em carteiras e mesas, poderá ver o sistema de ventilação acima de você. Com as ferramentas certas, você pode entrar nisso!
 	
-Text.Pause.Outfit	Current Outfit: $NAME$
-Text.Pause.Weapon	Current Weapon: $NAME$
+Text.Pause.Outfit	Uniforme atual: $NAME$
+Text.Pause.Weapon	Arma atual: $NAME$
 	
-Text.Help.Gym.Perks	Use the weights bench and treadmill to boost your STRENGTH and SPEED stats - get on the desired equipment and using fast presses,  alternate between (LT) and (RT) to buff yourself up!
-Text.Help.Gym.Stalag	Using the crash mats provided you can use these items to increase your SPEED and STRENGTH levels! To use,  alternate between (LT) and (RT) once on the desired equipment!
-Text.Help.Gym.Shank	Using the speed bags and weight benches will increase your SPEED and STRENGTH levels! To use the speed bags build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers. To use the weights bench,  alternate between (LT) and (RT) to pump iron.
-Text.Help.Gym.Jungle	Use the logs and crash mat provided to boost your SPEED and STRENGTH levels. To use,  alternate between (LT) and (RT) once on the desired equipment!
-Text.Help.Gym.Sona	To use the punch bag and boost your STRENGTH, time your shots by pressing (LT) and (RT) when the marker is in the red zone of the power bar. To skip and boost your SPEED, build up momentum alternating between (LT) and (RT) then keep the rhythm so that the bar remains within the safe markers.
-Text.Help.Gym.Alca	Using the chin-up bar and treadmills to increase your SPEED and STRENGTH levels! Alternate between (LT) and (RT) to use the desired equipment once on them.
+Text.Help.Gym.Perks	Use o banco de pesos e a esteira para aumentar suas estatísticas de FORÇA e VELOCIDADE. Entre na máquina de sua escolha e toque rapidamente alternando entre (LT) e (RT) para se fortalecer!
+Text.Help.Gym.Stalag	Usando os tapetes fornecidos, você pode usar esses itens para aumentar seus níveis de VELOCIDADE e FORÇA! Para fazer isso, alterne entre (LT) e (RT) quando estiver na máquina desejada.
+Text.Help.Gym.Shank	Aumente seus níveis de VELOCIDADE e FORÇA com sacos de pancadas e bancos de peso! Para usar os sacos de pancadas, pegue o impulso alternando entre (LT) e (RT) e em seguida controle seu ritmo de modo que a barra permaneça dentro dos marcadores de segurança. Para usar os bancos de peso, alterne entre (LT) e (RT) para levantar os pesos.
+Text.Help.Gym.Jungle	Use os registros e o tapete para aumentar seus níveis de VELOCIDADE e FORÇA. Para fazer isso, alterne entre (LT) e (RT) quando estiver na máquina desejada.
+Text.Help.Gym.Sona	Para usar o saco de pancadas e aumentar sua FORÇA, sincronize seus golpes pressionando (LT) e (RT) quando o marcador estiver na zona vermelha da barra de força. Para pular e aumentar sua VELOCIDADE, pegue o impulso alternando entre (LT) e (RT) e em seguida, controle seu ritmo de modo que a barra permaneça dentro dos marcadores de segurança.
+Text.Help.Gym.Alca	Aumente seus níveis de VELOCIDADE e FORÇA com a barra de exercícios e a esteira! Alterne entre (LT) e (RT) para usar a máquina que deseja quando estiver alto.
 	
 Text.UI.GameOptions	Opções do Jogo
 Text.UI.Music	Musica
@@ -2003,19 +2003,19 @@ Text.UI.Credits	Créditos
 	
 Text.HUD.Audio	Áudio
 	
-Text.UI.JobFired	Due to your sheer incompetence and inability to reach the more than reasonable set quotas, we have no choice but to let you go from your job. \n\nIf you pull yourself together and realise you must try harder, in future you may re-apply at the job board within the prison offices.
+Text.UI.JobFired	Devido à sua absoluta incompetência e incapacidade de atingir a cota mais do que razoável que foi indicada a você, não temos escolha a não ser retirá-lo de seu trabalho. \n\Se você decidir crescer e se esforçar mais, pode se inscrever novamente mais tarde no quadro de avisos da secretaria da prisão.
 	
-Text.Busted.Why.Outside	Three days in solitary for you, sunshine! You know the rules - night time is CELL TIME.  You do understand this very simple concept, yes? 
+Text.Busted.Why.Outside	Três dias em isolamento, senhorita! Você conhece as regras: à noite, NA CELA. Você entende esse conceito simples?
 	
-Text.MapObject.Cutlery	Cutlery
+Text.MapObject.Cutlery	Talheres
 	
-Text.Item.Nails	Nails
+Text.Item.Nails	Unhas
 	
-Text.Inmate.CallGuard1	What are you doing?! Guard.  QUICK!
-Text.Inmate.CallGuard2	Oh I don't believe this!!! GUARD.  COME SEE!
-Text.Inmate.CallGuard3	So errr.  HEY! Stop that! GUARD!
-Text.Inmate.CallGuard4	I haven't the time, I *really* haven't the time.  OI! STOP IT! GUARD!
-Text.Inmate.CallGuard5	I'm not having this! GUARD! QUICK! HE'S TRYING TO ESCAPE!
+Text.Inmate.CallGuard1	O que você está fazendo? Guarda. RÁPIDO!
+Text.Inmate.CallGuard2	Não acredito! GUARDA, VENHA VER ISTO!
+Text.Inmate.CallGuard3	Assim que. EI! Pare! GUARDA!
+Text.Inmate.CallGuard4	Eu não tenho tempo, eu realmente não tenho tempo. EI! PARE! GUARDA!
+Text.Inmate.CallGuard5	Eu não quero mexer com isso! GUARDA! RÁPIDO! ELE ESTÁ TENTANDO FUGIR!
 	
 Text.HUD.Favours	Favores
 Text.HUD.Notes	Notas
@@ -2023,115 +2023,115 @@ Text.HUD.Notes	Notas
 Text.Item.NeedleandThread	Agulha e linha
 Text.Item.Fabric	Tecido
 	
-Text.Help.Tutorial.MetalShop.BodyNEW	The automotive industry is booming! The only booming you will hear is the sound of license plates being pressed. The harder you work, the sooner I get my sporty little convertible. \n\nUse sheets from the metal box on the printing pressers at the table to create license plates. Place the completed license plates into the license plate container.
+Text.Help.Tutorial.MetalShop.BodyNEW	A industria de automóveis está florescendo! Mas a única coisa florescendo que irá ouvir será o som de placas sendo batidas. Quanto mais duro der nisso, mais cedo irei pegar meu pequeno conversível. \n\nPegue as chapas de metal do contêiner na oficina e use eles nas prensas para criar placas. Coloque as placas prontas no contêiner indicado.
 	
-Text.Help.Tutorial.WoodShop.BodyNEW	Responsibly sourced by us, irresponsibly hammered together by you lot. Our wood shop has found quite the market for our ‘vintage inspired’ furniture. No craftsmanship required, the prison is *NOT* responsible for splinters.\n\nTake three pieces of timber from the wood-pile and using the crafting system create a chair. Completed chairs should then be placed into the assigned container.
+Text.Help.Tutorial.WoodShop.BodyNEW	Servidos responsavelmente por nós, irresponsavelmente machucado pelo material. Nossa madeireira conseguiu um mercado para os móveis  ‘com inspiração vintage’. Não exigimos quaisquer habilidades, porém a prisão NÃO é responsável por cortes, fraturas e perdas de órgãos. \n\nPegue tábuas do contêiner na madeireira e transforme-os em móveis. Coloque o produto final no contêiner de móveis.
 	
-Text.Help.Tutorial.Janitor.BodyNEW	Clean up your act and clean up our floors whilst you’re at it! I want you to make those floors, the foundations of *YOUR* reform, look their best.\n\nUse the mop to clean dirty floor tiles you find around the prison.
+Text.Help.Tutorial.Janitor.BodyNEW	Elimine qualquer má ação que tenha feito, e limpe o local! Quero que deixe cada andar, as fundações da SUA reforma, brilhando. \n\nPegue um esfregão ou uma vassoura da sala dos zeladores e use para limpar toda e qualquer sujeira que encontrar na prisão.
 	
-Text.Help.Tutorial.Unloading.BodyNEW	What’s inside those boxes isn’t of concern to you. I just want them moving *UNTAMPERED* to where they need to go.\n\nTake the boxes from the lorry and then matching the colours up, place these items into their designated containers. 
+Text.Help.Tutorial.Unloading.BodyNEW	O conteúdo dessas caixas não é da sua preocupação. Eu só quero que você os transporte SEM CONSIDERAÇÕES para onde eles precisam ir. \n\nTire as caixas do caminhão e coloque-as nas lixeiras designadas de acordo com sua cor.
 	
-Text.Help.Tutorial.Gardener.BodyNEW	Dream of working in the great outdoors? Being at one with nature and all that? Then introduce yourself to the weeds plaguing our courtyards.\n\nUse the hoe to deal with pesky weeds that you find in the outdoor sections around the prison. 
+Text.Help.Tutorial.Gardener.BodyNEW	O sonho de trabalhar ao ar livre. Entrar em contato com a natureza e toda essa merda. Introduza-se ás ervas daninhas que assolam nosso belo pátio. \n\nPegue uma enxada na sala dos jardineiros para remover to remove todas essas ervas malignas do nosso pátio.
 	
-Text.Help.Tutorial.Kitchen.BodyNEW	The inspectors call it hazardous, I call it ‘Rustic’. A sense of taste and/or smell is not essential. Don’t worry about washing your hands.\n\nTake uncooked food out of the freezer and cook it by placing it into the oven. Once cooked, place the food onto the serving trays ready for your fellow inmates.
+Text.Help.Tutorial.Kitchen.BodyNEW	Os inspetores chamam de perigo, já eu chamo de 'rustica'. Nenhum olfato afiado é necessário. Não se preocupe com o estado de limpeza das suas mãos. \n\nPegue a comida congelada no freezer e coloque-as no forno. Após cozidas, pegue-as e coloque nas bandejas, na cantina.
 	
-Text.Help.Tutorial.MailMan.BodyNEW	I hate to be the bearer of bad news, which is why I’m asking you to do it for me.\n\nTake delivered letters from the sorting cabinet and then give them to the corresponding inmates.
+Text.Help.Tutorial.MailMan.BodyNEW	ODEIO entregar más notícias, e é por isso que irá fazer isso por mim. \n\nPegue as cartas da sala de correspondências e entregue aos destinatários. Você pode entregar pessoalmente ou nas suas celas.
 	
-Text.Help.Tutorial.Librarian.BodyNEW	You lot accuse the library of being understocked, but I assure you it’s a ‘modest’ collection of the finest literary works available. Not the inane jumble of expletives and filth you rabble are used to on the outside.\n\nTake books and magazines from the delivered items cabinet and give them to the corresponding inmates. 
+Text.Help.Tutorial.Librarian.BodyNEW	Dizem que a biblioteca tem poucos livros, mas posso lhe garantir que nossa coleção ‘modesta’ tem o melhor da literatura. Lá fora não se usa os insultos e gírias que usa-se aqui dentro. \n\nPegue os livros da biblioteca e os entregue ao companheiro indicado. Você pode entregá-lo pessoalmente ou deixá-lo PRÓXIMO a escrivaninha(NÃO DENTRO).
 	
-Text.Help.Tutorial.Outfit.BodyNEW	As a prison, we are proud of our contract with famous clothing brand ‘Adidoodoo’ and are determined to meet their need for high quality, hand crafted garments.\n\nTaking the items from the equipment container use the needle and thread with a piece of fabric to create items of clothing. Place the finished clothing into the designated container.
+Text.Help.Tutorial.Outfit.BodyNEW	Esta prisão tem o orgulho de ter a famosa marca de roupas Adidoodoo e está empenhada em atender às suas expectativas de roupas de alta qualidade e feitas à mão. \n\nPegue os itens da caixa de ferramentas e use a agulha, linha e tecido para fazer roupas. Coloque as roupas acabadas no recipiente correspondente.
 	
-Text.Help.Tutorial.Laundry.BodyNEW	Your criminal attitude stinks, and so do your overalls! The only thing I want to smell on you inmates is the fresh scent of justice.\n\nPlace dirty outfits from the dirty laundry trolley into the washing machines. Once cleaned, place the outfits into the clean laundry trolley. 
-Text.Item.medikit	MediKit
-Text.Item.MediKit	MediKit
-Text.Item.Underpants	Underpants
-Text.Item.CrowBar	Crowbar
+Text.Help.Tutorial.Laundry.BodyNEW	Seus crimes fedem, assim como suas roupas! A única coisa que quero sentir nos seus companheiros é o cheiro da justiça. \n\nPegue as roupas sujas no contêiner da lavanderia e coloque-os nas máquinas de lavar. Feito isso, pegue e coloque-as no contêiner de roupas limpas.
+Text.Item.medikit	Kit de primeiros socorros
+Text.Item.MediKit	Kit de primeiros socorros
+Text.Item.Underpants	Cuecas
+Text.Item.CrowBar	Pé de cabra
 	
-Text.Busted.Why.Jeep	Hey! What are you doing? You *know* that prison is for prisoners.  You shouldn't be out here. I've just had an idea, why don't you sample solitary for a cool three days? Bye bye.
+Text.Busted.Why.Jeep	Ei! O que você está fazendo? Você sabe que a prisão é para prisioneiros, certo? Você não deveria estar aqui. Acabei de ter uma ideia: por que você não experimenta a solitária por três dias legais? Tchau.
 	
-Text.UI.JobApplicationDeniedINT	Sorry, you don't have the intellect for this position. The required intellect is 00
+Text.UI.JobApplicationDeniedINT	Desculpe, mas você não está qualificado para a posição. O nível de inteligência necessário é 00.
 	
 	
-Text.Inmates.Gift.Rank.Enough1	I think you've given me enough already. Maybe later eh?
-Text.Inmates.Gift.Rank.Enough2	I'm not in the mood right now for being gifted stuff.  You've given me too much already!
-Text.Inmates.Gift.Rank.Enough3	What? MORE gifts? No thanks.  I don't want any more from you right now.
+Text.Inmates.Gift.Rank.Enough1	Acho que você já me deu coisas suficientes. Talvez mais tarde, ok?
+Text.Inmates.Gift.Rank.Enough2	Não estou com humor para você me dar mais coisas. Você já me deu muitos!
+Text.Inmates.Gift.Rank.Enough3	Este? Mais presentes? Não, obrigado. Eu não quero que você me dê mais nada.
 	
-Text.UI.JobApplicationWrongPeriod	I'm far, *far* too busy to be processing requests like this during a work period. Move along and come back later. Thanks.
+Text.UI.JobApplicationWrongPeriod	Estou *muito* ocupado para processar esses tipos de solicitações durante o horário comercial. Saia daqui e volte mais tarde. Obrigado
 	
-Text.Guard.Carrying1	Hey you! Drop that immediately!
-Text.Guard.Carrying2	What are you doing?! Put that down!
-Text.Guard.Carrying3	DROP IT $name!
+Text.Guard.Carrying1	Ei você! Largue isso agora!
+Text.Guard.Carrying2	O que você está fazendo? Largue isso!
+Text.Guard.Carrying3	LARGUE ISSO, $name!
 	
-Text.Tutorial.Welcome.Jungle is Massive	Welcome to the jungle!  \n\nSociety has declared you a menace, so we've put you far away from any trace of it. \n\nBefore you even entertain the thought of escaping, let me remind you that even if by some remote chance you make it past the fence, the wall, the perimeter jeeps and the guard checkpoint, there's no surviving out in the wild beyond.
-Text.Tutorial.Welcome.Sona	This is the notorious San Pancho, the roughest, toughest and downright nastiest prison south of the border.\n\nThe blistering heat and claustrophobic conditions here turns our inmates angry and violent. \n\nEven the guards daren't enter!
-Text.Tutorial.Welcome.alca	Listen here maggot.\n\nYou know why you're here so no point crying about it. Generally feared as the highest security prison ever, HMP Iron Gate is where you'll live out the rest of your meaningless existence.\n\nEscape you say? Don't make me laugh! The handful of idiots who tried met a watery demise trying to swim off the island. Still, chin up eh?\n\nOh, one more thing. There'll be no perks, breaks or luxuries on my watch. Sleep lightly.
+Text.Tutorial.Welcome.Jungle is Massive	Bem vindo á selva! \n\nA sociedade lhe considera um peso, então lhe colocamos bem longe dela. \n\nAntes de pensar em escapar, deixe me lembrá-lo que mesmo na remota chance de você passar pelas cercas, pelo muro, pelos jipes e pelo posto dos guardas, não há jeito de sobreviver lá fora...
+Text.Tutorial.Welcome.Sona	Está é a San Pancho, a mais grosseira, rigorosa e a prisão mais desagradável ao sul da fronteira. \n\O calor escaldante e as condições claustrofóbicas fazem com que os presos fiquem violentos e agressivos. \n\Nem os guardas tentam entrar!
+Text.Tutorial.Welcome.alca	Ouça aqui seu merdinha. \n\Você sabe porque está aqui e não tem mais nem menos. Normalmente a mais temida prisão, HMP Irongate, será onde passará o resto da sua merda de existência insignificante. \n\Escapar? Não me faça rir! Os imbecis que tentaram se encontraram com um monte de água, sem nenhuma outra visão. Ainda sim, quer tentar?
 	
-Text.Item.BoxA	Sky Hooks
-Text.Item.BoxB	Spirit Level Bubbles
-Text.Item.BoxC	Chocolate Fireguards
+Text.Item.BoxA	Ganchos aéreos
+Text.Item.BoxB	Bolhas revitalizantes
+Text.Item.BoxC	Chocolates de futilidade
 	
-Text.Item.Hammer	Hammer
+Text.Item.Hammer	Martelo
 	
-Text.Lounge	Sun Lounger
+Text.Lounge	Espreguiçadeira
 	
-Text.Item.Payphone	Payphone
+Text.Item.Payphone	Telefone público
 	
-Text.Item.LightweightCutters	Lightweight Cutters
-Text.Item.SturdyCutters	Sturdy Cutters
+Text.Item.LightweightCutters	Alicates ligeros
+Text.Item.SturdyCutters	Alicates robustos
 	
-Text.Item.FlimsyPickAxe	Flimsy Pickaxe
-Text.Item.LightweightPickAxe	Lightweight Pickaxe
-Text.Item.SturdyPickAxe	Sturdy Pickaxe
-Text.Item.Stinger	Stinger
+Text.Item.FlimsyPickAxe	Picareta Frágil
+Text.Item.LightweightPickAxe	Picareta leve
+Text.Item.SturdyPickAxe	Picareta Robusta
+Text.Item.Stinger	Furador
 	
-Text.Locked	Buy Tip
+Text.Locked	Dica de compra
 	
-text.payphone.tips	You can use the kindly provided payphones to gain inside knowledge on useful hints and tips. At a cost of course. 
+text.payphone.tips	Você pode usar os telefones gentilmente fornecidos para obter informações sobre dicas e sugestões úteis. Por um preço, claro.
 	
-Text.Item.Shorts	Shorts
+Text.Item.Shorts	Bermudas
 	
-Text.Map.Jungle.NoDisguise1	Requesting backup!
-Text.Map.Jungle.NoDisguise2	You're done for!
-Text.Map.Jungle.NoDisguise3	End of the road, pal!
-Text.Map.Jungle.NoDisguise4	YOU SHALL NOT PASS!
-Text.Map.Jungle.NoDisguise5	Code red at checkpoint!
+Text.Map.Jungle.NoDisguise1	Solicitando reforços!
+Text.Map.Jungle.NoDisguise2	Você está acabado!
+Text.Map.Jungle.NoDisguise3	Fim da estrada, amigo!
+Text.Map.Jungle.NoDisguise4	VOCÊ NÃO PASSARÁ!
+Text.Map.Jungle.NoDisguise5	Código vermelho no posto de controle!
 	
-Text.Map.Jungle.YesDisguise1	Have a good day!
-Text.Map.Jungle.YesDisguise2	See ya tomorrow!
-Text.Map.Jungle.YesDisguise3	Clockin' off eh? Take care now!
-Text.Map.Jungle.YesDisguise4	Good times!
-Text.Map.Jungle.YesDisguise5	See you later, criminal educator!
+Text.Map.Jungle.YesDisguise1	Tenha um bom dia!
+Text.Map.Jungle.YesDisguise2	Ate amanha!
+Text.Map.Jungle.YesDisguise3	Você saiu na hora certa, hein? Cuidado!
+Text.Map.Jungle.YesDisguise4	Bons tempos!
+Text.Map.Jungle.YesDisguise5	Até logo, educador criminal!
 	
 Text.HUD.CheckpointCharlie	Checkpoint Charlie
 	
-Text.Map.Jungle.PapersPlease	Papers please!
+Text.Map.Jungle.PapersPlease	Papéis, por favor!
 	
-Text.Tutorial.Names.Thumbstick	Clicking the (RS) will allow you to see all of the names of the inmates currently on screen.
+Text.Tutorial.Names.Thumbstick	Se você clicar em (RS), verá todos os nomes dos detentos exibidos na tela.
 	
-Text.Item.Hoe	Hoe
+Text.Item.Hoe	Enxada
 	
-Text.Payphone.NotEnoughMoney	Uh oh! Doesn't seem like you have enough money to purchase this tip right now!
-Text.Unlocked	View Tip
+Text.Payphone.NotEnoughMoney	Oh oh! Parece que você não tem dinheiro suficiente para comprar esta dica agora!
+Text.Unlocked	Ver dica
 	
-Text.Alcatraz.Name	HMP Iron Gate
+Text.Alcatraz.Name	Prisão Iron Gate
 	
-Text.Item.PlayingCards	Pack of Cards
+Text.Item.PlayingCards	Baralho de cartas
 	
-Text.Item.Speaker	Speaker
+Text.Item.Speaker	Alto falante
 	
-Text.Tutorial.Visitors	During Free Period, why not take a seat in the visitors room and see who comes to visit? Maybe they'll tell you about how they have been getting on since you've been locked away.
+Text.Tutorial.Visitors	Durante o período livre, por que não sentar na sala de visitantes e ver quem vem te visitar? Talvez eles lhe contem como estão se saindo desde que você foi preso.
 	
-Text.Jungle.Name	Jungle Compound
+Text.Jungle.Name	Complexo de selva
 Text.Sona.Name	San Pancho
 	
-Text.NPC.JobOfficer	Job Officer
-Text.NPC.MedicName	Medic
+Text.NPC.JobOfficer	Oficial do Trabalho
+Text.NPC.MedicName	Doutor
 	
 Text.UI.Quest.RetrieveItem	Remover $item do $subject.
 Text.UI.Quest.GiveItem	Dar $item para $giver.
-Text.UI.Quest.Offer.RetrieveItem1	$giver: I gave $subject my $item a while back. I've felt sick about it since - take that off him!
-Text.UI.Quest.Offer.RetrieveItem2	$giver: $subject and his pals extorted a $item out of me. I just want it taken away from him!
-Text.UI.Quest.Offer.GiveItem1	$giver: I'm on the lookout for a $item, could you get me one and bring it back to me? I'd be ever so grateful!
+Text.UI.Quest.Offer.RetrieveItem1	$giver: Um tempo atrás, eu dei a $subject meu $item. Desde então, tenho me sentido péssimo; Tire isso dele!
+Text.UI.Quest.Offer.RetrieveItem2	$giver: $subject e seus amigos extorquiram $item de mim. Eu só quero tirar isso dele!
+Text.UI.Quest.Offer.GiveItem1	$giver: Estou procurando por este: $item. Você poderia trazer para mim? Eu agradeceria do fundo do meu coração!
 	
 Text.UI.Fist	Punho
 	
@@ -2139,189 +2139,189 @@ Text.UI.Weapon	Arma
 Text.UI.Tool	Ferramenta
 Text.UI.Component	Componente
 	
-Text.HUD.Energy	Energy
-Text.ZipWire	Zip Wire
-Text.Platform.XB1.NeedActiveUserToContinue	You must select an active user to continue.
+Text.HUD.Energy	Energia
+Text.ZipWire	Tirolesa
+Text.Platform.XB1.NeedActiveUserToContinue	Você deve selecionar um usuário ativo para continuar.
 	
-Text.Dialogue.JobDisrupt	Inmates will lose their jobs if they fail to meet their required daily quota. The warden will NOT tolerate feeble excuses regarding other inmates disrupting and preventing you from doing your job.
+Text.Dialogue.JobDisrupt	Os detentos perderão o trabalho se não cumprirem a quota diária obrigatória. O diretor NÃO vai tolerar desculpas baratas de que outros presos o irritam e não o deixam fazer seu trabalho.
 	
-Text.Item.LightweightShovel	Lightweight Shovel
+Text.Item.LightweightShovel	Pá leve
 	
-Text.Message.InventoryFull	Your inventory is full!
+Text.Message.InventoryFull	Seu inventário está cheio!
 	
 Text.ui.next 	Personalizar
 	
-Text.Tutorial.Welcome.HMP Calder Island	Listen here maggot.\n\nYou know why you're here so no point crying about it. Generally feared as the highest security prison ever, HMP Iron Gate is where you'll live out the rest of your meaningless existence.\n\nEscape you say? Don't make me laugh! The handful of idiots who tried met a watery demise trying to swim off the island. Still, chin up eh?
+Text.Tutorial.Welcome.HMP Calder Island	Ouça aqui seu merdinha. \n\nVocê sabe porque está aqui e não tem mais nem menos. Normalmente a mais temida prisão, HMP Irongate, será onde passará o resto da sua merda de existência insignificante. \n\nEscapar? Não me faça rir! Os imbecis que tentaram se encontraram com um monte de água, sem nenhuma outra visão. Ainda sim, quer tentar?
 	
-Text.Tutorial.RoofHeader	WARNING!
-Text.Tutorial.RoofInDayTime	Inmates on rooftops will NOT be tolerated. By day the rooftops are closely guarded by elite sniper guards armed to the teeth with rubber bullets.
-Text.Tutorial.RoofInDayTimeExtra	Inmates on rooftops will NOT be tolerated. By day the rooftops are closely guarded by elite sniper guards armed to the teeth with rubber bullets.\n\nBy night, they swap the weaponry for much more useful high powered spotlights!
-Text.Message.NoFreeSlots	No free slots available!
-Text.Busted.Why.Key	A guard has reported a prison key has been stolen from him and we've traced it back to you!\n\nTake time out in solitary to think about you've done.
+Text.Tutorial.RoofHeader	AVISO!
+Text.Tutorial.RoofInDayTime	Presos em telhados NÃO serão tolerados. Durante o dia, os telhados são vigiados de perto por franco-atiradores de elite, armados até os dentes com balas de borracha.
+Text.Tutorial.RoofInDayTimeExtra	Presos em telhados NÃO serão tolerados. Durante o dia, os telhados são vigiados de perto por franco-atiradores de elite armados até os dentes com balas de borracha. \n\nA noite, eles trocam o armamento por holofotes de alta potência muito mais úteis!
+Text.Message.NoFreeSlots	Não há slots grátis disponíveis!
+Text.Busted.Why.Key	Um guarda relatou que uma chave da prisão foi roubada dele e nós rastreamos você! \n\nPasse um tempo na solitária para pensar no que você fez.
 	
-Text.Tutorial.Speedbag	Quickly alternating between (LT) and (RT) - maintain the rhythm of hitting the speedbag by keeping your marker within the moving range.
-Text.Tutorial.PunchbagSkipping	Alternating between (LT) and (RT) - time each press to successfully land within the marked range.
+Text.Tutorial.Speedbag	Alterne rapidamente entre (LT) e (RT) para manter a cadência dos golpes no saco de velocidade enquanto deixa o marcador dentro da área móvel.
+Text.Tutorial.PunchbagSkipping	Ao alternar entre pressionar (LT) e (RT), coordene cada uma de suas pulsações para alcançar a área marcada.
 	
-Text.Tutorial.SpeedbagTitle	Speedbag
-Text.Tutorial.PunchbagTitle	Punchbag
-Text.Tutorial.SkippingTitle	Skipping
-Text.Tutorial.LogLifting	Log Lifting
-Text.Tutorial.Jogging	Jogging
-Text.Tutorial.PushUps	Push Ups
+Text.Tutorial.SpeedbagTitle	Saco de velocidade
+Text.Tutorial.PunchbagTitle	Saco de pancadas
+Text.Tutorial.SkippingTitle	Cordas
+Text.Tutorial.LogLifting	Levantamento de toras
+Text.Tutorial.Jogging	Corrida
+Text.Tutorial.PushUps	Flexões
 Text.Tutorial.Chinups	Chin Ups
 	
-Text.Item.RedKeyPlastic	Plastic Red Key
-Text.Item.CyanKeyPlastic	Plastic Cyan Key
-Text.Item.YellowKeyPlastic	Plastic Yellow Key
-Text.Item.PurpleKeyPlastic	Plastic Purple Key
-Text.Item.GreenKeyPlastic	Plastic Green Key
+Text.Item.RedKeyPlastic	Chave vermelha de plástico
+Text.Item.CyanKeyPlastic	Chave ciano de plástico
+Text.Item.YellowKeyPlastic	Chave amarela de plástico
+Text.Item.PurpleKeyPlastic	Chave roxa de plástico
+Text.Item.GreenKeyPlastic	Chave verde de plástico
 	
 	
-Text.Guards.Lockdown	RIGHT! That's it - It's a LOCKDOWN!
-Text.Busted.Why.Vent	We have a little rat scurrying around in the vents do we? Did you think no one could hear you scampering around? Off to your own little rat's nest in solitary, chum. A lovely three night stay. Have fun!
+Text.Guards.Lockdown	CERTO! É isso - é um BLOQUEIO!
+Text.Busted.Why.Vent	Então temos um rato se esgueirando pelas aberturas, hein? Você achou que ninguém iria ouvir você andar por aí? Você tem seu próprio covil esperando por você isolado, seu rufião. Uma adorável estadia de três dias. Passe bem!
 	
-Text.Recruits.Follow1	When an inmate has a high enough opinion of you they can be recruited and will follow you around the prison if you request so by pressing (A) and interacting with them.
-Text.Recruits.Follow2	If you wish to dismiss then, stand next to them and press (B).
-Text.Recruits.Follow3	To instruct followers to attack other characters, interact with them by pressing (A) and then highlight a target with (LS) then confirm the target with (A).
+Text.Recruits.Follow1	Quando um presidiário tem uma opinião elevada o suficiente sobre você, ele pode ser recrutado e o seguirá pela prisão se você solicitar, pressionando (A) interagindo com ele.
+Text.Recruits.Follow2	Se você quiser que ele vá, fique ao lado dele e pressione (B).
+Text.Recruits.Follow3	Para ordenar que seus seguidores ataquem outros personagens, interaja com eles pressionando (A), destaque um alvo com (LS) e, finalmente, confirme o alvo com (A).
 	
-Text.Hint.Recipe	USE THE CRAFTING SYSTEM TO CREATE %name% WITH THESE ELEMENTS:
+Text.Hint.Recipe	USE O SISTEMA DE CRIAÇÃO PARA CRIAR %name% COM ESTES ELEMENTOS:
 	
-Text.Tip1	Guard towers limit your actions outside during the day, but at night it’s a different story.
-Text.Tip2	Disrupting employees whilst they go about their jobs just might prevent them from completing their quota!
-Text.Tip3	If you try to cut through the outer fence you’ll be in for a shock. Look for a way to disable the power.
-Text.Tip4	You’ll have to befriend your cell mate if you don’t want him snitching on you.
-Text.Tip5	The prison roof has various layers which can be traversed using ropes or grappling hooks.
-Text.Tip6	Barracks situated north of the compound store \nan item you will need!
-Text.Tip7	Once you're out, you're not *exactly* out - there's a guard checkpoint you'll need to pass!
-Text.Tip8	If the perimeter jeep spots an inmate outside the prison walls they'll be sent straight to solitary!
-Text.Tip9	The mines beyond the fence only trigger when passed over on ground!
-Text.Tip10	The perimeter jeep can be temporarily disabled with a makeshift Stinger!
-Text.Tip11	In his infinite wisdom, the architect who created San Pancho placed the generator on the roof!
-Text.Tip12	The perimeter wall beyond the main compound has a reinforced concrete base. No going under or through that!
-Text.Tip13	Duct Tape can be used to briefly disable the security cameras!
+Text.Tip1	As torres de guardas limitam suas ações pelo dia, mas a noite já é outra história.
+Text.Tip2	Interromper os empregados de fazer seu trabalho pode causar a demissão deles!
+Text.Tip3	Se tiver vários favores onde precisa entregar um item á algum colega, o melhor jeito de fazer isso é em Chamadas!
+Text.Tip4	Você precisa ser amigo do seu companheiro de cela se não quiser ser entregado.
+Text.Tip5	Existem várias camadas nos telhados da prisão, você pode acessá-las utilizando uma tirolesa.
+Text.Tip6	Os quarteis fora do complexo, situados ao norte contém um item que você precisa!
+Text.Tip7	Mesmo depois de sair, você ainda não terá saído completamente, tem um posto de guarda que irá precisa passar!
+Text.Tip8	Se um jeep de segurança ver alguém fora da prisão, este será mandando diretamente para a solitária!
+Text.Tip9	As minas que ficam após as cercas só são ativadas se passar por cima delas!
+Text.Tip10	O jeep de segurança pode ser desativado temporariamente se usar um furador para sabotá-lo!
+Text.Tip11	Por pura e espontânea vontade, o arquiteto que criou a prisão San Pancho colocou o gerador no telhado!
+Text.Tip12	O muro de segurança fora do complexo tem uma base de concreto reforçado. Nada passa por alí!
+Text.Tip13	Fita adesiva pode ser usada para tampar as câmeras de segurança!
 	
 	
-Text.Platform.XB1.SaveErrorWarning	There was a problem accessing your save data.
+Text.Platform.XB1.SaveErrorWarning	Ocorreu um problema ao acessar seus dados salvos.
 	
-Text.Item.Vest	Vest
+Text.Item.Vest	Colete
 	
-text.results.distance	Efficiency
+text.results.distance	Eficiência
 	
-Text.Tutorial.InmateFollow.Title	Minions
-Text.Tutorial.InmateFollow.Intro	When an inmate has a high enough opinion of you they can be recruited and will follow you around the prison if you request so by pressing (A) and interacting with them.
-Text.Tutorial.InmateFollow.BodyBButton	If you wish to dismiss them, stand next to them and press (B).
-Text.Tutorial.InmateFollow.BodyAttack	You can make your followers attack other NPCs' by pressing (A) and interacting with them which then allows you to choose a target by cycling through NPC's on screen using (LS) and confirming a target with (A) button.
+Text.Tutorial.InmateFollow.Title	Lacaios
+Text.Tutorial.InmateFollow.Intro	Quando um presidiário tem uma opinião elevada o suficiente sobre você, ele pode ser recrutado e o seguirá pela prisão se você solicitar, pressionando (A) interagindo com ele.
+Text.Tutorial.InmateFollow.BodyBButton	Se desejar descartá-los, fique ao lado deles e pressione (B).
+Text.Tutorial.InmateFollow.BodyAttack	Você pode fazer seus seguidores atacarem outros NPCs pressionando (A) e interagindo com eles, o que permitirá que você destaque os NPCs que estão na tela um por um com (LS) e, em seguida, confirme um deles como alvo com (A).
 	
-Text.Item.KeyMouldCyan	Cyan Key Mould
-Text.HUD.Toilet	Flush Items
+Text.Item.KeyMouldCyan	Molde de chave ciano
+Text.HUD.Toilet	objetos no banheiro
 	
-text.ui.move	Move / Highlight
-text.ui.names	Display Names
-text.ui.interact	Talk / Interact
-text.ui.crafting	Crafting
-text.ui.fight	Fight / Use / Pickup
-text.ui.drop	Drop
+text.ui.move	Mover / Destacar
+text.ui.names	Mostrar nomes
+text.ui.interact	Fale / Interaja
+text.ui.crafting	Criação
+text.ui.fight	Lutar / usar / coletar
+text.ui.drop	Soltar
 text.ui.menu	Menu
-text.ui.quick	Quick Select Weapon
-text.ui.journal	Journal
-text.ui.profile	Player Profile
-text.ui.invleft	Inventory Left
-text.ui.invright	Inventory Right
-text.ui.exright	Exercise Right
-text.ui.exleft	Exercise Left
+text.ui.quick	Seleção rápida de arma
+text.ui.journal	Diário
+text.ui.profile	Perfil do jogador
+text.ui.invleft	Inventário à esquerda.
+text.ui.invright	Inventário à direita.
+text.ui.exright	Exercícios para a direita.
+text.ui.exleft	Exercícios para a esquerda.
 	
-text.requiredintellect	You need $NUMBER$ more intellect to craft this item!
+text.requiredintellect	Você precisa de mais $NUMBER$ inteligência para criar este item!
 	
-Text.Help.Tutorial.Equip.Equiping	To equip items, simply highlight them in your inventory. 
-Text.Help.Tutorial.Equip.Unequip	To use the equipped item in your inventory press
-Text.Help.Tutorial.Equip.Target	A green target shows you can use the item at this location. 
+Text.Help.Tutorial.Equip.Equiping	Para se equipar com itens, basta destacá-los no inventário.
+Text.Help.Tutorial.Equip.Unequip	Para usar o item equipado no inventário, pressione
+Text.Help.Tutorial.Equip.Target	Se um alvo verde aparecer, significa que você pode usar o item lá. 
 	
-Text.Tip15	It's possible to craft a Bed Dummy to make the guards think you're tucked up nicely in there whilst you can go do other things!
-Text.Tip16	If you want to lower the risk of having contraband items taken from you, you can store them in the vents above. Even if you're sent to Solitary they will remain undiscovered!
-Text.Tip17	If you want to make good use of the vent system above you without being discovered - ensure to place a Fake Vent Cover over the access point!
-Text.Tip18	If you have several favours where you need to return items to inmates - the easiest way to do this is at Roll Call!
+Text.Tip15	Você pode criar uma boneca para colocar na cama e fazer os guardas pensarem que você está sonhando com os anjinhos. Enquanto isso, você pode se concentrar em outras coisas!
+Text.Tip16	Se quiser reduzir o risco de o contrabando ser tirado de você, você pode armazená-los nas aberturas acima. Mesmo que o mandem para o isolamento, ninguém os descobrirá!
+Text.Tip17	Se você deseja obter o máximo do sistema de ventilação acima de você sem ser descoberto, certifique-se de colocar uma grade falsa em seu ponto de acesso!
+Text.Tip18	Se vários presos pediram para você devolver itens ao mesmo tempo, a maneira mais fácil de fazer isso é durante a triagem!
 	
-Text.Item.Consumable	Consumable
+Text.Item.Consumable	Consumível
 	
 Text.Dream.Tut.Toilet	Você pode tentar usar o banheiro para dar descarga. Só não se esqueça que você corre o risco de bloquear o vaso sanitário e inundar sua cela, o que alerta os vigilantes! 
 Text.Dream.Tut.Bed	Você pode salvar seu progresso usando a cama para dormir à noite. No entanto, nós realmente temos que avançar, então bora!
 Text.Dream.Tut1	Bom, \n\nessa é a hora de testarmos o plano! \n\nAll the preparation and hard work all boils down to this. \n\nLet's get to it!
 Text.Dream.Tut2	Vá até sua mesa e pressione (A) para abri-la. Pegue todos itens de lá.
 Text.Dream.Tut3	Para acessar o sistema de ventilação, você precisa ficar em cima da mesa. \n\nPrimeiro, pegue-a usando (Y) e leve a mesa para o local marcado e solte-a usando (B).
-Text.Dream.Tut4	When stood next to the desk press (X) to stand on it. \n\nOnce on it, equip the Screwdriver by selecting it using (LB) or (RB). \n\nUse the Screwdriver to break into the vent by pressing (Y).
-Text.Dream.Tut5	Climb into the vent by pressing (A) when stood directly beneath it. \n\nOnce in the vent, navigate your way to a nearby cell where an inmate has something you need.
-Text.Dream.Tut6	Stand next to the inmate and press (X) to see what he has to sell. \n\nI think you'll find the item you'll be needing is available, and you have the funds to buy it!
-Text.Dream.Tut7	Great! \n\nNow you can craft yourself a weapon. Press (UP) to access the crafting menu and add the items. Then craft away!
-Text.Dream.Tut8	Probably not the best idea to leave the cell without having your newly crafted weapon equipped. \n\nSelect the weapon in your inventory and press (RIGHT) to equip it.
-Text.Dream.Tut9	Now, go fight that guard by standing next to him and pressing (Y) to launch an attack on him! \n\nKeep in mind that actions such as these will raise Guard Heat. Guard Heat is how much attention you have drawn to yourself through bad behaviour. 
-Text.Dream.Tut10	Now, walk up to the unconscious guard and press (A) so that you can steal their outfit! \n\nWith the guard outfit highlighted press (A) to take it, then with the outfit selected in your inventory press (RIGHT) to put it on.
-Text.Dream.Tut11	Wow that really suits you! \n\nNow, you can head out past the guards just outside the double doors. \n\nHead out this way then head north where your way out of here awaits!
-Text.Dream.Tut12	Dark down here isn't it? \n\nWell I do apologise but no one said this would be comfortable or easy. \n\nPick up that shovel, select it within your inventory and press (Y) to start digging.
-Text.Dream.Tut13	When you dig into an empty space this allows you to dig upwards and emerge from the underground.
-Text.Dream.Tut14	That wasn't too tough now was it? \n\nAll you have to do is walk on out. \n\nFreedom has never tasted so good!
+Text.Dream.Tut4	Quando estiver próximo à mesa, pressione (X) para subir nela. \n\nQuando estiver de pé, equipe-se com a chave de fenda, selecionando-a com (LB) ou (RB). \n\nPressione (Y) e você usará a chave de fenda para abrir o duto de ventilação.
+Text.Dream.Tut5	Para entrar no conduíte, pressione (A) logo abaixo dele. \n\nDepois de entrar, vá até uma cela próxima, onde encontrará um preso que tem algo de que você precisa e pode comprar dele.
+Text.Dream.Tut6	Fique ao lado do preso e pressione (X) para ver o que ele tem à venda. Algo me diz que ele terá o objeto de que você precisa, e você pode comprá-lo!
+Text.Dream.Tut7	Brilhante! Agora você pode criar sua própria arma e equipá-la para aumentar a quantidade de dano que causa ao lutar. Pressione (PARA CIMA) para acessar o menu de criação e adicionar os objetos. Em seguida, solte sua criatividade!
+Text.Dream.Tut8	Não acho uma boa ideia deixar a cela sem se equipar com a nova arma que você criou. Selecione a arma no inventário e pressione (PARA DIREITA) para equipá-la.
+Text.Dream.Tut9	Agora, vá lutar contra aquele guarda. Para fazer isso, fique próximo a ele e pressione (Y). \n\nIsso iniciará um ataque! Saiba que atos como esse aumentarão a vigilância. A vigilância aumenta toda vez que você chama a atenção para seu mau comportamento.
+Text.Dream.Tut10	Agora, aproxime-se do guarda inconsciente e pressione (A) para roubar seu uniforme! \n\nDestaque o uniforme de guarda e pressione (A) para pegá-lo e em seguida, selecione-o no inventário e pressione (PARA DIREITA) para colocá-lo.
+Text.Dream.Tut11	Uau! Como fica bem em você! Agora que você está disfarçado, pode se infiltrar nos guardas do outro lado da porta dupla. Vá até lá e siga para o norte, lá você encontrará sua rota de fuga!
+Text.Dream.Tut12	Está escuro aqui, não é? \n\nOlha, sinto muito, mas quem disse que isso seria confortável ou fácil? \n\nPegue aquela pá, selecione-a no inventário e pressione (Y) para começar a cavar.
+Text.Dream.Tut13	Quando você escava em um espaço vazio, isso permite que você escave para cima e saia do subsolo.
+Text.Dream.Tut14	Isso não foi tão ruim! \n\nAgora você só precisa caminhar. \n\nAh! O gosto da liberdade!
 	
 	
 	
-Text.Item.FakeFence	Fake Fence Cover
+Text.Item.FakeFence	Cerca falsa
 	
-text.menu.help1	The Escapists provides players the opportunity of experiencing a light-hearted insight into everyday prison life with the main objective being that of escaping!
-text.menu.help2	Players will have to keep in line and juggle their time sensibly as they form their personal plan of escape; work out potential routes to use, as well as being incredibly smart and clever in using what seem like harmless items to craft. Create various weaponry and escape tools which help aid the player in their ultimate goal of escaping!
-text.menu.help3	Players will have to juggle everyday prison life with holding down a job, improving stats through exercise and reading, and building relationships with other inmates to gain their support. If keeping on top of all these tasks wasn't difficult enough, don't forget to escape!
-text.menu.help4	Featuring six unique and testing prisons, are you up to the task of becoming 'The Escapist'?
+text.menu.help1	The Escapists permite que você tenha uma ideia de como é a vida cotidiana em uma prisão de uma forma despreocupada, e seu objetivo principal será escapar!
+text.menu.help2	Você terá que seguir as regras e administrar seu tempo razoavelmente enquanto planeja sua fuga; desenvolver possíveis rotas de fuga e aguçar sua inteligência usando o que parecem ser objetos inofensivos a olho nu. Crie diferentes armas e ferramentas de fuga que o ajudarão em seu objetivo final de fuga!
+text.menu.help3	Você terá que conciliar a rotina da prisão realizando trabalho, melhorando as estatísticas por meio de exercícios e leitura e construindo relacionamentos com outros detentos para obter seu apoio. Como se tudo isso já não fosse complicado o suficiente, não se esqueça de fugir!
+text.menu.help4	Com seis prisões de teste exclusivas, você está pronto para se tornar The Escapists?
 text.menu.help5	
-	Click to Display Character Names
-	Move / Highlight
-	Exercise Controls
-	Cycle Through Inventory Items
-	Fight / Use Item / Pick Up Item
-	Drop Inventory Item
-	Talk / Interact
-	View NPC Profile
-	Player Profile
-	Quick Select Current Weapon
-	Crafting
-	Journal Menu
-	Toggle Game Menu
-	Contact Us
-	Overview
-	Controls
-	Help on
-	Previous
-	Next
+	Clique para ver os nomes dos personagens
+	Mover/Destacar
+	Controles de exercício
+	Alterar objeto do inventario
+	Lutar/Usar objeto/Pegar objeto
+	Soltar objeto do inventario
+	Falar/Interagir
+	Ver Perfil do NPC
+	Perfil do jogador
+	Seleção rápida da arma atual
+	Criar
+	Diario
+	Menu do jogo sim/não
+	Contato
+	Resumo
+	Controles
+	Ajuda
+	Anterior
+	Próximo
 	
-Text.Tip14	Unconscious guards! What if you could somehow make a mould of a key and return the key back to him before he even knew it was missing? Well you wouldn't be sent to solitary - for a start.
+Text.Tip14	Guardas inconscientes! E se você pudesse de alguma forma moldar uma chave e devolvê-la ao guarda antes que ele percebesse que estava faltando? Bem, para começar eles não o mandariam para o isolamento.
 	
-Text.Item.sail	Sail
-Text.Item.raftbase	Raft Base
-Text.Item.balsawood	Balsa Wood
-Text.Item.makeshiftraft	Makeshift Raft
+Text.Item.sail	Vela
+Text.Item.raftbase	Base de balsa
+Text.Item.balsawood	Madeira de Balsa
+Text.Item.makeshiftraft	Jangada improvisada
 	
-Text.NPC.LostSightOfTarget	Get 'ere $name!
+Text.NPC.LostSightOfTarget	Vem aqui, $name!
 	
-Text.Takeover	You've activated the prison takeover! Before you continue on your violent rampage I'd suggest you get out of here while you still can.\n\nThe main gates are OPEN! 
+Text.Takeover	Você ativou a tomada de controle da prisão! Antes de continuar a desencadear sua violência desenfreada, sugiro que saia daqui enquanto ainda pode. \n\nAs portas principais estão ABERTAS!
 	
-text.help.soilfail	Are you really trying to fill the holes in underground with soil? I suggest you find somewhere more apt to dispose of such an item!
+text.help.soilfail	Você está tentando preencher os buracos com sujeira? Eu sugiro que você encontre outro lugar mais adequado para se livrar disso!
 	
-Text.MapObject.Generator	Generator
+Text.MapObject.Generator	Gerador
 	
-Text.Exit.New	Do you wish to return to the main menu?
-Text.Load.New	Do you wish to load the save from the start of the day?
+Text.Exit.New	Quer voltar ao menu principal?
+Text.Load.New	Quer carregar o jogo desde o início do dia?
 	
-Text.Inmates.StartFollow	Let's do this
-Text.Inmates.StopFollow	We'll catch up later
+Text.Inmates.StartFollow	Vamos nos encrencar.
+Text.Inmates.StopFollow	Conversaremos mais tarde, ok?
 	
-Text.Inmate.WhoShouldIAttack	It's not a problem to dish out beatings
+Text.Inmate.WhoShouldIAttack	Não é um problema distribuir surras
 	
-Text.Bruce.Music	Music
-Text.Bruce.SFX	Sound FX
-Text.Bruce.Credits	Credits
+Text.Bruce.Music	Música
+Text.Bruce.SFX	Efeitos sonoros
+Text.Bruce.Credits	Créditos
 	
-Text.Message.NPCInventoryFull	Inventory is full!
+Text.Message.NPCInventoryFull	O inventário está cheio!
 	
-Text.Dream.WakeUp1	$name. . .
-Text.Dream.WakeUp2	$name wake up. . .
-Text.Dream.WakeUp3	$name. . .
-Text.Dream.WakeUp4	Wake up $name, you're dreaming. . .
+Text.Dream.WakeUp1	$name...
+Text.Dream.WakeUp2	$name, acorda...
+Text.Dream.WakeUp3	$name...
+Text.Dream.WakeUp4	Acorde $name, você está sonhando...
 	
 Text.Credits.Original.People	Chris Davis
 	
@@ -2335,15 +2335,15 @@ Text.Credits.QA.People	Andy Aveyard, Danny Martin, Darren Eggerton, Dean Knight,
 	
 Text.Credits.Thanks.People	Ankit Arora, Boris Vaugenot, Craig Spiers, Craig Thomas
 	
-Text.Controls.Climb	Climb / Stats
+Text.Controls.Climb	Subir / Estatísticas
 	
-Text.Dig.Busted.Dirt	Use soil on a hole to conceal it!
+Text.Dig.Busted.Dirt	Use a sujeira em um buraco para escondê-lo!
 	
-Text.Hole.Desk.Hide	Place a desk on top of a hole within your cell to conceal it!
+Text.Hole.Desk.Hide	Coloque uma mesa sobre um buraco dentro de sua cela para escondê-la!
 	
-Text.Busted.Help.Tip1	Remember to keep in mind the following 
-Text.Busted.Help.Tip2	Crafting the following item might help you next time
-Text.Busted.Help.Tip3	Why not try crafting and using this next time
+Text.Busted.Help.Tip1	Não se esqueça de manter isso em mente: 
+Text.Busted.Help.Tip2	Criar este objeto pode ajudá-lo na próxima vez.
+Text.Busted.Help.Tip3	Por que não tentar fazer e usar na próxima vez?
 	
 Text.Empty0	
 Text.Empty1	
@@ -2425,19 +2425,19 @@ Text.CD48	Coordenador de trabalhos
 Text.CD49	Equipe da Enfermaria
 Text.CD50	Visitante
 	
-Text.Container	Container
+Text.Container	Recipiente
 	
-Text.Inmates.Desk.Alert1	HEY!
-	
-	
+Text.Inmates.Desk.Alert1	EI VOCÊ!
 	
 	
-Text.UI.NoCraftedItems	No Crafted Items
+	
+	
+Text.UI.NoCraftedItems	Sem objetos
 	
 	
 Text.ui.aditionalContent	Conteúdo Bônus
 	
-Text.New.Button.DLC	New
+Text.New.Button.DLC	Nova
 	
 Image.Alcatraz.Upsell	NewPrisonAvailable_English
 	
@@ -3517,11 +3517,11 @@ Text.Presence.InGamePrison123pri	Absolutely loving the scenic views, coming up w
 Text.DLC.LeTrou.NameAF	Paris Central Pen
 	
 	
-Text.Item.ZiplineHook	Zipline Hook
+Text.Item.ZiplineHook	Gancho para tirolesa
 Text.UI.PlayTutorial	Você gostaria de jogar o nível tutorial primeiro?
 Text.Help.Gym.CallOut	Alternar entre (LT) e (RT)
 	
-Text.AutoSave	Este jogo possui salvamento automaticamente. Não desligue o console durante a animação deste símbolo.
+Text.AutoSave	Este jogo possui salvamento automatico. Não desligue o console durante a animação deste símbolo.
 	
 Text.ControllerDisconnected	Controle desconectado
 Text.NewGame.Warning	Começar um novo jogo substituirá seu progresso atual para esta prisão. Você deseja continuar? 
@@ -3537,7 +3537,7 @@ Text.Presence.EscapedPrisonFhurstPeak	Get out there and enjoy the REAL views! Es
 Text.Presence.InGamePrisonFhurstPeak	Absolutely loving the scenic views, coming up with a plan to escape Fhurst Peak, Day %DAY%
 Text.DLC.FhurstPeak.NameAF	Fhurst Peak Correctional Facility
 	
-Text.Credits.Switch	Nintendo Switch™ Port
+Text.Credits.Switch	Nintendo Switch™ Port - Traduções GBJ
 	
 Text.Credits.Switch.Dev.People	Emma Bates, Rafael Zacharias, Mikolaj Panasiuk, Adam Findlay, Matt Burnill
 Text.Credits.Switch.Sup.People	Dave Smethurst, Kelvin Aston, David Wood, Kevin Carthew, Adam Riley, Daniel Stacey
