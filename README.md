@@ -1,4 +1,4 @@
-## Port em andamento...80%
+## Port em andamento...100% DLC...10%
 
 <h1 align="center"><figure>
   <img src="the-escapists-complete-edition.png">
