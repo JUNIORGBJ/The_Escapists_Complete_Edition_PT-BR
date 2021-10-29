@@ -1686,7 +1686,7 @@ Text.Controls.DiscardDrop	Derrubar
 Text.Item.PaperMache	Papel machê
 Text.Quest.UI.cancel	Tem certeza de que deseja desistir deste favor? 
 	
-Text.Tutorial.Welcome.Perks	Caro $NAME$,\n\nseja bem-vindo à Center Perks - a mais confortável prisão de baixa segurança do condado. Em nome de toda nossa equipe, desejamos que tenha ótimas experiencias aqui!\n\Caso enjoe de sua TV a cabo, temos várias outras atividades disponíveis na parte externa.\n\Abraços
+Text.Tutorial.Welcome.Perks	Caro $NAME$, \n\nseja bem-vindo à Center Perks - a mais confortável prisão de baixa segurança do condado. Em nome de toda nossa equipe, desejamos que tenha ótimas experiencias aqui! \n\nCaso enjoe de sua TV a cabo, temos várias outras atividades disponíveis na parte externa.\n\nAbraços
 	
 Text.Tip24New	Lençóis e travesseiros podem ser removidos das camas
 Text.Tip26New	Verifique a integridade de um item para ver por quanto tempo ele será útil
