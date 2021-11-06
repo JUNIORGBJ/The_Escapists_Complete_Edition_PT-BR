@@ -1525,14 +1525,14 @@ Text.NPC.Jobstaff2	Oferecemos bons salários!
 Text.NPC.Jobstaff3	Sempre tem lugar para mais um na equipe
 Text.NPC.Jobstaff4	Venha, não seja tímido
 Text.NPC.Jobstaff5	Cumpra sua sentença com honra, arrume um emprego!
-Text.NPC.Jobstaff6	A industria carceraria sempre precisa de mais um!
+Text.NPC.Jobstaff6	A indústria carcerária sempre precisa de mais um!
 Text.NPC.Jobstaff7	Imagine como um emprego na prisão faria bem à sua ficha criminal!
 Text.NPC.Jobstaff8	Um dia duro de trabalho faz com que nos sintamos melhor
 Text.NPC.Jobstaff9	Nada melhor que trabalho honesto
 Text.NPC.Jobstaff10	Nada supera trabalho justo e honesto
 Text.NPC.Jobstaff11	Você verá como nossos empregos são interessantes!
 Text.NPC.Jobstaff12	Motivação? Isso não vale nada.
-Text.NPC.Jobstaff13	Construa sua carreira de um modo que orgulhe-se dela.
+Text.NPC.Jobstaff13	Construa sua carreira de um modo que se orgulhe dela.
 Text.NPC.Jobstaff14	Deixe seus companheiros de cela verdes de inveja; solicite uma vaga agora mesmo!
 Text.NPC.Jobstaff15	Segurança? Desnecessário.
 Text.NPC.Jobstaff16	Salários imperdíveis, a partir de $1 por dia!
@@ -1561,7 +1561,7 @@ Text.NPC.Warden6	Limpe sua alma
 Text.NPC.Warden7	Chore pelo leite derramado!
 Text.NPC.Warden8	O arrependimento iluminará vocês.
 Text.NPC.Warden9	Podemos fazer alguns cortes por aqui...
-Text.NPC.Warden10	Olha que cambada de ratos..
+Text.NPC.Warden10	Olha que cambada de ratos...
 Text.NPC.Warden11	Eu ando no meio de vocês e não sinto nojo!
 Text.NPC.Warden12	Vou reportar isso.
 Text.NPC.Warden13	Eu dei meu próprio sangue pra construir esse lugar.
@@ -1670,10 +1670,10 @@ Text.Jobs.Laundry.Description	Pegue as roupas sujas no contêiner da lavanderia 
 Text.Jobs.WoodShop.Description	Pegue tábuas do contêiner na madeireira e transforme-os em móveis. Coloque o produto final no contêiner de móveis.
 Text.Jobs.Kitchen.Description	Pegue a comida congelada no freezer e coloque-as no forno. Após cozidas, pegue-as e coloque nas bandejas, na cantina.
 Text.Jobs.Janitor.Description	Pegue um esfregão ou uma vassoura da sala dos zeladores e use para limpar toda e qualquer sujeira que encontrar na prisão.
-Text.Jobs.Librarian.Description	Pegue os livros da biblioteca e os entregue ao companheiro indicado. Você pode entregá-lo pessoalmente ou deixá-lo PRÓXIMO a escrivaninha(NÃO DENTRO).
+Text.Jobs.Librarian.Description	Pegue os livros da biblioteca e os entregue ao companheiro indicado. Você pode entregá-lo pessoalmente ou deixá-lo PRÓXIMO a escrivaninha (NÃO DENTRO).
 Text.Jobs.MetalShop.Description	Pegue as chapas de metal do contêiner na oficina e use eles nas prensas para criar placas. Coloque as placas prontas no contêiner indicado.
 Text.Jobs.MailMan.Description	Pegue as cartas da sala de correspondências e entregue aos destinatários. Você pode entregar pessoalmente ou nas suas celas.
-Text.Jobs.Gardener.Description	Pegue uma enxada na sala dos jardineiros para remover to remove todas essas ervas malignas do nosso pátio.
+Text.Jobs.Gardener.Description	Pegue uma enxada na sala dos jardineiros para remover todas essas ervas malignas do nosso pátio.
 Text.Jobs.OutfitMaking.Description	Pegue os itens do contêiner do equipamento, use a agulha e a linha com um pedaço de tecido para criar itens de roupa. Coloque as peças de roupa no recipiente designado.
 Text.Jobs.Unloading.Description	Pegue as caixas entregues do caminhão, em seguida combine as cores, coloque esses itens em seus recipientes designados.
 	
@@ -1686,7 +1686,7 @@ Text.Controls.DiscardDrop	Derrubar
 Text.Item.PaperMache	Papel machê
 Text.Quest.UI.cancel	Tem certeza de que deseja desistir deste favor? 
 	
-Text.Tutorial.Welcome.Perks	Caro $NAME$, \n\nseja bem-vindo à Center Perks - a mais confortável prisão de baixa segurança do condado. Em nome de toda nossa equipe, desejamos que tenha ótimas experiencias aqui! \n\nCaso enjoe de sua TV a cabo, temos várias outras atividades disponíveis na parte externa.\n\nAbraços
+Text.Tutorial.Welcome.Perks	Caro $NAME$, \n\nseja bem-vindo à Center Perks - a mais confortável prisão de baixa segurança do condado. Em nome de toda nossa equipe, desejamos que tenha ótimas experiencias aqui! \n\nCaso enjoe de sua TV a cabo, temos várias outras atividades disponíveis na parte externa. \n\nAbraços
 	
 Text.Tip24New	Lençóis e travesseiros podem ser removidos das camas
 Text.Tip26New	Verifique a integridade de um item para ver por quanto tempo ele será útil
@@ -1695,7 +1695,7 @@ Text.Tip29New	Pendure um lençol nas barras da cela para evitar que olhos curios
 Text.Guard.ReceiveContraband	Oh, obrigada! Meu pequeno pomo.
 	
 Text.Tutorial.Controls.Intro	Bem-vindo ao Center Perks! Estes são os princípios básicos de que você precisa para guiar seu escapista pela prisão!
-Text.Help.Tutorial.Routine	A vida na prisão é cheia de rotinas; Respeite-os e os guardas o deixarão em paz enquanto você trama sua fuga.
+Text.Help.Tutorial.Routine	A vida na prisão é cheia de rotinas; respeite-os e os guardas o deixarão em paz enquanto você trama sua fuga.
 Text.Help.Tutorial.Controls.Title	Bem-vindo a @!
 Text.Help.Tutorial.Controls	Estes são os princípios básicos de que você precisa para guiar seu aspirante a escapar da prisão!
 Text.Help.Tutorial.Move	para mover seu escapista.
@@ -1719,7 +1719,7 @@ Text.Guards.PerksRollCallStart3	Olá pessoal!
 Text.Guards.PerksRollCallStart5	Perdão, estou atrasado.
 Text.Guards.PerksRollCallStart6	Silencio por favor
 Text.Guards.PerksRollCallStart7	Quietos, por favor.
-Text.Guards.PerksRollCallStart9	Qualé pessoal...
+Text.Guards.PerksRollCallStart9	Qual é pessoal...
 Text.Guards.PerksRollCallStart10	Muito bem
 Text.Guards.PerksRollCallStart11	Certo...
 Text.Guards.PerksRollCallStart12	Pessoal...
@@ -1760,7 +1760,7 @@ Text.Guards.PerksRollCallMain32	Não tenham medo de pedir abraços.
 Text.Guards.PerksRollCallMain33	Nossa maior preocupação é a necessidade de vocês
 Text.Guards.PerksRollCallMain34	Pelo visto, alguém escapou, mas já está de volta.
 Text.Guards.PerksRollCallMain35	Muitos fugitivos daqui voltam por vontade própria
-Text.Guards.PerksRollCallMain36	'A vida não é fácil'; isso não aplica-se aqui.
+Text.Guards.PerksRollCallMain36	'A vida não é fácil'; isso não se aplica aqui.
 Text.Guards.PerksRollCallMain37	Aqui é a verdadeira vida boa
 Text.Guards.PerksRollCallMain38	Tenha orgulho de onde está
 Text.Guards.PerksRollCallMain39	Bom, ganhamos outro prêmio
@@ -1770,7 +1770,7 @@ Text.Guards.PerksRollCallMain41	Vamos à um assunto mais importante...
 Text.Message.Fatigued	Você está muito cansado.
 Text.Message.TunnelSupports	Você deve escorar o túnel.
 	
-Text.Tutorial.Welcome.Shankton	Sejam bem-vindos à prisão de Shankton Pen, $NAME$. Seu novo lar no futuro próximo.\n\nDesde que sou o diretor, tivemos alguns escapistas ousados ​​entre nós, mas eles foram rapidamente capturados e punidos. Ninguém foge comigo no comando, então não tenha muitas esperanças!\n\nSe você esquecer alguma das regras, os gritos dos guardas ficarão mais do que felizes em lembrá-lo!
+Text.Tutorial.Welcome.Shankton	Sejam bem-vindos à prisão de Shankton Pen, $NAME$. Seu novo lar no futuro próximo. \n\nDesde que sou o diretor, tivemos alguns escapistas ousados ​​entre nós, mas eles foram rapidamente capturados e punidos. Ninguém foge comigo no comando, então não tenha muitas esperanças! \n\nSe você esquecer alguma das regras, os gritos dos guardas ficarão mais do que felizes em lembrá-lo!
 	
 Text.Guards.Disguise1	Nunca te vi antes
 Text.Guards.Disguise2	Acha que devíamos espancar esses otários?
@@ -1781,7 +1781,7 @@ Text.Guards.Disguise6	Estou planejando dar umas revistadas...
 Text.Guards.Disguise7	Nós somos a lei aqui
 Text.Guards.Disguise8	Alguém comeu todos biscoitos com sorvete
 Text.Guards.Disguise9	Tá afim de jogar boliche depois do expediente?
-Text.Guards.Disguise10	Bem vindo novato
+Text.Guards.Disguise10	Bem-vindo novato
 Text.Guards.Disguise11	Tome cuidado com esses malucos
 Text.Guards.Disguise12	Vâmo dar uma rondada
 	
@@ -1807,7 +1807,7 @@ Text.NPC.Medic5	Adrenalina e soro... tudo a mesma coisa, não acha?
 Text.Visitors.Thing	Você vê, o ponto é esse.
 Text.Visitors.Something	E há algo mais.
 	
-Text.Tutorial.Welcome.Stalag Luft	Então eles me mandam outra pessoa, hein? \n\nOlhe $NAME$, não preciso lembrar que Stalag Flucht é famosa por abrigar presos com uma fuga anterior então, se você está planejando sair daqui, pense duas vezes!\n\nAgora fique confortável, vai ser um inverno longo e frio.
+Text.Tutorial.Welcome.Stalag Luft	Então eles me mandam outra pessoa, hein? \n\nOlhe $NAME$, não preciso lembrar que Stalag Flucht é famosa por abrigar presos com uma fuga anterior então, se você está planejando sair daqui, pense duas vezes! \n\nAgora fique confortável, vai ser um inverno longo e frio.
 	
 Names.Inmates	Tasty, Rahool, Wolferine, Fraggdya, Boogie, Col, Boris, Bertrand, Andreas, Kel, Elliot, Alfie, Jack, Jackal, Karl,  Joe, Snake, Wheaty, Lewis, Taylor, Hips, Jonny, Alex, Geoff, Dom, Sam, Witcomb, Sox, Nalie, Tom,  Red, Fingers, Legs, Colin, Chris, Dogekit, Brucie, Wilesy, Gary, Chesh, Burnill, Cheddz, Phteven, Jegg, Oscar, Spinelli, Simon, Mike, Rich, Steve, Levi, Taylor, Martin, Gary, Shane, Darren, Adam, Lee, Craig, Matt, Stuart, Ricky, Trevor, Carl, Leeroy, Jared, Wayne, John, William, Edgar, Nick, Walder, Brad, Ross, Max, Paul, Hans, Clark, Hank, Walt, Pierre, Larcen, Ervin, Buster, Marcus, Whitney, Gregg, Chung, Rory, Marshall, Gil, Terrell, Odell, Samual, Lance, Raphael, Sang, Shelby, Rolando, Micah, Ronals, Noah, Liam, Jacob, Mason, Ethan, Michael, Alexander, Jayden, Daniel, Elijah, Aiden, James, Benjamin, Matthew, Jackson, Logan, David, Anthony, Joseph, Joshua, Andrew, Lucas, Isaac, Caleb, Henry, Carter, Hunter, Owen, Sebastian, Isaiah, Wyatt, Gavin, Julian, Aaron, Cameron, Tobias, Chase, Bentley, Xavier, Mick, Cooper, Luis, Jessie, Knuckles, Spud, Darwin, Brambles, Monty, Rabbit, Clive, Barker, Troy, Ledge, Santiago, Matias, Diego, Pedro, Samuel, Miguel, Alan, Nathan, Enzo, Timeo, Wolfgang, Punchy, Ferris, Jungen, Dieter, Jens, Jonas, Alexi, Albert, Anton, Vladimir, Vitaly
 Names.Guards	Guarda Morales, Guarda Heiko, Guarda Irwingvh, Guarda Merv, Guarda Stellan, Guarda Barnes, Guarda Bruce, Guarda Burnside, Guarda McClane, Guarda Bates, Guarda Darren, Guarda Le Veque, Guarda Lyons, Guarda Mickknew, Guarda Gazmoz, Guarda Rope, Guarda Radford, Guarda Eden, Guarda Torode, Guarda Homewood, Guarda Dibble, Guarda Wood, Guarda Chip, Guarda Tucker, Guarda Serpico 
@@ -1840,7 +1840,7 @@ Text.Busted.Why.Chip	Oh não. Os guardas encontraram evidências de sua predile�
 Text.Busted.Why.Light	O que é isso? Você precisa de um pouco de tempo para pensar. Claro, três dias de isolamento devem ser mais do que suficientes. Talvez você deva ficar longe da luz de agora em diante?
 Text.Busted.Why.Lockdown	*suspiro* Infelizmente para você, minha equipe avançada é perita em registrar rebeldes como você durante o fechamento de celas. Ele também terá a gentileza de acompanhá-lo até o isolamento, onde você ficará por três dias. Aproveite!
 Text.Busted.Why.Contraband	Quantas vezes? Nenhum contrabando é permitido nesta prisão. Fora da minha vista. GUARDAS! Coloque este homem em confinamento solitário por três dias para que ele possa refletir sobre suas ações.
-Text.Busted.Why.KeyOLD	Que má ideia foi roubar as chaves dos guardas? Você achou que não notaríamos? Venha ja! Você está indo direto para o isolamento, amigo. Uma adorável estadia de três dias. Passe bem!
+Text.Busted.Why.KeyOLD	Que má ideia foi roubar as chaves dos guardas? Você achou que não notaríamos? Venha já! Você está indo direto para o isolamento, amigo. Uma adorável estadia de três dias. Passe bem!
 	
 Text.Item.PlayerJournal	Diário de %name%
 	
@@ -1865,7 +1865,7 @@ Text.Shankton.Name	Shankton State Pen
 	
 text.perks.info	Considerada amplamente como a prisão mais descontraída do mundo, com suas celas luxuosas e muitos confortos domésticos. Por que alguém iria querer escapar daqui?
 text.stalag.info	A comida aqui servida não é a única coisa que é fria. Eu tentaria usar roupas de inverno para poder suportar as condições extremas!
-text.shankton.info	Esta prisão de segurança média é um osso duro de roer. Você terá que ficar de vigía para descobrir o plano de fuga perfeito. Boa sorte!
+text.shankton.info	Esta prisão de segurança média é um osso duro de roer. Você terá que ficar de vigia para descobrir o plano de fuga perfeito. Boa sorte!
 text.jungle.info	Calor, umidade, suor e desconforto. Estas são *exatamente* as condições desagradáveis ​​que o diretor cruel deseja que todos os prisioneiros sofram.
 text.sona.info	Uau, esta é uma prisão desagradável. Se você conseguir sobreviver por tempo suficiente para tramar um plano de fuga e até mesmo executá-lo, terá que fazer melhor do que a maioria dos condenados neste lugar infernal.
 text.alcatraz.info	A prisão mais cruel que você pode encontrar: esta prisão de segurança máxima avançada colocará até mesmo os fugitivos mais habilidosos ao limite absoluto.
@@ -1879,7 +1879,7 @@ Text.UI.Leaderboards.Player	Jogador
 Text.UI.Leaderboards.Score	Pontuação
 Text.UI.Leaderboards.Days	Dias
 	
-Text.UI.Leaderboards.NoScores	Ninguém se classificou neste placar.
+Text.UI.Leaderboards.NoScores	Ninguém se classificou nesse placar.
 Text.UI.Leaderboards.PlayerNotPosted	Você ainda não está classificado neste placar
 Text.UI.Leaderboards.FriendsNotPosted	Seus amigos ainda não estão classificados neste placar
 	
@@ -1920,7 +1920,7 @@ Text.Item.Cookie	Biscoito
 Text.Item.DentalFloss	Fio dental
 Text.Item.Dogtag	Placa de identificação
 Text.Item.DVD	DVD
-Text.Item.FamilyPhoto	Foto da familia
+Text.Item.FamilyPhoto	Foto da família
 Text.Item.Feather	Pluma
 Text.Item.GreenHerb	Erva verde
 Text.Item.HandCream	Creme para mãos
@@ -1949,7 +1949,7 @@ Text.BuyItem.WillSell	$NAME$ está disposto a vender, mas apenas porque gosta de
 Text.BuyItem.WontSell	$NAME$ não está disposto a vender. Talvez se ele gostasse mais de você.
 Text.Guard.Bribe	Não é suficiente!
 	
-text.start	para Iniciar
+text.start	para iniciar
 Text.Save.Body	Você gostaria de dormir até de manhã e salvar seu progresso atual?
 	
 Text.Message.CraftingNotEnoughIntellect	Você não tem inteligência suficiente para criar este item!
@@ -2023,21 +2023,21 @@ Text.HUD.Notes	Notas
 Text.Item.NeedleandThread	Agulha e linha
 Text.Item.Fabric	Tecido
 	
-Text.Help.Tutorial.MetalShop.BodyNEW	A industria de automóveis está florescendo! Mas a única coisa florescendo que irá ouvir será o som de placas sendo batidas. Quanto mais duro der nisso, mais cedo irei pegar meu pequeno conversível. \n\nPegue as chapas de metal do contêiner na oficina e use eles nas prensas para criar placas. Coloque as placas prontas no contêiner indicado.
+Text.Help.Tutorial.MetalShop.BodyNEW	A indústria de automóveis está florescendo! Mas a única coisa florescendo que irá ouvir será o som de placas sendo batidas. Quanto mais duro der nisso, mais cedo irei pegar meu pequeno conversível. \n\nPegue as chapas de metal do contêiner na oficina e use eles nas prensas para criar placas. Coloque as placas prontas no contêiner indicado.
 	
-Text.Help.Tutorial.WoodShop.BodyNEW	Servidos responsavelmente por nós, irresponsavelmente machucado pelo material. Nossa madeireira conseguiu um mercado para os móveis  ‘com inspiração vintage’. Não exigimos quaisquer habilidades, porém a prisão NÃO é responsável por cortes, fraturas e perdas de órgãos. \n\nPegue tábuas do contêiner na madeireira e transforme-os em móveis. Coloque o produto final no contêiner de móveis.
+Text.Help.Tutorial.WoodShop.BodyNEW	Servidos responsavelmente por nós, irresponsavelmente machucado pelo material. Nossa madeireira conseguiu um mercado para os móveis ‘com inspiração vintage’. Não exigimos quaisquer habilidades, porém a prisão NÃO é responsável por cortes, fraturas e perdas de órgãos. \n\nPegue tábuas do contêiner na madeireira e transforme-os em móveis. Coloque o produto final no contêiner de móveis.
 	
 Text.Help.Tutorial.Janitor.BodyNEW	Elimine qualquer má ação que tenha feito, e limpe o local! Quero que deixe cada andar, as fundações da SUA reforma, brilhando. \n\nPegue um esfregão ou uma vassoura da sala dos zeladores e use para limpar toda e qualquer sujeira que encontrar na prisão.
 	
-Text.Help.Tutorial.Unloading.BodyNEW	O conteúdo dessas caixas não é da sua preocupação. Eu só quero que você os transporte SEM CONSIDERAÇÕES para onde eles precisam ir. \n\nTire as caixas do caminhão e coloque-as nas lixeiras designadas de acordo com sua cor.
+Text.Help.Tutorial.Unloading.BodyNEW	O conteúdo dessas caixas não é da sua preocupação. Eu só quero que você os transportes SEM CONSIDERAÇÕES para onde eles precisam ir. \n\nTire as caixas do caminhão e coloque-as nas lixeiras designadas de acordo com sua cor.
 	
-Text.Help.Tutorial.Gardener.BodyNEW	O sonho de trabalhar ao ar livre. Entrar em contato com a natureza e toda essa merda. Introduza-se ás ervas daninhas que assolam nosso belo pátio. \n\nPegue uma enxada na sala dos jardineiros para remover to remove todas essas ervas malignas do nosso pátio.
+Text.Help.Tutorial.Gardener.BodyNEW	O sonho de trabalhar ao ar livre. Entrar em contato com a natureza e toda essa merda. Introduza-se às ervas daninhas que assolam nosso belo pátio. \n\nPegue uma enxada na sala dos jardineiros para remover to remove todas essas ervas malignas do nosso pátio.
 	
 Text.Help.Tutorial.Kitchen.BodyNEW	Os inspetores chamam de perigo, já eu chamo de 'rustica'. Nenhum olfato afiado é necessário. Não se preocupe com o estado de limpeza das suas mãos. \n\nPegue a comida congelada no freezer e coloque-as no forno. Após cozidas, pegue-as e coloque nas bandejas, na cantina.
 	
 Text.Help.Tutorial.MailMan.BodyNEW	ODEIO entregar más notícias, e é por isso que irá fazer isso por mim. \n\nPegue as cartas da sala de correspondências e entregue aos destinatários. Você pode entregar pessoalmente ou nas suas celas.
 	
-Text.Help.Tutorial.Librarian.BodyNEW	Dizem que a biblioteca tem poucos livros, mas posso lhe garantir que nossa coleção ‘modesta’ tem o melhor da literatura. Lá fora não se usa os insultos e gírias que usa-se aqui dentro. \n\nPegue os livros da biblioteca e os entregue ao companheiro indicado. Você pode entregá-lo pessoalmente ou deixá-lo PRÓXIMO a escrivaninha(NÃO DENTRO).
+Text.Help.Tutorial.Librarian.BodyNEW	Dizem que a biblioteca tem poucos livros, mas posso lhe garantir que nossa coleção ‘modesta’ tem o melhor da literatura. Lá fora não se usa os insultos e gírias que se usa aqui dentro. \n\nPegue os livros da biblioteca e os entregue ao companheiro indicado. Você pode entregá-lo pessoalmente ou deixá-lo PRÓXIMO a escrivaninha (NÃO DENTRO).
 	
 Text.Help.Tutorial.Outfit.BodyNEW	Esta prisão tem o orgulho de ter a famosa marca de roupas Adidoodoo e está empenhada em atender às suas expectativas de roupas de alta qualidade e feitas à mão. \n\nPegue os itens da caixa de ferramentas e use a agulha, linha e tecido para fazer roupas. Coloque as roupas acabadas no recipiente correspondente.
 	
@@ -2062,9 +2062,9 @@ Text.Guard.Carrying1	Ei você! Largue isso agora!
 Text.Guard.Carrying2	O que você está fazendo? Largue isso!
 Text.Guard.Carrying3	LARGUE ISSO, $name!
 	
-Text.Tutorial.Welcome.Jungle is Massive	Bem vindo á selva! \n\nA sociedade lhe considera um peso, então lhe colocamos bem longe dela. \n\nAntes de pensar em escapar, deixe me lembrá-lo que mesmo na remota chance de você passar pelas cercas, pelo muro, pelos jipes e pelo posto dos guardas, não há jeito de sobreviver lá fora...
+Text.Tutorial.Welcome.Jungle is Massive	Bem-vindo à selva \n\nA sociedade lhe considera um peso, então lhe colocamos bem longe dela. \n\nAntes de pensar em escapar, deixe me lembrá-lo que mesmo na remota chance de você passar pelas cercas, pelo muro, pelos jipes e pelo posto dos guardas, não há jeito de sobreviver lá fora...
 Text.Tutorial.Welcome.Sona	Está é a San Pancho, a mais grosseira, rigorosa e a prisão mais desagradável ao sul da fronteira. \n\nO calor escaldante e as condições claustrofóbicas fazem com que os presos fiquem violentos e agressivos. \n\nNem os guardas tentam entrar!
-Text.Tutorial.Welcome.alca	Ouça aqui seu merdinha. \n\nVocê sabe porque está aqui e não tem mais nem menos. Normalmente a mais temida prisão, HMP Irongate, será onde passará o resto da sua merda de existência insignificante. \n\nEscapar? Não me faça rir! Os imbecis que tentaram se encontraram com um monte de água, sem nenhuma outra visão. Ainda sim, quer tentar?
+Text.Tutorial.Welcome.alca	Ouça aqui seu merdinha. \n\nVocê sabe porque está aqui e não tem mais nem menos. Normalmente a mais temida prisão, HMP Irongate, será onde passará o resto da sua merda de existência insignificante. \n\nEscapar? Não me faça rir! Os imbecis que tentaram se encontraram com um monte de água, sem nenhuma outra visão. Ainda assim, quer tentar?
 	
 Text.Item.BoxA	Ganchos aéreos
 Text.Item.BoxB	Bolhas revitalizantes
@@ -2076,7 +2076,7 @@ Text.Lounge	Espreguiçadeira
 	
 Text.Item.Payphone	Telefone público
 	
-Text.Item.LightweightCutters	Alicates ligeros
+Text.Item.LightweightCutters	Alicates ligeiros
 Text.Item.SturdyCutters	Alicates robustos
 	
 Text.Item.FlimsyPickAxe	Picareta Frágil
@@ -2097,7 +2097,7 @@ Text.Map.Jungle.NoDisguise4	VOCÊ NÃO PASSARÁ!
 Text.Map.Jungle.NoDisguise5	Código vermelho no posto de controle!
 	
 Text.Map.Jungle.YesDisguise1	Tenha um bom dia!
-Text.Map.Jungle.YesDisguise2	Ate amanha!
+Text.Map.Jungle.YesDisguise2	Até amanhã!
 Text.Map.Jungle.YesDisguise3	Você saiu na hora certa, hein? Cuidado!
 Text.Map.Jungle.YesDisguise4	Bons tempos!
 Text.Map.Jungle.YesDisguise5	Até logo, educador criminal!
@@ -2129,7 +2129,7 @@ Text.NPC.MedicName	Doutor
 	
 Text.UI.Quest.RetrieveItem	Remover $item do $subject.
 Text.UI.Quest.GiveItem	Dar $item para $giver.
-Text.UI.Quest.Offer.RetrieveItem1	$giver: Um tempo atrás, eu dei a $subject meu $item. Desde então, tenho me sentido péssimo; Tire isso dele!
+Text.UI.Quest.Offer.RetrieveItem1	$giver: Um tempo atrás, eu dei a $subject meu $item. Desde então, tenho me sentido péssimo; tire isso dele!
 Text.UI.Quest.Offer.RetrieveItem2	$giver: $subject e seus amigos extorquiram $item de mim. Eu só quero tirar isso dele!
 Text.UI.Quest.Offer.GiveItem1	$giver: Estou procurando por este: $item. Você poderia trazer para mim? Eu agradeceria do fundo do meu coração!
 	
@@ -2151,7 +2151,7 @@ Text.Message.InventoryFull	Seu inventário está cheio!
 	
 Text.ui.next 	Personalizar
 	
-Text.Tutorial.Welcome.HMP Calder Island	Ouça aqui seu merdinha. \n\nVocê sabe porque está aqui e não tem mais nem menos. Normalmente a mais temida prisão, HMP Irongate, será onde passará o resto da sua merda de existência insignificante. \n\nEscapar? Não me faça rir! Os imbecis que tentaram se encontraram com um monte de água, sem nenhuma outra visão. Ainda sim, quer tentar?
+Text.Tutorial.Welcome.HMP Calder Island	Ouça aqui seu merdinha. \n\nVocê sabe porque está aqui e não tem mais nem menos. Normalmente a mais temida prisão, HMP Irongate, será onde passará o resto da sua merda de existência insignificante. \n\nEscapar? Não me faça rir! Os imbecis que tentaram se encontraram com um monte de água, sem nenhuma outra visão. Ainda assim, quer tentar?
 	
 Text.Tutorial.RoofHeader	AVISO!
 Text.Tutorial.RoofInDayTime	Presos em telhados NÃO serão tolerados. Durante o dia, os telhados são vigiados de perto por franco-atiradores de elite, armados até os dentes com balas de borracha.
@@ -2217,7 +2217,7 @@ Text.HUD.Toilet	objetos no banheiro
 	
 text.ui.move	Mover / Destacar
 text.ui.names	Mostrar nomes
-text.ui.interact	Falar / Interajir
+text.ui.interact	Falar / Interagir
 text.ui.crafting	Criação
 text.ui.fight	Lutar / usar / coletar
 text.ui.drop	Soltar
@@ -2280,7 +2280,7 @@ text.menu.help5
 	Perfil do jogador
 	Seleção rápida da arma atual
 	Criar
-	Diario
+	Diário
 	Menu do jogo sim/não
 	Contato
 	Resumo
@@ -2404,13 +2404,13 @@ Text.CD27	Internet
 Text.CD28	Arquivos da Sala de Correspondências
 Text.CD29	Caminhão de entrega
 Text.CD30	Escrivaninha vazia
-Text.CD31	Laminas de Metal
+Text.CD31	Lâminas de Metal
 Text.CD32	Respiradouro
 Text.CD33	Grade Falsa Cover
 Text.CD34	TV a cabo
 Text.CD35	Cama da Solitária
 Text.CD36	Visitas
-Text.CD37	arede Falsa
+Text.CD37	Parede Falsa
 Text.CD38	Concreto reforçado
 Text.CD39	Quebrar a Parede [action]
 Text.CD40	Cortar cercas [action]
@@ -2443,7 +2443,7 @@ Image.Alcatraz.Upsell	NewPrisonAvailable_English
 	
 	
 Text.Visitor.Greet.Kowalski.1	Er... Senhor?
-Text.Visitor.Greet.Kowalski.2	Bem, eu. .
+Text.Visitor.Greet.Kowalski.2	Bem, eu...
 Text.Visitor.Greet.Kowalski.3	Senhor, você se importa...?
 Text.Visitor.Greet.Kowalski.4	O chefe me enviou...
 	
@@ -2463,10 +2463,10 @@ Text.Item.Barrel	Penarium Barrel
 Text.NPC.Warden.PenariumName	O mestre de cerimônias
 Text.NPC.Warden.Penarium.1	Sob MINHA orientação, você tentará se tornar um dos melhores competidores!
 Text.NPC.Warden.Penarium.2	Tudo que você precisa fazer é sobreviver. Quão difícil isso pode ser?
-Text.NPC.Warden.Penarium.3	Sobreviver é muito fácil quando ninguem está atirando em você!
+Text.NPC.Warden.Penarium.3	Sobreviver é muito fácil quando ninguém está atirando em você!
 Text.NPC.Warden.Penarium.4	Eles querem que você os ENTRETENHA!
 Text.NPC.Warden.Penarium.5	Bem-vindo à extravagância sádica do circo... PENÁRIO!
-Text.NPC.Warden.Penarium.6	Eu sou *Tio*  de um cara engraçado...
+Text.NPC.Warden.Penarium.6	Eu sou *Tio* de um cara engraçado...
 Text.NPC.Warden.Penarium.7	Você nunca deixa de me surpreender!
 Text.NPC.Warden.Penarium.8	É hora dos BALÕES DE SANGUE! Gnahahuhah!
 Text.NPC.Warden.Penarium.9	MOSTRE-NOS O QUE TENS!
@@ -2494,7 +2494,7 @@ Text.Credits.Jimmy	Em memória de Jimmy
 	
 Text.DLC.Alcatraz.Name	Alcatraz
 Text.DLC.Alcatraz.Info	Bem-vindo a Alcatraz! Se você já pensou 'não seria bom ficar longe de tudo?' então você veio ao lugar certo. Digamos apenas que esta ilha dificilmente é um paraíso. Boa sorte!
-Text.Tutorial.Welcome.Alcatraz	Bem, nunca. \n\nDe todas as prisões do mundo, você foi e foi parar na minha. Agora, eu realmente não quero diminuir seu ânimo vendo que você é o cara novo por aqui, mas francamente - é isso. \n\nVocê nunca vai deixar esta ilha e ver o resto de seus dias com eu e meus meninos. \n\nAproveite sua estadia, punk.
+Text.Tutorial.Welcome.Alcatraz	Bem, nunca. \n\nDe todas as prisões do mundo, você foi e foi parar na minha. Agora, eu realmente não quero diminuir seu ânimo vendo que você é o cara novo por aqui, mas francamente - é isso. \n\nVocê nunca vai deixar esta ilha e ver o resto de seus dias comigo e meus meninos. \n\nAproveite sua estadia, punk.
 Text.Help.Gym.Alcatraz	Use o banco de pesos e a esteira para aumentar suas estatísticas de FORÇA e VELOCIDADE - pegue o equipamento desejado e, usando pressões rápidas, alterne entre (LT) e (RT) para se fortalecer!
 	
 Text.Presence.EscapedPrison101pri	Do lado de fora de Alcatraz! Dia %DAY%
@@ -2505,7 +2505,7 @@ Text.DLC.Alcatraz.NameAF	Alcatraz
 	
 Text.DLC.ETeam.Name	Escape Team
 Text.DLC.ETeam.Info	Preso por um crime que não cometeu... Pelo visto! Você e sua equipe de três pessoas precisam destruir este lugar. Vai ser preciso trabalho em equipe e inteligência para sair dessa. Boa sorte!
-Text.Tutorial.Welcome.ETeam	Se você está lendo esta carta, então nosso homem por dentro não morreu em vão. \n\nVai dar muito trabalho para escapar deste lugar. \n\nUma coisa que nosso homem nos disse é Certifique-se de que alguns itens de que você precisa estejam marcados para que você possa identificar suas localizações. \n\nA inteligência prévia sugere que há itens suficientes para você procurar e usar para forçar uma fuga. \n\nBoa sorte - mantenha os olhos abertos ; é sempre uma opção "tanque" para sair daqui.
+Text.Tutorial.Welcome.ETeam	Se você está lendo esta carta, então nosso homem por dentro não morreu em vão. \n\nVai dar muito trabalho para escapar deste lugar. \n\nUma coisa que nosso homem nos disse é Certifique-se de que alguns itens de que você precisa estejam marcados para que você possa identificar suas localizações. \n\nA inteligência prévia sugere que há itens suficientes para você procurar e usar para forçar uma fuga. \n\nBoa sorte - mantenha os olhos abertos; é sempre uma opção "tanque" para sair daqui.
 Text.Help.Gym.ETeam	Use o banco de pesos e a esteira para aumentar suas estatísticas de FORÇA e VELOCIDADE - pegue o equipamento desejado e, usando pressões rápidas, alterne entre (LT) e (RT) para se fortalecer!
 	
 Text.Inmates.Banter.BA.1	Cale-se!
@@ -2537,7 +2537,7 @@ Text.Inmates.Showers.Chev.3	as garotas vão me amar todo limpo... Quando sairmos
 Text.Inmates.Showers.Chev.4	Eu sou um provocador!
 Text.Inmates.Showers.Chev.5	É como uma massagem relaxante com água... Definitivamente, minha parte favorita do dia!
 	
-Text.Inmates.Showers.Merv.1	Me lembra de chuva... Nós treinamos. Sim... Isso me lembra água! AGUA!
+Text.Inmates.Showers.Merv.1	Me lembra de chuva... Nós treinamos. Sim... Isso me lembra água! ÁGUA!
 Text.Inmates.Showers.Merv.2	Imagine a vida sem água. Agora *ISSO* seria estranho!
 Text.Inmates.Showers.Merv.3	Espaço para um rapazinho maluco?
 Text.Inmates.Showers.Merv.4	Venha para chuva comigo!
@@ -2652,7 +2652,7 @@ Text.Item.TrashBag	Saco de lixo
 Eteam.HUD.TankCrafting	Instruções de construção
 Eteam.Tank.Progress.TurretClue	Você precisa de uma torre improvisada primeiro!
 Eteam.Tank.Progress.ExplosiveClue	Você precisa de uma Rodada Explosiva Improvisada em seguida!
-Eteam.Tank.Progress.FuseClue	Em seguida, você precisa de um fusível improvisado! \n\n...Você honestamente achou que diríamos a você como fazer um desses *também* ?!
+Eteam.Tank.Progress.FuseClue	Em seguida, você precisa de um fusível improvisado! \n\n...Você honestamente achou que diríamos a você como fazer um desses *também*?!
 	
 	
 Text.ETeam1	Barril improvisado do tanque HOMEM!
@@ -2675,8 +2675,8 @@ Text.DLC.ETeam.NameAF	Escape Team
 	
 	
 Text.DLC.DTAF.Name	As fitas adesivas são eternas
-Text.DLC.DTAF.Info	Você e seus presos presos espiões foram presos por um gênio cruel, mas do mal. Será preciso mais cérebro do que força para descobrir como escapar desse covil!
-Text.Tutorial.Welcome.DTAF	Preste atenção, senhor, você precisará buscar o equipamento necessário nesta base para 'lançar' o seu caminho para fora daqui. \n\nUm dos outros agentes falsos conseguiu nos fornecer algumas informações boas e nos conseguiu essas fotos, com as palavras 'Tubarões' e 'Martelos' rabiscadas atrás delas. As palavras são totalmente *inúteis*, mas as imagens, não. \n\nBoa sorte, todos dependemos de você!
+Text.DLC.DTAF.Info	Você e seus detentos espiões foram presos por um gênio cruel, do mal. Será preciso mais cérebro do que força para descobrir como escapar desse covil!
+Text.Tutorial.Welcome.DTAF	Preste atenção, senhor, você precisará buscar o equipamento necessário nesta base para 'lançar' o seu caminho para fora daqui. \n\nUm dos outros agentes falsos conseguiu nos fornece algumas informações boas e nos conseguiu essas fotos, com as palavras 'Tubarões' e 'Martelos' rabiscadas atrás delas. As palavras são totalmente *inúteis*, mas as imagens, não. \n\nBoa sorte, todos dependemos de você!
 Text.Help.Gym.DTAF	Preste atenção, senhor, você precisará encontrar o equipamento necessário nesta base para 'lançar' seu caminho para fora Use o banco de pesos e a esteira para aumentar suas estatísticas de FORÇA e VELOCIDADE - entre no equipamento desejado e usando pressões rápidas , alterne entre (LT) e (RT) para se fortalecer!
 	
 Text.Inmates.Banter.DTAF.1	Cale-se!
@@ -2740,7 +2740,7 @@ Text.Inmates.Banter.DTAF.54	Eu nunca fui tão insultado!
 Text.Inmates.Showers.DTAF.1	A sensação em todo o meu corpo é o dobro do CÉU!
 Text.Inmates.Showers.DTAF.2	Estou à vontade com a grande quantidade de cavalheiros aqui
 Text.Inmates.Showers.DTAF.3	A temperatura da água é mais confortável
-Text.Inmates.Showers.DTAF.4	Não sou contrario em compartilhar um espaço tão fechado
+Text.Inmates.Showers.DTAF.4	Não sou contrário em compartilhar um espaço tão fechado
 Text.Inmates.Showers.DTAF.5	Ei! Belos troncos
 Text.Inmates.Showers.DTAF.6	Eu não trouxe meu equipamento de mergulho!
 Text.Inmates.Showers.DTAF.7	Você sempre toma banho com pistola d'água?
@@ -2756,7 +2756,7 @@ Text.Inmates.Showers.DTAF.16	Você está invadindo meu espaço pessoal
 Text.Inmates.Showers.DTAF.17	Qualquer condicionador?
 Text.Inmates.Showers.DTAF.18	Fiz muitos amigos aqui
 Text.Inmates.Showers.DTAF.19	Bem, isso é romântico
-Text.Inmates.Showers.DTAF.20	Oh, fique quieto
+Text.Inmates.Showers.DTAF.20	Oh, fica quieto
 Text.Inmates.Showers.DTAF.21	Algo errado?
 Text.Inmates.Showers.DTAF.22	Não vou dormir esta noite agora
 Text.Inmates.Showers.DTAF.23	Que dia!
@@ -2778,7 +2778,7 @@ Text.Inmates.Gym.DTAF.5	Pelo menos o vilão que comanda esse lugar tem excelente
 Text.Inmates.Gym.DTAF.6	Tenho certeza que podemos resolver isso
 Text.Inmates.Gym.DTAF.7	Estou feliz em trabalhar ao lado de um homem como você
 Text.Inmates.Gym.DTAF.8	Mim? Claro que adoro um bom treino!
-Text.Inmates.Gym.DTAF.9	Bem, um de nós cheira a cueca de um binman!
+Text.Inmates.Gym.DTAF.9	Um de nós tem cheiro de cueca de lata de lixo.
 Text.Inmates.Gym.DTAF.10	Estou me controlando
 Text.Inmates.Gym.DTAF.11	*Rugido*
 Text.Inmates.Gym.DTAF.12	Não estou nem tenso
@@ -2793,7 +2793,7 @@ Text.Inmates.Gym.DTAF.20	Eu não devo deixar as coisas ficarem em cima de mim
 Text.Inmates.Gym.DTAF.21	Isso é uma tortura!
 Text.Inmates.Gym.DTAF.22	Devo permanecer forte!
 Text.Inmates.Gym.DTAF.23	Correr na
-Text.Inmates.Gym.DTAF.24	Não limpá-lo depois é simplesmente, covardia!
+Text.Inmates.Gym.DTAF.24	Não o limpar depois é simplesmente, covardia!
 Text.Inmates.Gym.DTAF.25	O verdadeiro vilão aqui é a escolha da música
 Text.Inmates.Gym.DTAF.26	Eu estarei levantando aquele foguete próximo
 Text.Inmates.Gym.DTAF.27	Posso estar abalado, mas não serei dissuadido!
@@ -2891,7 +2891,7 @@ Text.Presence.InGamePrison104pri	Pensando em um super plano! Dia %DAY%
 	
 Text.Item.ShoeKnife	Faca para sapatos
 Text.Item.WireWatch	Relógio de arame de estrangular
-Text.Item.LaserWatch	Relogio a laser de Corte
+Text.Item.LaserWatch	Relógio a laser de Corte
 Text.Item.VoiceRecording	Gravador de voz
 Text.Item.BombSuprise	Bomba Surpresa 
 Text.Item.FlameThrower	Lançador de chamas escondido
@@ -2937,7 +2937,7 @@ Text.Visitor.Greet.DTAF.2	Olá, camponês...
 Text.Visitor.Greet.DTAF.3	Olá docinho...
 Text.Visitor.Greet.DTAF.4	Ooh belo terno, idiota!
 Text.Visitor.Greet.DTAF.5	Eu nem sei por que vim aqui... Ola de qualquer maneira
-Text.Visitor.Greet.DTAF.6	Ahaaa, Sr.. . Qual é o seu nome mesmo?
+Text.Visitor.Greet.DTAF.6	Ahaaa, Sr... Qual é o seu nome mesmo?
 Text.Visitor.Greet.DTAF.7	Estava te esperando! Ou você estava me esperando, tanto faz!
 	
 	
@@ -2949,7 +2949,7 @@ Text.Visitor.Banter.DTAF.3	Este lugar parece um pouco pesado para o meu gosto...
 Text.Visitor.Banter.DTAF.4	As pessoas estão me culpando por você estar aqui... Mas não sei...
 Text.Visitor.Banter.DTAF.5	Aposto que você está sozinho, não é? *Real* solitário...
 Text.Visitor.Banter.DTAF.6	Não se preocupe. Eu também não deveria estar aqui...
-Text.Visitor.Banter.DTAF.7	Spy é pego, Spy fica sozinho... Existem muitos espiões aqui. Mas não sei...
+Text.Visitor.Banter.DTAF.7	Espião que é capturado, espião que se sente solitário... Há muitos espiões aqui. Não sei...
 Text.Visitor.Banter.DTAF.8	Aposto que você está ansioso para a hora do 'banho', não é?
 Text.Visitor.Banter.DTAF.9	A única coisa secreta sobre você agora é o que você faz à noite.
 Text.Visitor.Banter.DTAF.10	Você tem permissão para dormir com a luz acesa?
@@ -2968,14 +2968,14 @@ Text.Visitor.Banter.DTAF.22	O número de gênios do mal está aumentando. Agente
 Text.Visitor.Banter.DTAF.23	Você sempre disse que seu lugar favorito era lá dentro...
 Text.Visitor.Banter.DTAF.24	Você sabe o quanto foi doloroso chegar aqui, certo?
 Text.Visitor.Banter.DTAF.25	Bases subterrâneas escondidas me levam a uma erupção. Cansado disso.
-Text.Visitor.Banter.DTAF.26	Por mais mau que seja o seu captor, ele certamente tem excelentes instalações.
+Text.Visitor.Banter.DTAF.26	Por mais mal que seja o seu captor, ele certamente tem excelentes instalações.
 Text.Visitor.Banter.DTAF.27	Não ria, mas estou de olho em um daqueles capangas espalhafatosos lá fora...
 	
 	
 Text.Visitor.Leave.DTAF.1	Espero que você não acabe apodrecendo aqui... Tchau
 Text.Visitor.Leave.DTAF.2	Tenho que ir. Preciso devolver algumas fitas de vídeo.
 Text.Visitor.Leave.DTAF.3	Não se esqueça de lavar o terno. Estou fora daqui. Tchau
-Text.Visitor.Leave.DTAF.4	Adeus senhor. . Qual é o seu nome mesmo?
+Text.Visitor.Leave.DTAF.4	Adeus senhor... Qual é o seu nome mesmo?
 	
 Text.Name.Chedds.Bond.1	John Connelly
 Text.Name.Chedds.Bond.2	Jorge Lazyboy
@@ -3105,7 +3105,7 @@ Text.Inmates.Showers.santa.16	Você está invadindo meu espaço pessoal
 Text.Inmates.Showers.santa.17	Qualquer condicionador?
 Text.Inmates.Showers.santa.18	Fiz muitos amigos aqui
 Text.Inmates.Showers.santa.19	Bem, isso é romântico
-Text.Inmates.Showers.santa.20	Oh, fique quieto
+Text.Inmates.Showers.santa.20	Oh, fica quieto
 Text.Inmates.Showers.santa.21	Algo errado?
 Text.Inmates.Showers.santa.22	Não vou dormir esta noite agora
 Text.Inmates.Showers.santa.23	Que dia!
@@ -3139,7 +3139,7 @@ Text.Inmates.Gym.santa.17	Eu não devo deixar as coisas ficarem em cima de mim
 Text.Inmates.Gym.santa.18	Isso é uma tortura!
 Text.Inmates.Gym.santa.19	Devo permanecer forte!
 Text.Inmates.Gym.santa.20	Correr na!
-Text.Inmates.Gym.santa.21	Não limpá-lo depois é simplesmente, covarde!
+Text.Inmates.Gym.santa.21	Não o limpar depois é simplesmente, covarde!
 Text.Inmates.Gym.santa.22	Trabalhando os abdominais
 Text.Inmates.Gym.santa.23	Vamos suar
 Text.Inmates.Gym.santa.24	O que você faz no banco?
@@ -3165,7 +3165,7 @@ Text.Inmates.Gym.santa.39	Você está me atrasando
 Text.Inmates.FoodHall.santa.1	NUMCA MAIS tortas de carne moída!
 Text.Inmates.FoodHall.santa.2	Você prefere um pedaço de carvão?
 Text.Inmates.FoodHall.santa.3	Mingau é o presente que continua a dar
-Text.Inmates.FoodHall.santa.4	E, isso é glitter ?!
+Text.Inmates.FoodHall.santa.4	E, isso é glitter?!
 Text.Inmates.FoodHall.santa.5	Posso tomar mais um pouco de leite, por favor?
 Text.Inmates.FoodHall.santa.6	Alguma cenoura sobrando?
 Text.Inmates.FoodHall.santa.7	Rápido, enfie no seu chapéu!
@@ -3198,7 +3198,7 @@ Text.Inmates.FoodHall.santa.33	Isso é horrível
 Text.Inmates.FoodHall.santa.34	Devíamos fazer cones de neve
 Text.Inmates.FoodHall.santa.35	Espero que seja melhor do que nossos brinquedos
 Text.Inmates.FoodHall.santa.36	Urgh! Este leite acabou!
-Text.Inmates.FoodHall.santa.37	Por que o Papai Noel consegue todas as coisas boas ?!
+Text.Inmates.FoodHall.santa.37	Por que o Papai Noel consegue todas as coisas boas?!
 Text.Inmates.FoodHall.santa.38	Desce pela chaminé
 Text.Inmates.FoodHall.santa.39	Você ganha mais um biscoito
 Text.Inmates.FoodHall.santa.40	Isso não vai me ajudar a crescer
@@ -3267,16 +3267,16 @@ Text.Item.WrappingPaper	Papel de presente
 Text.Item.NaughtyLetter	Carta travessa
 Text.Item.NastyLetter	Carta desagradável
 Text.Item.NiceLetter	Bela carta
-Text.Item.SantaLetter	carta
+Text.Item.SantaLetter	Carta
 Text.Item.Chisel	Raspador de madeira
 Text.Item.WoodJoystick	Joystick de madeira
-Text.Object.Furnace	forno
-Text.Object.Shredder	retalhadoras
+Text.Object.Furnace	Forno
+Text.Object.Shredder	Fornalha
 Text.Object.Basket	Cesta
 Text.Object.Sack	Saco de Cartas
 Text.Object.Woodbox	Caixa de madeira
 Text.Item.Furnace	Forno
-Text.Item.Shredder	Retalhadoras
+Text.Item.Shredder	Fornalha
 Text.Item.Basket	cesta
 Text.Item.WoodBlock	Bloco de madeira
 	
@@ -3377,7 +3377,7 @@ Text.DLC.LakeLOL.NameAF	Acampamento Banido
 Text.DLC.LakeLOL.Name	Acampamento Banido
 Text.DLC.LakeLOL.Info	Seu advogado garantiu para você um belo local pitoresco à beira do lago para cumprir sua sentença. Acontece que não é tão legal quanto você imaginava...
 	
-Text.Tutorial.Welcome.LakeLOL	Caro cliente, \n\nO julgamento foi uma farsa, mas como você pode ver, consegui puxar os cordões de última hora com meu bom amigo, o juiz, e enviei você para um acampamento de verão. \n\nComo você gosta do lugar ? \n\nBonito cantinho tranquilo à beira do lago, como você sempre quis, certo? \n\nEles previram um ótimo verão, então aproveite!
+Text.Tutorial.Welcome.LakeLOL	Caro cliente, \n\nO julgamento foi uma farsa, mas como você pode ver, consegui puxar os cordões de última hora com meu bom amigo, o juiz, e enviei você para um acampamento de verão. \n\nComo você gosta do lugar? \n\nBonito cantinho tranquilo à beira do lago, como você sempre quis, certo? \n\nEles previram um ótimo verão, então aproveite!
 	
 Text.Help.Gym.LakeLOL	Para usar o saco de pancadas e aumentar sua FORÇA, calcule o tempo de seus tiros pressionando (LT) e (RT) quando o marcador estiver na zona vermelha da barra de força. Para pular e aumentar sua VELOCIDADE, aumente o momentum alternando entre (LT) e (RT) e mantenha o ritmo para que a barra permaneça dentro dos marcadores de segurança.
 	
@@ -3388,7 +3388,7 @@ Text.Name.LouPole	Diretor lou pole
 	
 Text.DLC.SantaII.Name	Celas de Natal
 Text.DLC.SantaII.Info	Ao escapar da loja do Papai Noel, o trenó despenha-se dentro de outra prisão! Os outros presos não acreditam na sua história e pensam que você é louco. \n\nRepare o trenó e voe para fora de lá!
-Text.Tutorial.Welcome.SantaII	Depois de escapar do Loja do Papai Noel, você perde o controle do trenó no meio do vôo e é forçado a fazer um pouso forçado de emergência. Ironicamente, a aterrissagem aconteceu dentro do terreno da Prisão Jingle Cells! \n\nOs outros presos não acreditam na sua história e pensam que você está louco. Agora você está enfrentando dificuldades com os outros. \n\nSó uma coisa a fazer - consertar o trenó e voar para fora de lá!
+Text.Tutorial.Welcome.SantaII	Depois de escapar do Loja do Papai Noel, você perde o controle do trenó no meio do voo e é forçado a fazer um pouso forçado de emergência. Ironicamente, a aterrissagem aconteceu dentro do terreno da Prisão Jingle Cells! \n\nOs outros presos não acreditam na sua história e pensam que você está louco. Agora você está enfrentando dificuldades com os outros. \n\nSó uma coisa a fazer - consertar o trenó e voar para fora de lá!
 Text.Help.Gym.SantaII	Para usar o saco de pancadas e aumentar sua FORÇA, calcule o tempo de seus tiros pressionando (LT) e (RT) quando o marcador estiver na zona vermelha da barra de força. Para pular e aumentar sua VELOCIDADE, aumente o momentum alternando entre (LT) e (RT) e mantenha o ritmo para que a barra permaneça dentro dos marcadores de segurança.
 	
 Text.Item.BottledWater	Água engarrafada
@@ -3407,7 +3407,7 @@ Text.Item.MakeshiftCompass	Compasso improvisado
 Text.Item.NavigationLighting	Iluminação de navegação
 Text.Item.Needle	Agulha
 Text.Item.RedHerring	Peixe Vermelho.
-Text.Item.ReindeerBowl	Tijela de Rena
+Text.Item.ReindeerBowl	Tigela de Rena
 Text.Item.Thruster	Propulsor
 Text.Item.WorkHat	Capacete
 	
@@ -3435,13 +3435,13 @@ Text.Inmates.Banter.SantaII.10	Essas calças são muito justas!
 Text.Inmates.Banter.SantaII.11	Essa fantasia parece ridícula!
 Text.Inmates.Banter.SantaII.12	Não acredite nas mentiras dele!
 Text.Inmates.Banter.SantaII.13	Ele é gordo demais para um elfo!
-Text.Inmates.Banter.SantaII.14	Quem escaparia da gruta do Papai Noel ?!
+Text.Inmates.Banter.SantaII.14	Quem escaparia da gruta do Papai Noel?!
 Text.Inmates.Banter.SantaII.15	Estou disposto a jogar junto com isso...
 Text.Inmates.Banter.SantaII.16	Acertou em cheio o rapazinho!
 Text.Inmates.Banter.SantaII.17	Tudo o que falamos é sobre esse rapazinho!
 Text.Inmates.Banter.SantaII.18	O rapazinho é hilário!
 Text.Inmates.Banter.SantaII.19	Ele deve pensar que somos tão estúpidos quanto ele!
-Text.Inmates.Banter.SantaII.20	Existe uma pantomima ?!
+Text.Inmates.Banter.SantaII.20	Existe uma pantomima?!
 Text.Inmates.Banter.SantaII.21	...Oh sim? E *eu sou* a fada dos dentes!
 Text.Inmates.Banter.SantaII.22	Castanhas assando em fogo aberto...
 Text.Inmates.Banter.SantaII.23	Jack Frost beliscando seu nariz?
@@ -3454,7 +3454,7 @@ Text.Inmates.Showers.SantaII.4	Eu preciso *finalizar*
 Text.Inmates.Showers.SantaII.5	Melhor. Natal. Sempre!
 Text.Inmates.Showers.SantaII.6	Aqui está o seu presente de Natal!
 Text.Inmates.Showers.SantaII.7	Seja meu presente de natal
-Text.Inmates.Showers.SantaII.8	Sungas Agradaveis!
+Text.Inmates.Showers.SantaII.8	Sungas Agradáveis!
 Text.Inmates.Showers.SantaII.9	Que tipo de *idiota* anda por aí hoje em dia pensando que é um elfo?
 Text.Inmates.Showers.SantaII.10	Uau! O carinha está sério fazendo as malas!
 Text.Inmates.Showers.SantaII.11	Pegue um banquinho e cuide das minhas costas
@@ -3463,7 +3463,7 @@ Text.Inmates.Showers.SantaII.13	O garotinho sofreu uma pequena mudança!
 Text.Inmates.Showers.SantaII.14	Garotinho, grandes planos?
 Text.Inmates.Showers.SantaII.15	Não se afogue naquela poça
 Text.Inmates.Showers.SantaII.16	Não caia no ralo
-Text.Inmates.Showers.SantaII.17	Desça pela minha chaminé esta noite !!!
+Text.Inmates.Showers.SantaII.17	Desça pela minha chaminé esta noite!!!
 	
 Text.Inmates.Gym.SantaII.1	Vá com calma, rapaz!
 Text.Inmates.Gym.SantaII.2	Confira o cara pequeno!
@@ -3505,7 +3505,7 @@ Text.DLC.SantaII.NameAF	Jingle Cells
 	
 Text.DLC.LeTrou.Name	Paris Central Pen
 Text.DLC.LeTrou.Info	Bem, parece que você foi costurado bem e adequadamente desta vez, senhor, hein? Você terá uma surpresa com este...
-Text.Tutorial.Welcome.LeTrou	Prezado cliente, \n\nAs palavras não podem descrever como me sinto mal agora por você. Lamento ter esquecido os arquivos do seu caso e foi um erro honesto pensar que você era o acusado e não o cliente que eu deveria defender. \n\nDe qualquer forma, quando em Paris, como dizem... Bon Voyage !
+Text.Tutorial.Welcome.LeTrou	Prezado cliente, \n\nAs palavras não podem descrever como me sinto mal agora por você. Lamento ter esquecido os arquivos do seu caso e foi um erro honesto pensar que você era o acusado e não o cliente que eu deveria defender. \n\nDe qualquer forma, quando em Paris, como dizem... Bon Voyage!
 Text.Help.GymNew.LeTrou	Usar as bolsas de velocidade e bancos de peso aumentará seus níveis de VELOCIDADE e FORÇA. Ande até o equipamento que deseja usar e toque em (A).
 Text.Help.GymNew.LeTrou.Touch	Usar as bolsas de velocidade e bancos de peso aumentará seus níveis de VELOCIDADE e FORÇA. Caminhe até o equipamento que deseja usar e toque em 'Treinar'.
 Text.Help.GymNew.LeTrou.Controller	Usar as bolsas de velocidade e bancos de peso aumentará seus níveis de VELOCIDADE e FORÇA. Ande até o equipamento que deseja usar e pressione (PAD_A).
@@ -3521,7 +3521,7 @@ Text.Item.ZiplineHook	Gancho para tirolesa
 Text.UI.PlayTutorial	Você gostaria de jogar o nível tutorial primeiro?
 Text.Help.Gym.CallOut	Alternar entre (LT) e (RT)
 	
-Text.AutoSave	Este jogo possui salvamento automatico. Não desligue o console durante a animação deste símbolo.
+Text.AutoSave	Este jogo possui salvamento automático. Não desligue o console durante a animação deste símbolo.
 	
 Text.ControllerDisconnected	Controle desconectado
 Text.NewGame.Warning	Começar um novo jogo substituirá seu progresso atual para esta prisão. Você deseja continuar? 
@@ -3532,7 +3532,7 @@ Text.Tutorial.Welcome.FhurstPeak	Prezado $NAME$, \n\nVocê tem a sorte de estar 
 Text.Help.GymNew.FhurstPeak	Use o banco de pesos e as esteiras para aumentar suas estatísticas de FORÇA e VELOCIDADE. Ande até o equipamento que deseja usar e toque em (A).
 Text.Help.GymNew.FhurstPeak.Touch	Use o banco de pesos e as esteiras para aumentar suas estatísticas de FORÇA e VELOCIDADE. Caminhe até o equipamento que deseja usar e toque em 'Treinar'.
 Text.Help.GymNewFhurstPeak.Controller	Use o banco de pesos e as esteiras para aumentar suas estatísticas de FORÇA e VELOCIDADE. Ande até o equipamento que deseja usar e toque em (PAD_A).
-Text.Help.Gym.FhurstPeak	Usar os sacos de velocidade e bancos de peso aumentará seus níveis de VELOCIDADE e FORÇA! Para usar os speed bags, crie impulso alternando entre (LT) e (RT) e, em seguida, mantenha o ritmo para que a barra permaneça dentro dos marcadores de segurança. Para usar o banco de pesos, alterne entre (LT) e (RT) para bombear o ferro.
+Text.Help.Gym.FhurstPeak	Usar os sacos de velocidade e bancos de peso aumentará seus níveis de VELOCIDADE e FORÇA! Para usar os sacos de velocidade, crie impulso alternando entre (LT) e (RT) e, em seguida, mantenha o ritmo para que a barra permaneça dentro dos marcadores de segurança. Para usar o banco de pesos, alterne entre (LT) e (RT) para bombear o ferro.
 Text.Presence.EscapedPrisonFhurstPeak	Saia e aproveite as vistas REAIS! A fuga está completa! Dia %DAY%
 Text.Presence.InGamePrisonFhurstPeak	Absolutamente amando as vistas panorâmicas, elaborando um plano para escapar do Fhurst Peak, Dia %DAY%
 Text.DLC.FhurstPeak.NameAF	Centro correcional de Fhurst Peak
@@ -3566,4 +3566,4 @@ Text.Names.Cupid	Cupid
 Text.Names.Rudolph	Rudolph
 Text.Names.Blitzen	Blitzen
 	
-End	
+End
