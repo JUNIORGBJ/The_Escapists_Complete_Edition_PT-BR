@@ -1,12 +1,10 @@
-## Port em andamento...100% DLC...10%
-
 <h1 align="center"><figure>
   <img src="the-escapists-complete-edition.png">
 </figure></h1>
 
 ## :small_blue_diamond:Sobre a Tradução.
 
-Tradução jogo base feita pelo grupo TriboGamer e DLC por min.
+Tradução jogo base feita pelo grupo TriboGamer e DLC (mupynho) 
 
 _ "Portado para Nintendo Switch por Traduções GBJ" _
 
@@ -20,7 +18,8 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Instalação
 
-Em breve...
+**SXOS** Basta colocar a pasta ```01001B700BA7C000``` no caminho ```sxos\titles``` para quem usa esse desbloqueio e reiniciar o desbloqueio.
+**ATMOSPHERE** Basta colocar a pasta ```01001B700BA7C000``` no caminho ```Atmosphere\Contents``` para quem usa esse desbloqueio
 
 ## :small_blue_diamond:Ferramentas Ultilizadas
 
